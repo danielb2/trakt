@@ -8,12 +8,13 @@ Gem::Specification.new do |gem|
   gem.version       = Trakt::VERSION
   gem.authors       = ["Daniel Bretoi"]
   gem.email         = ["daniel@bretoi.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{API for trakt.tv service}
+  gem.summary       = %q{API for trakt.tv service}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
+  gem.add_development_dependency "rspec"
 end

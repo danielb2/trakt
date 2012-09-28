@@ -1,5 +1,11 @@
 require "trakt/version"
 
 module Trakt
-  # Your code goes here...
+  def set(what, value)
+    @settings[what] = value
+  end
+  module Search
+    class Movie
+    end
+  end
 end
