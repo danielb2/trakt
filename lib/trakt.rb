@@ -9,6 +9,7 @@ require "trakt/connection"
 require "trakt/account"
 require "trakt/list"
 require "trakt/movie"
+require "trakt/search"
 
 module Trakt
   class Error < RuntimeError

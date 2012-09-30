@@ -7,12 +7,25 @@ describe Trakt do
     Trakt.set :username, details['username']
     Trakt.set :password, details['password']
   end
-  describe Trakt::Movie do
-    it "should find uncle buck" do
-      result = Trakt::Movie.find("uncle buck").first
+  describe Trakt::Search do
+    it "should find movie uncle buck" do
+      result = Trakt::Search.movie("uncle buck").first
       result['title'].should == 'Uncle Buck'
       result['year'].should == 1989
       result['imdb_id'].should == 'tt0098554'
+    end
+    it "should find show cowboy bebop" do
+      result = Trakt::Search.show("cowboy bebop").first
+      result['title'].should == 'Cowboy Bebop'
+      result['year'].should == 1998
+      result['imdb_id'].should == 'tt0213338'
+    end
+    it "should find episode Lisa the Vegetarian" do
+      result = Trakt::Search.episode("lisa the vegetarian").first
+      result['show']['title'].should == 'The Simpsons'
+      result['episode']['title'].should == 'Lisa the Vegetarian'
+      result['show']['year'].should == 1989
+      result['show']['imdb_id'].should == 'tt0096697'
     end
   end
 end
