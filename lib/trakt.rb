@@ -8,6 +8,7 @@ require "uri"
 require "trakt/connection"
 require "trakt/account"
 require "trakt/list"
+require "trakt/movie"
 
 module Trakt
   class Error < RuntimeError
@@ -20,13 +21,5 @@ module Trakt
   end
   def self.settings
     @settings
-  end
-  class Movie
-    extend Connection
-    class << self
-      def find(query)
-        get('/search/movies.json/',clean_query(query))
-      end
-    end
   end
 end
