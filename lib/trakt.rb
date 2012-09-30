@@ -69,7 +69,7 @@ module Trakt
     end
     def parse(result)
       parsed =  JSON.parse result.body
-      if parsed['status'] and parsed['status'] == 'failure'
+      if parsed.kind_of? Hash and parsed['status'] and parsed['status'] == 'failure'
         raise Error.new(parsed['error'])
       end
       return parsed
@@ -82,7 +82,7 @@ module Trakt
         chomp
     end
     def get(path,query)
-      result = connection.get(:path => path)
+      result = connection.get(:path => path + Trakt.settings[:apikey] + '/' + query)
       parse(result)
     end
   end
@@ -102,17 +102,8 @@ module Trakt
   class Movie
     extend Connection
     class << self
-      def search_path
-      "/search/movies.json/" + Trakt.settings[:apikey] + '/'
-      end
       def find(query)
-        begin
-          result = connection.get(:path => search_path + clean_query(query))
-          return JSON.parse result.body
-        rescue
-          puts "Something went amiss with your query: `#{query}` (#{clean_query(query)})"
-          exit;
-        end
+        get('/search/movies.json/',clean_query(query))
       end
     end
   end
