@@ -10,6 +10,7 @@ require "trakt/account"
 require "trakt/list"
 require "trakt/movie"
 require "trakt/search"
+require "trakt/activity"
 
 module Trakt
   class Error < RuntimeError
