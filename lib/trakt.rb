@@ -11,6 +11,7 @@ require "trakt/list"
 require "trakt/movie"
 require "trakt/search"
 require "trakt/activity"
+require "trakt/calendar"
 
 module Trakt
   class Error < RuntimeError
