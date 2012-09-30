@@ -1,6 +1,6 @@
 # Trakt
 
-TODO: Write a gem description
+This is a Ruby API for the http://trakt.tv movie, tvshow service.
 
 ## Installation
 
