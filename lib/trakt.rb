@@ -7,9 +7,13 @@ require "digest"
 require "uri"
 
 module Trakt
+  class Error < RuntimeError
+  end
+end
+module Trakt
   @settings = {}
   def self.set(what, value)
-    @settings[what] = value
+    @settings[what.to_sym] = value
   end
   def self.settings
     @settings
@@ -48,6 +52,37 @@ module Trakt
           'items'    => [data],
       }
       result = self.class.connection.post(:path => "/lists/items/add/" + Trakt.settings[:apikey], :body => body.to_json)
+    end
+  end
+  module Connection
+    def connection
+      @connection ||= Excon.new("http://api.trakt.tv");
+    end
+    def require_settings(required)
+      required.each do |setting|
+        raise "Required setting #{setting} is missing." unless Trakt.settings[setting.to_sym]
+      end
+    end
+    def post(path,body)
+      result = connection.post(:path => path + Trakt.settings[:apikey], :body => body.to_json)
+      parsed =  JSON.parse result.body
+      if parsed['status'] and parsed['status'] == 'failure'
+        raise Error.new(parsed['error'])
+      end
+      return parsed
+    end
+  end
+  class Account
+    extend Connection
+    class << self
+      def settings
+        require_settings %w|username password apikey|
+        body = {
+          'username' => Trakt.settings[:username],
+          'password' => Trakt.settings[:password],
+        }
+        post 'account/settings/', body
+      end
     end
   end
   class Movie
