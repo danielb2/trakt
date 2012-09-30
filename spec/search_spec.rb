@@ -9,13 +9,13 @@ describe Trakt do
   end
   describe Trakt::Search do
     it "should find movie uncle buck" do
-      result = Trakt::Search.movie("uncle buck").first
+      result = Trakt::Search.movies("uncle buck").first
       result['title'].should == 'Uncle Buck'
       result['year'].should == 1989
       result['imdb_id'].should == 'tt0098554'
     end
     it "should find show cowboy bebop" do
-      result = Trakt::Search.show("cowboy bebop").first
+      result = Trakt::Search.shows("cowboy bebop").first
       result['title'].should == 'Cowboy Bebop'
       result['year'].should == 1998
       result['imdb_id'].should == 'tt0213338'

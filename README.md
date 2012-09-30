@@ -20,12 +20,20 @@ Or install it yourself as:
 
 All calls return an JSON structure.
 
-require 'trakt'
-Trakt.set :apikey, 'your_api_key'
-Trakt.set :username, 'your_username'
-Trakt.set :password, 'your_password'
-p Trakt::Account.settings
+This is a typical default setup
+    require 'trakt'
+    Trakt.set :apikey, 'your_api_key'
+    Trakt.set :username, 'your_username'
+    Trakt.set :password, 'your_password'
 
+### settings
+
+    Trakt::Account.settings
+
+### searching
+
+    Trakt::Account.movies "the shawshank redemption"
+    Trakt::Account.shows "death note"
 
 ## Contributing
 

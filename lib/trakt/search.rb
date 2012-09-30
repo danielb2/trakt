@@ -2,10 +2,10 @@ module Trakt
   class Search
     extend Connection
     class << self
-      def movie(query)
+      def movies(query)
         get('/search/movies.json/',clean_query(query))
       end
-      def show(query)
+      def shows(query)
         get('/search/shows.json/',clean_query(query))
       end
       def episode(query)
