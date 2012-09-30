@@ -12,5 +12,9 @@ describe Trakt do
       result = Trakt::Account.settings
       result['message'].should == "All settings for #{Trakt.settings[:username]}"
     end
+    it "should preform an account test" do
+      result = Trakt::Account.test
+      result['message'].should == "all good!"
+    end
   end
 end
