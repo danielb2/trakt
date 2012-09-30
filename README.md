@@ -21,10 +21,12 @@ Or install it yourself as:
 All calls return an JSON structure.
 
 This is a typical default setup
+
     require 'trakt'
     Trakt.set :apikey, 'your_api_key'
     Trakt.set :username, 'your_username'
     Trakt.set :password, 'your_password'
+
 
 ### settings
 
