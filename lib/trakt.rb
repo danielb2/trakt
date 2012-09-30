@@ -65,11 +65,25 @@ module Trakt
     end
     def post(path,body)
       result = connection.post(:path => path + Trakt.settings[:apikey], :body => body.to_json)
+      parse(result)
+    end
+    def parse(result)
       parsed =  JSON.parse result.body
       if parsed['status'] and parsed['status'] == 'failure'
         raise Error.new(parsed['error'])
       end
       return parsed
+    end
+    def clean_query(query)
+      query.gsub(/[()]/,'').
+        gsub(' ','+').
+        gsub('&','and').
+        gsub('!','').
+        chomp
+    end
+    def get(path,query)
+      result = connection.get(:path => path)
+      parse(result)
     end
   end
   class Account
@@ -86,22 +100,12 @@ module Trakt
     end
   end
   class Movie
+    extend Connection
     class << self
-      def connection
-        @connection ||= Excon.new("http://api.trakt.tv");
-      end
       def search_path
       "/search/movies.json/" + Trakt.settings[:apikey] + '/'
       end
-      def clean_query(query)
-        query.gsub(/[()]/,'').
-        gsub(' ','+').
-        gsub('&','and').
-        gsub('!','').
-        chomp
-      end
       def find(query)
-        puts "Searching for: #{query}"
         begin
           result = connection.get(:path => search_path + clean_query(query))
           return JSON.parse result.body
