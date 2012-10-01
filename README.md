@@ -37,6 +37,18 @@ This is a typical default setup
     Trakt::Account.movies "the shawshank redemption"
     Trakt::Account.shows "death note"
 
+### managing shows
+
+Example making all episodes of season 4 of winnie the pooh unseen. (You can use
+Trakt::Search.shows("the new adventures of winnie the pooh").first to get the
+imdb_id)
+
+    episodes = []
+    1.upto(11) { |n|
+      episodes << { "season" =>  4, "episode" => n }
+    }
+    Trakt::Show.episode_unseen("imdb_id" => "tt0165052", episodes: episodes)
+
 ## Contributing
 
 1. Fork it
