@@ -37,7 +37,25 @@ This is a typical default setup
     Trakt::Search.movies "the shawshank redemption"
     Trakt::Search.shows "death note"
 
-=== Managing shows
+== Examples
+
+=== Adding all your seen movies from a text file.
+
+Adding movies from a text file is a bit hit and miss, so it's best if you
+create a list to add the movies to.  You'll have to make a list manually in
+advance since creation isn't supported yet. The list takes a rather odd name.
+The one in the exaple here was created as "From my file".
+
+    list = Trakt::List.new('from-my-file');
+    IO.readlines(ENV['HOME']+"/misc/movies.txt").each do |movie|
+      result = Trakt::Movie.find(movie)
+      next unless result
+      movie = result.first
+      next unless movie
+      list.add_item(type: :movie, imdb_id: movie['imdb_id'])
+    end
+
+=== Marking shows unseen
 
 Example making all episodes of season 4 of winnie the pooh unseen. (You can use
 Trakt::Search.shows("the new adventures of winnie the pooh").first to get the
