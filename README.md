@@ -34,8 +34,8 @@ This is a typical default setup
 
 ### searching
 
-    Trakt::Account.movies "the shawshank redemption"
-    Trakt::Account.shows "death note"
+    Trakt::Search.movies "the shawshank redemption"
+    Trakt::Search.shows "death note"
 
 ### managing shows
 
