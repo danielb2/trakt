@@ -48,7 +48,7 @@ The one in the exaple here was created as "From my file".
 
     list = Trakt::List.new('from-my-file');
     IO.readlines(ENV['HOME']+"/misc/movies.txt").each do |movie|
-      result = Trakt::Movie.find(movie)
+      result = Trakt::Search.movies(movie)
       next unless result
       movie = result.first
       next unless movie
