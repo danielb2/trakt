@@ -3,6 +3,7 @@ module Trakt
     extend Connection
     class << self
       def episode_unseen(data)
+        require_settings %w|username password apikey|
         body = {
           'username' => Trakt.settings[:username],
           'password' => Trakt.settings[:password],

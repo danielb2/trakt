@@ -19,10 +19,17 @@ module Trakt
   end
 end
 module Trakt
+  
   @settings = {}
+  # setting various settings that are often a must-have. example:
+  #
+  #     Trakt.set :apikey, 'your_api_key'
+  #     Trakt.set :username, 'your_username'
+  #     Trakt.set :password, 'your_password'
   def self.set(what, value)
     @settings[what.to_sym] = value
   end
+
   def self.settings
     @settings
   end
