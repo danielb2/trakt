@@ -9,6 +9,11 @@ module Trakt
       end
     end
     def post(path,body)
+      # all posts have username/password
+      body.update! {
+          'username' => Trakt.settings[:username],
+          'password' => Trakt.settings[:password],
+      }
       result = connection.post(:path => path + Trakt.settings[:apikey], :body => body.to_json)
       parse(result)
     end
