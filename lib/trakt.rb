@@ -13,6 +13,7 @@ require "trakt/search"
 require "trakt/activity"
 require "trakt/calendar"
 require "trakt/show"
+require "trakt/friends"
 
 module Trakt
   class Error < RuntimeError
