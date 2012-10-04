@@ -13,7 +13,10 @@ module Trakt
       return self
     end
     def add_item(data)
-      result = post("lists/items/add/", 'slug' => slug, 'items' => [data])
+      add_items([data])
+    end
+    def add_items(data)
+      post("lists/items/add/", 'slug' => slug, 'items' => data)
     end
     def delete
       post "lists/delete/", 'slug' => slug
