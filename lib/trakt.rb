@@ -14,24 +14,34 @@ require "trakt/activity"
 require "trakt/calendar"
 require "trakt/show"
 require "trakt/friends"
+require "trakt/movies"
 
 module Trakt
   class Error < RuntimeError
   end
 end
 module Trakt
-  
-  @settings = {}
-  # setting various settings that are often a must-have. example:
-  #
-  #     Trakt.set :apikey, 'your_api_key'
-  #     Trakt.set :username, 'your_username'
-  #     Trakt.set :password, 'your_password'
-  def self.set(what, value)
-    @settings[what.to_sym] = value
+  def self.new(*a)
+    Trakt.new(*a)
   end
-
-  def self.settings
-    @settings
+  class Trakt
+    attr_accessor :username, :password, :apikey
+    def initialize(args={})
+      @username = args[:username]
+      @password = args[:password]
+      @apikey = args[:apikey]
+    end
+    def account
+      @account ||= Account.new self
+    end
+    def calendar
+      @calendar ||= Calendar.new self
+    end
+    def friends
+      @calendar ||= Calendar.new self
+    end
+    def search
+      @search ||= Search.new self
+    end
   end
 end

@@ -1,20 +1,24 @@
 module Trakt
   module Connection
+    attr_reader :trakt
+    def initialize(trakt)
+      @trakt = trakt
+    end
     def connection
       @connection ||= Excon.new("http://api.trakt.tv");
     end
     def require_settings(required)
       required.each do |setting|
-        raise "Required setting #{setting} is missing." unless Trakt.settings[setting.to_sym]
+        raise "Required setting #{setting} is missing." unless trakt.send(setting)
       end
     end
     def post(path,body={})
       # all posts have username/password
       body.merge!({
-          'username' => Trakt.settings[:username],
-          'password' => Trakt.settings[:password],
+          'username' => trakt.username,
+          'password' => trakt.password,
       })
-      result = connection.post(:path => path + Trakt.settings[:apikey], :body => body.to_json)
+      result = connection.post(:path => path + trakt.apikey, :body => body.to_json)
       parse(result)
     end
     def parse(result)
@@ -32,7 +36,7 @@ module Trakt
         chomp
     end
     def get(path,query)
-      result = connection.get(:path => path + Trakt.settings[:apikey] + '/' + query)
+      result = connection.get(:path => path + trakt.apikey + '/' + query)
       parse(result)
     end
   end

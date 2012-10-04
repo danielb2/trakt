@@ -1,16 +1,17 @@
 require File.dirname(__FILE__) + '/spec_helper'
 
 describe Trakt do
-  before do
-    details = get_account_details
-    Trakt.set :apikey, details['apikey']
-    Trakt.set :username, details['username']
-    Trakt.set :password, details['password']
-  end
-  describe Trakt::Account do
+  describe Trakt::Friends do
+    let(:trakt) do
+      details = get_account_details
+      trakt          = Trakt.new :apikey => details['apikey'],
+        :username => details['username'],
+        :password => details['password']
+      trakt
+    end
     it "add username" do
       pending
-      result = Trakt::Friends.add 'snowfall'
+      result = trakt.friends.add 'snowfall'
       result['message'].should == "snowfall added, pending their approval"
     end
   end
