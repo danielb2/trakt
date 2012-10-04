@@ -8,12 +8,12 @@ module Trakt
         raise "Required setting #{setting} is missing." unless Trakt.settings[setting.to_sym]
       end
     end
-    def post(path,body)
+    def post(path,body={})
       # all posts have username/password
-      body.update! {
+      body.merge!({
           'username' => Trakt.settings[:username],
           'password' => Trakt.settings[:password],
-      }
+      })
       result = connection.post(:path => path + Trakt.settings[:apikey], :body => body.to_json)
       parse(result)
     end

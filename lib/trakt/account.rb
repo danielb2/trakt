@@ -4,19 +4,11 @@ module Trakt
     class << self
       def settings
         require_settings %w|username password apikey|
-        body = {
-          'username' => Trakt.settings[:username],
-          'password' => Trakt.settings[:password],
-        }
-        post 'account/settings/', body
+        post 'account/settings/'
       end
       def test
         require_settings %w|username password apikey|
-        body = {
-          'username' => Trakt.settings[:username],
-          'password' => Trakt.settings[:password],
-        }
-        post 'account/test/', body
+        post 'account/test/'
       end
     end
   end
