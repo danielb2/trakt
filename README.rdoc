@@ -23,19 +23,20 @@ All calls return an JSON structure.
 This is a typical default setup
 
     require 'trakt'
-    Trakt.set :apikey, 'your_api_key'
-    Trakt.set :username, 'your_username'
-    Trakt.set :password, 'your_password'
+    trakt = Trakt.new
+    trakt.apikey = 'your_api_key'
+    trakt.username = 'your_username'
+    trakt.password = 'your_password'
 
 
 === Settings
 
-    Trakt::Account.settings
+    trakt.account.settings
 
 === Searching
 
-    Trakt::Search.movies "the shawshank redemption"
-    Trakt::Search.shows "death note"
+    trakt.search.movies "the shawshank redemption"
+    trakt.search.shows "death note"
 
 == Examples
 
@@ -46,9 +47,9 @@ create a list to add the movies to.  You'll have to make a list manually in
 advance since creation isn't supported yet. The list takes a rather odd name.
 The one in the exaple here was created as "From my file".
 
-    list = Trakt::List.new('from-my-file');
+    list = trakt.list.add('from-my-file');
     IO.readlines(ENV['HOME']+"/misc/movies.txt").each do |movie|
-      result = Trakt::Search.movies(movie)
+      result = trakt.search.movies(movie)
       next unless result
       movie = result.first
       next unless movie

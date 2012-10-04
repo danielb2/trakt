@@ -43,5 +43,8 @@ module Trakt
     def search
       @search ||= Search.new self
     end
+    def list
+      @list ||= List.new self
+    end
   end
 end
