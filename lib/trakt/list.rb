@@ -18,6 +18,12 @@ module Trakt
     def add_items(data)
       post("lists/items/add/", 'slug' => slug, 'items' => data)
     end
+    def delete_item(data)
+      delete_items([data])
+    end
+    def delete_items(data)
+      post("lists/items/delete/", 'slug' => slug, 'items' => data)
+    end
     def delete
       post "lists/delete/", 'slug' => slug
     end
