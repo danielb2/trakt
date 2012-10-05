@@ -15,6 +15,7 @@ describe Trakt do
     end
     it "should add a list" do
       list = trakt.list.add("test-list")
+      list.add_info['status'].should == 'success'
       lambda { trakt.list.add("test-list") }.should raise_error("a list already exists with this name")
     end
     it "should get a list" do
@@ -52,6 +53,13 @@ describe Trakt do
       result = list.delete_items [{:type => :movie, :imdb_id => 'tt0098554'}, {:type => :movie, :imdb_id => 'tt0111161'}]
       result['status'].should == 'success'
       result['message'].should == '2 items deleted'
+    end
+    it "should update list" do
+      list = trakt.list.add("test-list", 'show_numbers' => true)
+      list.add_info['show_numbers'].should == true
+      result = list.update('show_numbers' => false)
+      result['status'].should == 'success'
+      result['show_numbers'].should == false
     end
   end
 end
