@@ -1,10 +1,8 @@
 require "trakt/version"
 require 'awesome_print'
-require 'open-uri'
 require "json"
 require "excon"
 require "digest"
-require "uri"
 require "trakt/connection"
 require "trakt/account"
 require "trakt/list"
