@@ -18,6 +18,7 @@ module Trakt
           'username' => trakt.username,
           'password' => trakt.password,
       })
+      path << '/' unless path[-1] == '/'
       result = connection.post(:path => path + trakt.apikey, :body => body.to_json)
       parse(result)
     end
@@ -39,5 +40,11 @@ module Trakt
       result = connection.get(:path => path + trakt.apikey + '/' + query)
       parse(result)
     end
+    def get_with_args(path,*args)
+      require_settings %w|apikey|
+      arg_path = *args.compact.map { |t| t.to_s}
+      get(path, File.join(arg_path))
+    end
+    private :get_with_args, :get, :post, :parse, :clean_query, :require, :connection
   end
 end

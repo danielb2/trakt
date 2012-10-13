@@ -44,5 +44,8 @@ module Trakt
     def list
       @list ||= List.new self
     end
+    def movie
+      @movie ||= Movie.new self
+    end
   end
 end
