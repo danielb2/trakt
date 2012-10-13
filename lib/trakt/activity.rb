@@ -2,7 +2,7 @@ module Trakt
   # Refer to the api doc on what parameters these functions take. http://trakt.tv/api-docs/get_with_args-community
   # For eaxmple, the current description for community reads:
   #
-  #     http://api.trakt.tv/get_with_args/community.format/apikey/types/actions/start_ts/end_ts
+  #     http://api.trakt.tv/activity/community.format/apikey/types/actions/start_ts/end_ts
   #
   # So you just do: <tt>Trakt::get_with_args.community(<types>,<actions>,<start_ts>,<end_ts>)</tt>
   class Activity
