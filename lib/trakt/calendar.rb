@@ -1,17 +1,11 @@
 module Trakt
   class Calendar
     include Connection
-    def calendar(path,*args)
-      require_settings %w|apikey|
-      arg_path = *args.compact.map { |t| t.to_s}
-      get(path, File.join(arg_path))
-    end
-    private :calendar
     def premieres(*args)
-      calendar('/calendar/premieres.json/', *args)
+      get_with_args('/calendar/premieres.json/', *args)
     end
     def shows(*args)
-      calendar('/calendar/shows.json/', *args)
+      get_with_args('/calendar/shows.json/', *args)
     end
   end
 end

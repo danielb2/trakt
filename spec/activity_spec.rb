@@ -11,9 +11,8 @@ describe Trakt do
     end
     context "community" do
       it "should get community activity" do
-        pending "dont know how to test this now"
         result = trakt.activity.community("movie","watching")
-        ap result
+        result.status.should == 200
       end
     end
   end

@@ -47,5 +47,8 @@ module Trakt
     def movie
       @movie ||= Movie.new self
     end
+    def activity
+      @activity ||= Activity.new self
+    end
   end
 end
