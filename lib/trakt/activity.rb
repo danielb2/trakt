@@ -4,7 +4,7 @@ module Trakt
   #
   #     http://api.trakt.tv/activity/community.format/apikey/types/actions/start_ts/end_ts
   #
-  # So you just do: <tt>Trakt::get_with_args.community(<types>,<actions>,<start_ts>,<end_ts>)</tt>
+  # So you just do: <tt>trakt.activity.community(<types>,<actions>,<start_ts>,<end_ts>)</tt>
   class Activity
     include Connection
     def community(*args)
