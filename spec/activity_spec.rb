@@ -11,8 +11,8 @@ describe Trakt do
     end
     context "community" do
       it "should get community activity" do
-        result = trakt.activity.community("movie","watching")
-        result.status.should == 200
+        result = trakt.activity.community("movie","watching", (Time.now - 300).to_i)
+        result['activity'].count.should > 0
       end
     end
   end
