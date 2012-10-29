@@ -37,7 +37,9 @@ module Trakt
         chomp
     end
     def get(path,query)
-      result = connection.get(:path => path + trakt.apikey + '/' + query)
+      full_path = File.join(path,trakt.apikey, query);
+      full_path.gsub!(%r{/*$},'')
+      result = connection.get(:path => full_path)
       parse(result)
     end
     def get_with_args(path,*args)

@@ -13,6 +13,7 @@ require "trakt/calendar"
 require "trakt/show"
 require "trakt/friends"
 require "trakt/movies"
+require "trakt/genres"
 
 module Trakt
   class Error < RuntimeError
@@ -49,6 +50,9 @@ module Trakt
     end
     def activity
       @activity ||= Activity.new self
+    end
+    def genres
+      @genres ||= Genres.new self
     end
   end
 end
