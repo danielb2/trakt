@@ -19,10 +19,10 @@ module Trakt
     def add_items(data)
       post("lists/items/add/", 'slug' => slug, 'items' => data)
     end
-    def delete_item(data)
-      delete_items([data])
+    def item_delete(data)
+      items_delete([data])
     end
-    def delete_items(data)
+    def items_delete(data)
       post("lists/items/delete/", 'slug' => slug, 'items' => data)
     end
     def delete

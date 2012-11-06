@@ -54,5 +54,8 @@ module Trakt
     def genres
       @genres ||= Genres.new self
     end
+    def show
+      @show ||= Show.new self
+    end
   end
 end

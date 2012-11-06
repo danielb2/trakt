@@ -43,14 +43,14 @@ describe Trakt do
     it "should delete an item" do
       list = trakt.list.add("test-list")
       list.add_items [{:type => :movie, :imdb_id => 'tt0098554'}, {:type => :movie, :imdb_id => 'tt0111161'}]
-      result = list.delete_item :type => :movie, :imdb_id => 'tt0098554'
+      result = list.item_delete :type => :movie, :imdb_id => 'tt0098554'
       result['status'].should == 'success'
       result['message'].should == '1 items deleted'
     end
     it "should delete items" do
       list = trakt.list.add("test-list")
       list.add_items [{:type => :movie, :imdb_id => 'tt0098554'}, {:type => :movie, :imdb_id => 'tt0111161'}]
-      result = list.delete_items [{:type => :movie, :imdb_id => 'tt0098554'}, {:type => :movie, :imdb_id => 'tt0111161'}]
+      result = list.items_delete [{:type => :movie, :imdb_id => 'tt0098554'}, {:type => :movie, :imdb_id => 'tt0111161'}]
       result['status'].should == 'success'
       result['message'].should == '2 items deleted'
     end
