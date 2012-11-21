@@ -10,13 +10,13 @@ describe Trakt do
       trakt
     end
     it "should get account info" do
-      result = record(example) do
+      result = record(self) do
         trakt.account.settings
       end
       result['message'].should == "All settings for #{trakt.username}"
     end
     it "should preform an account test" do
-      result = record(example) do
+      result = record(self) do
         trakt.account.test
       end
       result['message'].should == "all good!"

@@ -16,8 +16,8 @@ VCR.configure do |c|
   c.hook_into :excon
 end
 
-def record(example,&block)
-  VCR.use_cassette(example.description) do
+def record(spec,&block)
+  VCR.use_cassette(spec.example.description) do
     return yield
   end
 end

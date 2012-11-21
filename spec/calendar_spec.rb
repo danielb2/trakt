@@ -11,7 +11,7 @@ describe Trakt do
     end
     context "premieres" do
       it "should get premieres" do
-        result = record(example) do
+        result = record(self) do
           trakt.calendar.premieres(20110421, 1)
         end
         result.first['episodes'].first['show']['title'].should == "24 Hour Restaurant Battle"
@@ -19,7 +19,7 @@ describe Trakt do
     end
     context "shows" do
       it "should get shows" do
-        result = record(example) do
+        result = record(self) do
           trakt.calendar.shows(20110416, 1)
         end
         result.first['episodes'].first['show']['title'].should == "Gosick"
