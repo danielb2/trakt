@@ -11,13 +11,17 @@ describe Trakt do
     end
     context "premieres" do
       it "should get premieres" do
-        result = trakt.calendar.premieres(20110421, 1)
+        result = record(example) do
+          trakt.calendar.premieres(20110421, 1)
+        end
         result.first['episodes'].first['show']['title'].should == "24 Hour Restaurant Battle"
       end
     end
     context "shows" do
       it "should get shows" do
-        result = trakt.calendar.shows(20110416, 1)
+        result = record(example) do
+          trakt.calendar.shows(20110416, 1)
+        end
         result.first['episodes'].first['show']['title'].should == "Gosick"
       end
     end
