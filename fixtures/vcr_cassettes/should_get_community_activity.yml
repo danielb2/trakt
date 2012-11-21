@@ -1,0 +1,590 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/activity/community.json/98b4ad78733f4aad798fdc2dece67085/movie/watching/1353470387
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDowNDozNSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '{"timestamps":{"start":1353470387,"end":1353470675,"current":1353470675},"activity":[{"timestamp":1353470674,"when":{"day":"Tue","time":"8:04
+        pm"},"elapsed":{"full":"1 second","short":"1s"},"type":"movie","action":"watching","user":{"username":"Michymak","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/04044237f5dc51e50a9eefe619a9ee9f.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Michymak"},"movie":{"title":"50
+        First Dates","year":2004,"released":1076659200,"url":"http://trakt.tv/movie/50-first-dates-2004","trailer":"http://youtube.com/watch?v=ErjP5xMTc8I","runtime":99,"tagline":"Imagine
+        having to win over the girl of your dreams... every friggin'' day.","overview":"Henry
+        is a player skilled at seducing women. But when this veterinarian meets Lucy,
+        a girl with a quirky problem when it comes to total recall, he realizes it''s
+        possible to fall in love all over again \u2026 and again, and again. That''s
+        because the delightful Lucy has no short-term memory, so Henry must woo her
+        day after day until he finally sweeps her off her feet.","certification":"PG-13","imdb_id":"tt0343660","tmdb_id":"1824","images":{"poster":"http://trakt.us/images/posters_movies/839.jpg","fanart":"http://trakt.us/images/fanart_movies/839.jpg"},"ratings":{"percentage":79,"votes":570,"loved":489,"hated":81},"genres":["Comedy","Romance"]}},{"timestamp":1353470668,"when":{"day":"Tue","time":"8:04
+        pm"},"elapsed":{"full":"7 seconds","short":"7s"},"type":"movie","action":"watching","user":{"username":"howlingmad","protected":false,"full_name":"Howling
+        Mad Murdoch","gender":"male","age":"","location":"UK","about":"","avatar":"http://trakt.us/images/avatars/67887.2.jpg","url":"http://trakt.tv/user/howlingmad"},"movie":{"title":"Ted","year":2012,"released":1340953200,"url":"http://trakt.tv/movie/ted-2012","trailer":"http://youtube.com/watch?v=9fbo_pQvU7M","runtime":106,"tagline":"A
+        story centered on a man and his teddy bear, who comes to life as the result
+        of a childhood wish.","overview":"Family Guy creator Seth MacFarlane brings
+        his boundary-pushing brand of humor to the big screen for the first time as
+        writer, director and voice star of Ted. In the live action/CG-animated comedy,
+        he tells the story of John Bennett, a grown man who must deal with the cherished
+        teddy bear who came to life as the result of a childhood wish, and has refused
+        to leave his side ever since.","certification":"R","imdb_id":"tt1637725","tmdb_id":"72105","images":{"poster":"http://trakt.us/images/posters_movies/180758.1.jpg","fanart":"http://trakt.us/images/fanart_movies/180758.1.jpg"},"ratings":{"percentage":80,"votes":710,"loved":638,"hated":72},"genres":["Comedy","Fantasy"]}},{"timestamp":1353470666,"when":{"day":"Tue","time":"8:04
+        pm"},"elapsed":{"full":"9 seconds","short":"9s"},"type":"movie","action":"watching","user":{"username":"archerne","protected":false,"full_name":"Brandon","gender":"male","age":23,"location":"Lincoln,
+        NE","about":"","avatar":"http://gravatar.com/avatar/a76911745d8419288bc1bd7b6b07d2fc.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/archerne"},"movie":{"title":"Blue
+        Crush","year":2002,"released":1028790000,"url":"http://trakt.tv/movie/blue-crush-2002","trailer":"http://youtube.com/watch?v=ljN7SEEwhmM","runtime":104,"tagline":"Three
+        Friends, One Passion, No Limits.","overview":"Nothing gets between Anne Marie
+        and her board. Living in a beach shack with three roommates, she is up before
+        dawn every morning to conquer the waves and count the days until the Pipe
+        Masters competition. Having transplanted herself to Hawaii with no one''s
+        blessing but her own, Anne Marie finds all she needs in the adrenaline-charged
+        surf scene - until pro quarterback Matt Tollman comes along...","certification":"PG-13","imdb_id":"tt0300532","tmdb_id":"9266","images":{"poster":"http://trakt.us/images/posters_movies/9456.jpg","fanart":"http://trakt.us/images/fanart_movies/9456.jpg"},"ratings":{"percentage":64,"votes":35,"loved":25,"hated":10},"genres":["Drama","Romance","Sport"]}},{"timestamp":1353470666,"when":{"day":"Tue","time":"8:04
+        pm"},"elapsed":{"full":"9 seconds","short":"9s"},"type":"movie","action":"watching","user":{"username":"thehalfman","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/42643677a7d0460eb9c4cdaeca910376.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/thehalfman"},"movie":{"title":"No
+        Country for Old Men","year":2007,"released":1194595200,"url":"http://trakt.tv/movie/no-country-for-old-men-2007","trailer":"http://youtube.com/watch?v=qnwNuG1ayno","runtime":122,"tagline":"There
+        are no clean getaways.","overview":"Llewelyn Moss stumbles upon dead bodies,
+        $2 million and a hoard of heroin in a Texas desert, but methodical killer
+        Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on
+        his trail. The roles of prey and predator blur as the violent pursuit of money
+        and justice collide.","certification":"R","imdb_id":"tt0477348","tmdb_id":"6977","images":{"poster":"http://trakt.us/images/posters_movies/483.1.jpg","fanart":"http://trakt.us/images/fanart_movies/483.1.jpg"},"ratings":{"percentage":86,"votes":659,"loved":587,"hated":72},"genres":["Crime","Drama","Suspense","Thriller"]}},{"timestamp":1353470666,"when":{"day":"Tue","time":"8:04
+        pm"},"elapsed":{"full":"9 seconds","short":"9s"},"type":"movie","action":"watching","user":{"username":"motolljo","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/2aa5a59d298e062de9612d703cfeda1d.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/motolljo"},"movie":{"title":"Monsters,
+        Inc.","year":2001,"released":1004688000,"url":"http://trakt.tv/movie/monsters-inc-2001","trailer":"http://youtube.com/watch?v=cvOQeozL4S0","runtime":92,"tagline":"We
+        Scare Because We Care.","overview":"James Sullivan and Mike Wazowski are monsters,
+        they earn their living scaring children and are the best in the business...
+        even though they''re more afraid of the children than they are of them. When
+        a child accidentally enters their world, James and Mike suddenly find that
+        kids are not to be afraid of and they uncover a conspiracy that could threaten
+        all children across the world.","certification":"G","imdb_id":"tt0198781","tmdb_id":"585","images":{"poster":"http://trakt.us/images/posters_movies/1322.1.jpg","fanart":"http://trakt.us/images/fanart_movies/1322.1.jpg"},"ratings":{"percentage":91,"votes":1746,"loved":1693,"hated":53},"genres":["Animation","Family","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470665,"when":{"day":"Tue","time":"8:04 pm"},"elapsed":{"full":"10
+        seconds","short":"10s"},"type":"movie","action":"watching","user":{"username":"sp1ti","protected":false,"full_name":"","gender":"male","age":24,"location":"Z\u00fcrich
+        / Switzerland","about":"","avatar":"http://trakt.us/images/avatars/17500.1.jpg","url":"http://trakt.tv/user/sp1ti"},"movie":{"title":"The
+        Funeral","year":1984,"released":469526400,"url":"http://trakt.tv/movie/the-funeral-1984","trailer":"","runtime":124,"tagline":"","overview":"At
+        the beginning of the film the father-in-law of the protagonist dies unexpectedly
+        of a heart attack. The remainder of the film is episodic, moving from one
+        incident to another over the course of the three-day funeral, which is held
+        (as is customary) in the home. These incidents contrast old ways and new ways,
+        young and old, ritual ceremony and true feelings, often comically, but sometimes
+        with real poignancy.","certification":"","imdb_id":"tt0089746","tmdb_id":"42095","images":{"poster":"http://trakt.us/images/posters_movies/165922.jpg","fanart":"http://trakt.us/images/fanart_movies/165922.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy"]}},{"timestamp":1353470653,"when":{"day":"Tue","time":"8:04
+        pm"},"elapsed":{"full":"22 seconds","short":"22s"},"type":"movie","action":"watching","user":{"username":"jhernandez86","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/5238e8693d027f94c6ea9cc3432474dd.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/jhernandez86"},"movie":{"title":"Mirror
+        Mirror","year":2012,"released":1333609200,"url":"http://trakt.tv/movie/mirror-mirror-2012","trailer":"http://youtube.com/watch?v=j3hFD9xqTCU","runtime":106,"tagline":"The
+        Snow White legend comes alive.","overview":"After she spends all her money,
+        an evil enchantress queen (Julia Roberts) schemes to marry a handsome, wealthy
+        prince (Arnie Hammer). There''s just one problem - he''s in love with a beautiful
+        princess, Snow White (Lily Collins). Now, joined by seven rebellious dwarves,
+        Snow White launches an epic battle of good vs. evil...","certification":"PG","imdb_id":"tt1667353","tmdb_id":"62764","images":{"poster":"http://trakt.us/images/posters_movies/184096.1.jpg","fanart":"http://trakt.us/images/fanart_movies/184096.1.jpg"},"ratings":{"percentage":64,"votes":206,"loved":138,"hated":68},"genres":["Adventure","Comedy","Drama","Family","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470647,"when":{"day":"Tue","time":"8:04 pm"},"elapsed":{"full":"28
+        seconds","short":"28s"},"type":"movie","action":"watching","user":{"username":"zenwryly","protected":false,"full_name":"Alex
+        Patterson","gender":"male","age":36,"location":"San Francisco, CA, USA","about":"","avatar":"http://gravatar.com/avatar/7e841562d4810b58561a8608af8d50f2.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/zenwryly"},"movie":{"title":"WALL\u00b7E","year":2008,"released":1214550000,"url":"http://trakt.tv/movie/walle-2008","trailer":"http://youtube.com/watch?v=8-_9n5DtKOc","runtime":98,"tagline":"An
+        adventure beyond the ordinar-E.","overview":"WALL-E is the last robot left
+        on an Earth that has been overrun with garbage and all humans have fled to
+        outer space. For 700 years he has continued to try and clean up the mess,
+        but has developed some rather interesting human-like qualities. When a ship
+        arrives with a sleek new type of robot, Wall-E thinks he''s finally found
+        a friend and stows away on the ship when it leaves.","certification":"G","imdb_id":"tt0910970","tmdb_id":"10681","images":{"poster":"http://trakt.us/images/posters_movies/465.jpg","fanart":"http://trakt.us/images/fanart_movies/465.jpg"},"ratings":{"percentage":92,"votes":2488,"loved":2380,"hated":108},"genres":["Adventure","Animation","Family"]}},{"timestamp":1353470636,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"39 seconds","short":"39s"},"type":"movie","action":"watching","user":{"username":"masterhana","protected":false,"full_name":"Carla","gender":"female","age":"","location":"Illinois","about":"","avatar":"http://gravatar.com/avatar/217459f66fc076053149b1d62cdb6305.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/masterhana"},"movie":{"title":"ParaNorman","year":2012,"released":1345186800,"url":"http://trakt.tv/movie/paranorman-2012","trailer":"http://youtube.com/watch?v=hgwSpajMw3s","runtime":90,"tagline":"It''s
+        all fun and games until someone raises the dead.","overview":"In the town
+        of Blithe Hollow, Norman Babcock is a boy who can speak to the dead, but no
+        one besides his eccentric new friend, Neil, believes his ability is real.
+        One day, Norman''s estranged eccentric uncle tells him of an important annual
+        ritual he must take up to protect the town from an curse cast by a witch it
+        condemned centuries ago. Eventually, Norman decides to cooperate, but things
+        don''t go according to plan. Now, a magic storm of the witch threatens Blithe
+        Hollow as the accursed dead rise. Together with unexpected new companions,
+        Norman struggles to save his town, only to discover the horrific truth of
+        the curse. With that insight, Norman must resolve the crisis for good as only
+        he can.","certification":"PG-13","imdb_id":"tt1623288","tmdb_id":"77174","images":{"poster":"http://trakt.us/images/posters_movies/184388.1.jpg","fanart":"http://trakt.us/images/fanart_movies/184388.1.jpg"},"ratings":{"percentage":83,"votes":48,"loved":46,"hated":2},"genres":["Adventure","Animation","Comedy","Fantasy","Horror"]}},{"timestamp":1353470631,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"44 seconds","short":"44s"},"type":"movie","action":"watching","user":{"username":"sebastiankolpin","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/892654a3ffe9d9e40c8ca13055b651ba.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/sebastiankolpin"},"movie":{"title":"The
+        Dark Knight Rises","year":2012,"released":1342767600,"url":"http://trakt.tv/movie/the-dark-knight-rises-2012","trailer":"http://youtube.com/watch?v=7gFwvozMHR4","runtime":165,"tagline":"The
+        Legend Ends","overview":"Following the death of District Attorney Harvey Dent,
+        Batman assumes responsibility for Dent''s crimes to protect Dent''s reputation
+        and is subsequently hunted by the Gotham City Police Department. Eight years
+        later Batman encounters the mysterious Selina Kyle and the villainous Bane,
+        a new terrorist leader who overwhelms Gotham''s finest. The Dark Knight resurfaces
+        to protect a city that has branded him an enemy.","certification":"PG-13","imdb_id":"tt1345836","tmdb_id":"49026","images":{"poster":"http://trakt.us/images/posters_movies/166841.4.jpg","fanart":"http://trakt.us/images/fanart_movies/166841.4.jpg"},"ratings":{"percentage":90,"votes":1179,"loved":1140,"hated":39},"genres":["Action","Crime","Drama","Thriller"]}},{"timestamp":1353470626,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"49 seconds","short":"49s"},"type":"movie","action":"watching","user":{"username":"Durneata","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/85fb8bd1fe9ceade1378101a4db403d8.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Durneata"},"movie":{"title":"How
+        to Lose Friends & Alienate People","year":2008,"released":1227772800,"url":"http://trakt.tv/movie/how-to-lose-friends-and-alienate-people-2008","trailer":"http://youtube.com/watch?v=A37JEYMwgRU&hd=1","runtime":110,"tagline":"He''s
+        across the pond, and out of his depth.","overview":"A British writer struggles
+        to fit in at a high-profile magazine in New York. Based on Toby Young''s memoir
+        \"How to Lose Friends & Alienate People\".","certification":"R","imdb_id":"tt0455538","tmdb_id":"13092","images":{"poster":"http://trakt.us/images/posters_movies/1416.1.jpg","fanart":"http://trakt.us/images/fanart_movies/1416.1.jpg"},"ratings":{"percentage":66,"votes":92,"loved":69,"hated":23},"genres":["Comedy","Romance"]}},{"timestamp":1353470625,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"50 seconds","short":"50s"},"type":"movie","action":"watching","user":{"username":"jfx","protected":false,"full_name":"Joel
+        Cachioli","gender":"male","age":29,"location":"S\u00e3o Paulo","about":"","avatar":"http://trakt.us/images/avatars/51976.1.jpg","url":"http://trakt.tv/user/jfx"},"movie":{"title":"Star
+        Wars: Episode IV - A New Hope","year":1977,"released":233391600,"url":"http://trakt.tv/movie/star-wars-episode-iv-a-new-hope-1977","trailer":"http://youtube.com/watch?v=EyeKC8ufgZY","runtime":121,"tagline":"A
+        long time ago in a galaxy far, far away...","overview":"Princess Leia is captured
+        and held hostage by the evil Imperial forces in their effort to take over
+        the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo
+        team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful
+        princess and restore peace and justice in the Empire.","certification":"PG","imdb_id":"tt0076759","tmdb_id":"11","images":{"poster":"http://trakt.us/images/posters_movies/133.1.jpg","fanart":"http://trakt.us/images/fanart_movies/133.1.jpg"},"ratings":{"percentage":95,"votes":1964,"loved":1911,"hated":53},"genres":["Action","Adventure","Family","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470622,"when":{"day":"Tue","time":"8:03 pm"},"elapsed":{"full":"53
+        seconds","short":"53s"},"type":"movie","action":"watching","user":{"username":"thebaoster","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/40706d149e45032cce8e256df63b980b.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/thebaoster"},"movie":{"title":"The
+        Day","year":2011,"released":1316070000,"url":"http://trakt.tv/movie/the-day-2011","trailer":"http://youtube.com/watch?v=zeTEaPbuuxU","runtime":0,"tagline":"","overview":"Open
+        war against humanity rages. 5 survivors; lost and on the run. The pursuit
+        is relentless, the bullets are dwindling and the battle is everywhere. This
+        is a 24hr look into their lives. Fight or die.","certification":"","imdb_id":"tt1756799","tmdb_id":"84226","images":{"poster":"http://trakt.us/images/posters_movies/201637.jpg","fanart":"http://trakt.us/images/fanart_movies/201637.jpg"},"ratings":{"percentage":55,"votes":17,"loved":9,"hated":8},"genres":[]}},{"timestamp":1353470610,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"1 minute, 5 seconds","short":"1m 5s"},"type":"movie","action":"watching","user":{"username":"Digiflame","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/929ec88450457d46e4af06940d202e0c.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Digiflame"},"movie":{"title":"Hercules","year":1997,"released":867394800,"url":"http://trakt.tv/movie/hercules-1997","trailer":"http://youtube.com/watch?v=Y5J8jie6tgk","runtime":93,"tagline":"Zero
+        to Hero!","overview":"Bestowed with superhuman strength, a young mortal named
+        Hercules sets out to prove himself a hero in the eyes of his father, the great
+        god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal
+        trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who''s
+        plotting to take over Mount Olympus!","certification":"G","imdb_id":"tt0119282","tmdb_id":"11970","images":{"poster":"http://trakt.us/images/posters_movies/1742.jpg","fanart":"http://trakt.us/images/fanart_movies/1742.jpg"},"ratings":{"percentage":84,"votes":193,"loved":177,"hated":16},"genres":["Animation","Family","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470600,"when":{"day":"Tue","time":"8:03 pm"},"elapsed":{"full":"1
+        minute, 15 seconds","short":"1m 15s"},"type":"movie","action":"watching","user":{"username":"tquinonesdiaz","protected":false,"full_name":"Teddy
+        Quinones","gender":"male","age":26,"location":"Puerto Rico","about":"","avatar":"http://trakt.us/images/avatars/59289.1.jpg","url":"http://trakt.tv/user/tquinonesdiaz"},"movie":{"title":"Colombiana","year":2011,"released":1314342000,"url":"http://trakt.tv/movie/colombiana-2011","trailer":"http://youtube.com/watch?v=ctcNn-oCDZU","runtime":108,"tagline":"Revenge
+        is beautiful.","overview":"Zoe Saldana plays a young woman who, after witnessing
+        her parents\u2019 murder as a child in Bogota, grows up to be a stone-cold
+        assassin. She works for her uncle as a hitman by day, but her personal time
+        is spent engaging in vigilante murders that she hopes will lead her to her
+        ultimate target: the mobster responsible for her parents'' death.","certification":"PG-13","imdb_id":"tt1657507","tmdb_id":"62835","images":{"poster":"http://trakt.us/images/posters_movies/172031.1.jpg","fanart":"http://trakt.us/images/fanart_movies/172031.1.jpg"},"ratings":{"percentage":75,"votes":386,"loved":310,"hated":76},"genres":["Action","Crime","Drama","Thriller"]}},{"timestamp":1353470590,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"1 minute, 25 seconds","short":"1m 25s"},"type":"movie","action":"watching","user":{"username":"nocdavis","protected":false,"full_name":"Jack
+        Schitt","gender":"male","age":33,"location":"USA","about":"I am the only son
+        of Awe Schitt. Awe Schitt, the fertilizer magnate, married O. Schitt, the
+        owner of Needeep N. Schitt. Mom and dad had one son, Jack. In turn, I married
+        Noe Schitt. \n\nThe Deeply religious couple produced six children: Holie Schitt,
+        Fulla Schitt, Giva Schitt, Bull Schitt, and the twins Deap Schitt and Dip
+        Schitt.  Against her parents objection, Deap Schitt married Dumb Schitt, a
+        high school dropout.  After being married for 15 years, Jack and Noe Schitt
+        divorced.\n\nNoe Schitt later remarried Ted Sherlock and, because her kids
+        were still living with them, she wanted to keep her previous name. She was
+        then known as Noe Shitt Sherlock.\n\nMeanwhile, Dip Schitt married Loda Schitt
+        and they produced a son of nervous disposition, Chicken Schitt.\n\nTwo of
+        the other six children, Fulla Schitt and Giva Schitt, were inseparable throughout
+        childhood and subsequently married the Happens brothers in a dual ceremony.  The
+        wedding announcement in the newspaper announced the Schitt-Happens Wedding.\n\nThe
+        Schitt-Happens children were Daawg, Byrd, Hoarse and Bull.\nBull Schitt, the
+        prodigal son, left home to tour the world. He recently returned from Italy
+        with his new Italian bride, Pisa Schitt.","avatar":"http://trakt.us/images/avatars/50397.1.jpg","url":"http://trakt.tv/user/nocdavis"},"movie":{"title":"Limitless","year":2011,"released":1300431600,"url":"http://trakt.tv/movie/limitless-2011","trailer":"http://youtube.com/watch?v=6d1Uc68wt3c","runtime":105,"tagline":"What
+        if a pill could make you rich and powerful?","overview":"A paranoia-fuelled
+        action thriller about an unsuccessful writer whose life is transformed by
+        a top-secret \"smart drug\" that allows him to use 100% of his brain and become
+        a perfect version of himself. His enhanced abilities soon attract shadowy
+        forces that threaten his new life in this darkly comic and provocative film.","certification":"PG-13","imdb_id":"tt1219289","tmdb_id":"51876","images":{"poster":"http://trakt.us/images/posters_movies/2594.1.jpg","fanart":"http://trakt.us/images/fanart_movies/2594.1.jpg"},"ratings":{"percentage":89,"votes":1471,"loved":1386,"hated":85},"genres":["Drama","Fantasy","Science
+        Fiction","Thriller"]}},{"timestamp":1353470590,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"1 minute, 25 seconds","short":"1m 25s"},"type":"movie","action":"watching","user":{"username":"curvingedge","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/d7e6353d7d2224462f82f8f3b9c33601.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/curvingedge"},"movie":{"title":"Total
+        Recall","year":2012,"released":1343977200,"url":"http://trakt.tv/movie/total-recall-2012","trailer":"http://youtube.com/watch?v=GljhR5rk5eY","runtime":121,"tagline":"What
+        Is Real?","overview":"A factory worker, Douglas Quaid, begins to suspect that
+        he is a spy after visiting Rekall - a company that provides its clients with
+        implanted fake memories of a life they would like to have led - goes wrong
+        and he finds himself on the run.","certification":"PG-13","imdb_id":"tt1386703","tmdb_id":"64635","images":{"poster":"http://trakt.us/images/posters_movies/171089.2.jpg","fanart":"http://trakt.us/images/fanart_movies/171089.2.jpg"},"ratings":{"percentage":74,"votes":452,"loved":381,"hated":71},"genres":["Action","Adventure","Science
+        Fiction","Thriller"]}},{"timestamp":1353470588,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"1 minute, 27 seconds","short":"1m 27s"},"type":"movie","action":"watching","user":{"username":"Yakuzama","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/e6423df29f0d4e78d110084d95417d6f.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Yakuzama"},"movie":{"title":"Halo
+        4: Forward Unto Dawn","year":2012,"released":1349420400,"url":"http://trakt.tv/movie/halo-4-forward-unto-dawn-2012","trailer":"http://youtube.com/watch?v=uUOx6AFgfl4","runtime":0,"tagline":"The
+        story of Halo 4 begins at dawn.","overview":"A prequel series to the Halo
+        4 videogame.","certification":"","imdb_id":"tt2262308","tmdb_id":"119431","images":{"poster":"http://trakt.us/images/posters_movies/208844.jpg","fanart":"http://trakt.us/images/fanart_movies/208844.jpg"},"ratings":{"percentage":81,"votes":15,"loved":14,"hated":1},"genres":["Action","Science
+        Fiction"]}},{"timestamp":1353470586,"when":{"day":"Tue","time":"8:03 pm"},"elapsed":{"full":"1
+        minute, 29 seconds","short":"1m 29s"},"type":"movie","action":"watching","user":{"username":"garfield","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/5e9919cf6fd5ee7e88f769e8b11dc69f.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/garfield"},"movie":{"title":"K3
+        Alice in Wonderland","year":2011,"released":1301295600,"url":"http://trakt.tv/movie/k3-alice-in-wonderland-2011","trailer":"","runtime":102,"tagline":"","overview":"Als
+        de meisjes van K3 zich vervelen en besluiten om naar de bioscoop te gaan,
+        komt Karen plots terecht in de film Alice in Wonderland. Kristel en Josje
+        volgen haar en samen gaan ze op zoek naar Alice, om haar te waarschuwen voor
+        de gekende gevaren uit Wonderland.","certification":"","imdb_id":null,"tmdb_id":"71999","images":{"poster":"http://trakt.us/images/posters_movies/191262.jpg","fanart":"http://trakt.us/images/fanart_movies/191262.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Family","Musical"]}},{"timestamp":1353470583,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"1 minute, 32 seconds","short":"1m 32s"},"type":"movie","action":"watching","user":{"username":"mocque","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/058b80c95246514354979aef0c53f5da.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/mocque"},"movie":{"title":"The
+        Amazing Spider-Man","year":2012,"released":1340866800,"url":"http://trakt.tv/movie/the-amazing-spiderman-2012","trailer":"http://youtube.com/watch?v=-tnxzJ0SSOw","runtime":136,"tagline":"The
+        untold story begins.","overview":"Peter Parker finds a clue that might help
+        him understand why his parents disappeared when he was young. His path puts
+        him on a collision course with Dr. Curt Connors, his father''s former partner.","certification":"PG-13","imdb_id":"tt0948470","tmdb_id":"1930","images":{"poster":"http://trakt.us/images/posters_movies/169003.3.jpg","fanart":"http://trakt.us/images/fanart_movies/169003.3.jpg"},"ratings":{"percentage":80,"votes":1105,"loved":991,"hated":114},"genres":["Action","Adventure","Thriller"]}},{"timestamp":1353470583,"when":{"day":"Tue","time":"8:03
+        pm"},"elapsed":{"full":"1 minute, 32 seconds","short":"1m 32s"},"type":"movie","action":"watching","user":{"username":"paulevans1975","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/2db8444a3f83c1b9be244c18774c6311.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/paulevans1975"},"movie":{"title":"Disney
+        Princess Stories Volume Two: Tales of Friendship","year":2005,"released":1108454400,"url":"http://trakt.tv/movie/disney-princess-stories-volume-two-tales-of-friendship-2005","trailer":"","runtime":64,"tagline":"","overview":"The
+        fun starts when three delightful tales about the importance of cherishing
+        true friends come alive. Join Jasmine and Ariel as they find excitement and
+        adventure above the clouds and under the sea. Watch Snow White try her best
+        to fix a yummy dinner for her beloved Dwarfs -- with hilarious help from Dopey!","certification":"","imdb_id":null,"tmdb_id":"44636","images":{"poster":"http://trakt.us/images/posters_movies/174647.jpg","fanart":"http://trakt.us/images/fanart_movies/174647.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Animation","Family"]}},{"timestamp":1353470578,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"1 minute, 37 seconds","short":"1m 37s"},"type":"movie","action":"watching","user":{"username":"ludo1967","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/c3e5984c95269e7ea32d8461a16a6c7b.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/ludo1967"},"movie":{"title":"Back
+        to the Future","year":1985,"released":489222000,"url":"http://trakt.tv/movie/back-to-the-future-1985","trailer":"http://youtube.com/watch?v=7i89wUv25QU","runtime":116,"tagline":"He''s
+        the only kid ever to get into trouble before he was born.","overview":"Eighties
+        teenager Marty McFly is accidentally sent back in time to 1955, inadvertently
+        disrupting his parents'' first meeting and attracting his mother''s romantic
+        interest. Marty must repair the damage to history by rekindling his parents''
+        romance and - with the help of his eccentric inventor friend Doc Brown - returning
+        to 1985.","certification":"PG","imdb_id":"tt0088763","tmdb_id":"105","images":{"poster":"http://trakt.us/images/posters_movies/66.1.jpg","fanart":"http://trakt.us/images/fanart_movies/66.1.jpg"},"ratings":{"percentage":95,"votes":2191,"loved":2155,"hated":36},"genres":["Adventure","Comedy","Family","Science
+        Fiction"]}},{"timestamp":1353470569,"when":{"day":"Tue","time":"8:02 pm"},"elapsed":{"full":"1
+        minute, 46 seconds","short":"1m 46s"},"type":"movie","action":"watching","user":{"username":"tezz81","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/d142246743de768af25ec24d637c70fe.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/tezz81"},"movie":{"title":"Equilibrium","year":2003,"released":1067932800,"url":"http://trakt.tv/movie/equilibrium-2003","trailer":"http://youtube.com/watch?v=ZVDiaYQXBVs","runtime":107,"tagline":"Two
+        men. One battle. No compromise.","overview":"In a facist future where all
+        forms of feeling are illegal, a man in charge of enforcing the law rises to
+        overthrow the system.","certification":"R","imdb_id":"tt0238380","tmdb_id":"7299","images":{"poster":"http://trakt.us/images/posters_movies/1072.2.jpg","fanart":"http://trakt.us/images/fanart_movies/1072.2.jpg"},"ratings":{"percentage":87,"votes":720,"loved":669,"hated":51},"genres":["Action","Drama","Science
+        Fiction","Thriller"]}},{"timestamp":1353470563,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"1 minute, 52 seconds","short":"1m 52s"},"type":"movie","action":"watching","user":{"username":"Link83","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/02aa2d3f47611e71613531313bd99c97.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Link83"},"movie":{"title":"Paranormal
+        Activity 4","year":2012,"released":1350630000,"url":"http://trakt.tv/movie/paranormal-activity-4-2012","trailer":"http://youtube.com/watch?v=0hHTCtOdBg0","runtime":95,"tagline":"It''s
+        closer than you think","overview":"Set 5 years after Paranormal Activity 2,
+        Katie and Robbie (formerly Hunter) move into a new house where their neighbors
+        begin experiencing paranormal activity.","certification":"","imdb_id":"tt2109184","tmdb_id":"82990","images":{"poster":"http://trakt.us/images/posters_movies/189708.jpg","fanart":"http://trakt.us/images/fanart_movies/189708.jpg"},"ratings":{"percentage":51,"votes":19,"loved":10,"hated":9},"genres":["Horror"]}},{"timestamp":1353470562,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"1 minute, 53 seconds","short":"1m 53s"},"type":"movie","action":"watching","user":{"username":"chrismatheson","protected":false,"full_name":"","gender":"male","age":27,"location":"Manchester,
+        UK","about":"","avatar":"http://gravatar.com/avatar/a4c0f4854be6f042ff500057d07c10ad.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/chrismatheson"},"movie":{"title":"Save
+        the Last Dance","year":2001,"released":979286400,"url":"http://trakt.tv/movie/save-the-last-dance-2001","trailer":"http://youtube.com/watch?v=-xzdCd15gqE","runtime":112,"tagline":"","overview":"A
+        white midwestern girl moves to Chicago, where her new boyfriend is a black
+        teen from the South Side with a rough, semi-criminal past.","certification":"PG-13","imdb_id":"tt0206275","tmdb_id":"9816","images":{"poster":"http://trakt.us/images/posters_movies/8761.jpg","fanart":"http://trakt.us/images/fanart_movies/8761.jpg"},"ratings":{"percentage":68,"votes":33,"loved":25,"hated":8},"genres":["Drama","Family","Musical","Romance"]}},{"timestamp":1353470552,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 3 seconds","short":"2m 3s"},"type":"movie","action":"watching","user":{"username":"wavrunrx","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/3b0af0d65dbedcff0c17548e92224232.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/wavrunrx"},"movie":{"title":"Training
+        Day","year":2001,"released":1002265200,"url":"http://trakt.tv/movie/training-day-2001","trailer":"http://youtube.com/watch?v=gKTVQPOH8ZA","runtime":122,"tagline":"The
+        only thing more dangerous than the line being crossed, is the cop who will
+        cross it.","overview":"On his first day on the job as a narcotics officer,
+        a rookie cop works with a rogue detective who isn''t what he appears.","certification":"R","imdb_id":"tt0139654","tmdb_id":"2034","images":{"poster":"http://trakt.us/images/posters_movies/1247.1.jpg","fanart":"http://trakt.us/images/fanart_movies/1247.1.jpg"},"ratings":{"percentage":86,"votes":390,"loved":367,"hated":23},"genres":["Action","Adventure","Crime","Drama","Thriller"]}},{"timestamp":1353470550,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 5 seconds","short":"2m 5s"},"type":"movie","action":"watching","user":{"username":"firezone","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/e8ee5936ed7440c1419bb5ea42c21e90.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/firezone"},"movie":{"title":"Act
+        of Valor","year":2012,"released":1330070400,"url":"http://trakt.tv/movie/act-of-valor-2012","trailer":"http://youtube.com/watch?v=0v1Ef_iD29Q","runtime":110,"tagline":"The
+        only easy day was yesterday","overview":"Go \"down range\" with real, active
+        duty Navy SEALs in this adrenaline-fueled action-adventure that inserts you
+        into the heart of the battle, alongside America''s best and bravest. When
+        a covert mission to rescue a kidnapped CIA operative uncovers a chilling plot,
+        an elite, highly trained U.S. SEAL team speeds to hotspots around the globe,
+        racing against the clock to stop a deadly terrorist attack.","certification":"R","imdb_id":"tt1591479","tmdb_id":"75674","images":{"poster":"http://trakt.us/images/posters_movies/184578.1.jpg","fanart":"http://trakt.us/images/fanart_movies/184578.1.jpg"},"ratings":{"percentage":76,"votes":310,"loved":255,"hated":55},"genres":["Action","Adventure","Thriller","War"]}},{"timestamp":1353470549,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 6 seconds","short":"2m 6s"},"type":"movie","action":"watching","user":{"username":"dutch365","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/5041c4bd42465ab16d10d04f7696777a.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/dutch365"},"movie":{"title":"Daddy''s
+        Little Girls","year":2007,"released":1171440000,"url":"http://trakt.tv/movie/daddys-little-girls-2007","trailer":"http://youtube.com/watch?v=lphJHJrodpY","runtime":100,"tagline":"","overview":"Monty
+        is a mechanic struggling to make ends meet as he raises his three young daughters.
+        When the court awards custody of his daughters to his shady ex-wife, Monty
+        desperately tries to win them back with the help of Julia, a beautiful, Ivy
+        League-educated attorney. Monty and Julia couldn''t be less alike, but a flame
+        is ignited...touching off a firestorm of love and conflict.","certification":"","imdb_id":"tt0778661","tmdb_id":"16555","images":{"poster":"http://trakt.us/images/posters_movies/162046.jpg","fanart":"http://trakt.us/images/fanart_movies/162046.jpg"},"ratings":{"percentage":40,"votes":2,"loved":1,"hated":1},"genres":["Comedy","Drama","Romance"]}},{"timestamp":1353470544,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 11 seconds","short":"2m 11s"},"type":"movie","action":"watching","user":{"username":"fabrice1973","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/3dab13bd3bcf1ebe5e1767927d0d29b9.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/fabrice1973"},"movie":{"title":"The
+        Dark Knight Rises","year":2012,"released":1342767600,"url":"http://trakt.tv/movie/the-dark-knight-rises-2012","trailer":"http://youtube.com/watch?v=7gFwvozMHR4","runtime":165,"tagline":"The
+        Legend Ends","overview":"Following the death of District Attorney Harvey Dent,
+        Batman assumes responsibility for Dent''s crimes to protect Dent''s reputation
+        and is subsequently hunted by the Gotham City Police Department. Eight years
+        later Batman encounters the mysterious Selina Kyle and the villainous Bane,
+        a new terrorist leader who overwhelms Gotham''s finest. The Dark Knight resurfaces
+        to protect a city that has branded him an enemy.","certification":"PG-13","imdb_id":"tt1345836","tmdb_id":"49026","images":{"poster":"http://trakt.us/images/posters_movies/166841.4.jpg","fanart":"http://trakt.us/images/fanart_movies/166841.4.jpg"},"ratings":{"percentage":90,"votes":1179,"loved":1140,"hated":39},"genres":["Action","Crime","Drama","Thriller"]}},{"timestamp":1353470543,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 12 seconds","short":"2m 12s"},"type":"movie","action":"watching","user":{"username":"midiety","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/8efeefbdf391a6dcea22a3f18779090a.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/midiety"},"movie":{"title":"Valkyrie","year":2008,"released":1230192000,"url":"http://trakt.tv/movie/valkyrie-2008","trailer":"http://youtube.com/watch?v=FHtCaVtryiE","runtime":121,"tagline":"Many
+        saw evil. They dared to stop it.","overview":"Wounded in Africa during World
+        War II, Nazi Col. Claus von Stauffenberg returns to his native Germany and
+        joins the Resistance in a daring plan to create a shadow government and assassinate
+        Adolf Hitler. When events unfold so that he becomes a central player, he finds
+        himself tasked with both leading the coup and personally killing the F\u00fchrer.","certification":"PG-13","imdb_id":"tt0985699","tmdb_id":"2253","images":{"poster":"http://trakt.us/images/posters_movies/214.1.jpg","fanart":"http://trakt.us/images/fanart_movies/214.1.jpg"},"ratings":{"percentage":74,"votes":233,"loved":195,"hated":38},"genres":["Drama","History","Thriller","War"]}},{"timestamp":1353470543,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 12 seconds","short":"2m 12s"},"type":"movie","action":"watching","user":{"username":"kenelsner","protected":false,"full_name":"Kenneth
+        Curt Elsner","gender":"male","age":45,"location":"Denver, CO","about":"","avatar":"http://gravatar.com/avatar/8823c3a086230cfa005ffb6cf7c28d12.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/kenelsner"},"movie":{"title":"A
+        Bug''s Life","year":1998,"released":911030400,"url":"http://trakt.tv/movie/a-bugs-life-1998","trailer":"http://youtube.com/watch?v=JosfJbvCi6I","runtime":95,"tagline":"An
+        epic presentation of miniature proportions.","overview":"On behalf of \"oppressed
+        bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs
+        to defend his bustling colony from a horde of freeloading grasshoppers led
+        by the evil-minded Hopper.","certification":"G","imdb_id":"tt0120623","tmdb_id":"9487","images":{"poster":"http://trakt.us/images/posters_movies/416.1.jpg","fanart":"http://trakt.us/images/fanart_movies/416.1.jpg"},"ratings":{"percentage":84,"votes":701,"loved":650,"hated":51},"genres":["Adventure","Animation","Comedy","Family","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470541,"when":{"day":"Tue","time":"8:02 pm"},"elapsed":{"full":"2
+        minutes, 14 seconds","short":"2m 14s"},"type":"movie","action":"watching","user":{"username":"Davepodmore","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/5ce037d9230eaa45bebb1674471c7fad.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Davepodmore"},"movie":{"title":"Coldplay:
+        Live 2012","year":2012,"released":1352793600,"url":"http://trakt.tv/movie/coldplay-live-2012-2012","trailer":"","runtime":97,"tagline":"","overview":"Coldplay
+        Live 2012 is the band''s first concert film/live album for nine years. It
+        documents their acclaimed Mylo Xyloto world tour, which was seen by more than
+        three million people since it began in June 2011. The film was directed by
+        Paul Dugdale, previously responsible for Adele''s Live at the Royal Albert
+        Hall and The Prodigy''s Worlds On Fire concert films. Coldplay Live 2012 includes
+        footage from Coldplay''s shows at Paris''s Stade de France, Montreal''s Bell
+        Centre and the band''s triumphant Pyramid Stage headline performance at Glastonbury
+        2011.","certification":"","imdb_id":"","tmdb_id":"140405","images":{"poster":"http://trakt.us/images/posters_movies/210175.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":[]}},{"timestamp":1353470538,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 17 seconds","short":"2m 17s"},"type":"movie","action":"watching","user":{"username":"Dijksman","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/b121ebb2b68154dce148b013434da105.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Dijksman"},"movie":{"title":"Dora''s
+        Ballet Adventures","year":2011,"released":1314687600,"url":"http://trakt.tv/movie/doras-ballet-adventures-2011","trailer":"","runtime":93,"tagline":"Educational
+        and Interactive Musical Adventures","overview":"This DVD contains four episodes
+        of Dora the Explorer. All four have a musical theme and are totally adorable.
+        The stories are interactive. Children are encouraged to repeat words or hop
+        like a bunny. It really gets kids active as they sing, dance and playfully
+        imitate animals. Throughout the stories little bits of Spanish are also taught.
+        Like in one story you learn to sing happy birthday in Spanish.","certification":"G","imdb_id":"tt1849315","tmdb_id":"77115","images":{"poster":"http://trakt.us/images/posters_movies/208339.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Adventure","Animation","Family","Fantasy"]}},{"timestamp":1353470537,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 18 seconds","short":"2m 18s"},"type":"movie","action":"watching","user":{"username":"burn","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/1b841cf3d0e981e147ecc3ab84ebf820.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/burn"},"movie":{"title":"Night
+        of the Living Dead","year":1968,"released":-39459600,"url":"http://trakt.tv/movie/night-of-the-living-dead-1968","trailer":"http://youtube.com/watch?v=5gUKvmOEGCU","runtime":96,"tagline":"","overview":"A
+        group of people try to survive an attack of bloodthirsty zombies while trapped
+        in a rural Pennsylvania farmhouse. Although not the first zombie film, Night
+        of the Living Dead is the progenitor of the contemporary \"zombie apocalypse\"
+        horror film, and it greatly influenced the modern pop-culture zombie archetype.","certification":"R","imdb_id":"tt0063350","tmdb_id":"10331","images":{"poster":"http://trakt.us/images/posters_movies/4555.jpg","fanart":"http://trakt.us/images/fanart_movies/4555.jpg"},"ratings":{"percentage":90,"votes":66,"loved":64,"hated":2},"genres":["Horror"]}},{"timestamp":1353470532,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 23 seconds","short":"2m 23s"},"type":"movie","action":"watching","user":{"username":"GWJStryker","protected":false,"full_name":"Jacob","gender":"male","age":30,"location":"Middle
+        of nowhere, Illinois","about":"","avatar":"http://trakt.us/images/avatars/47459.1.jpg","url":"http://trakt.tv/user/GWJStryker"},"movie":{"title":"The
+        Count of Monte Cristo","year":2002,"released":1011772800,"url":"http://trakt.tv/movie/the-count-of-monte-cristo-2002","trailer":"http://youtube.com/watch?v=zzULuO1cBSc","runtime":131,"tagline":"Prepare
+        for adventure. Count on revenge.","overview":"Edmond Dant\u00e9s''s life and
+        plans to marry the beautiful Mercedes are shattered when his best friend,
+        Fernand, deceives him. After spending 13 miserable years in prison, Dant\u00e9s
+        escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating
+        himself into the French nobility.","certification":"PG-13","imdb_id":"tt0245844","tmdb_id":"11362","images":{"poster":"http://trakt.us/images/posters_movies/8419.1.jpg","fanart":"http://trakt.us/images/fanart_movies/8419.1.jpg"},"ratings":{"percentage":87,"votes":168,"loved":159,"hated":9},"genres":["Action","Adventure","Drama","Thriller"]}},{"timestamp":1353470531,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 24 seconds","short":"2m 24s"},"type":"movie","action":"watching","user":{"username":"Pinecreeker","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/d95743263489ee29e922477b6476490a.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Pinecreeker"},"movie":{"title":"Ted","year":2012,"released":1340953200,"url":"http://trakt.tv/movie/ted-2012","trailer":"http://youtube.com/watch?v=9fbo_pQvU7M","runtime":106,"tagline":"A
+        story centered on a man and his teddy bear, who comes to life as the result
+        of a childhood wish.","overview":"Family Guy creator Seth MacFarlane brings
+        his boundary-pushing brand of humor to the big screen for the first time as
+        writer, director and voice star of Ted. In the live action/CG-animated comedy,
+        he tells the story of John Bennett, a grown man who must deal with the cherished
+        teddy bear who came to life as the result of a childhood wish, and has refused
+        to leave his side ever since.","certification":"R","imdb_id":"tt1637725","tmdb_id":"72105","images":{"poster":"http://trakt.us/images/posters_movies/180758.1.jpg","fanart":"http://trakt.us/images/fanart_movies/180758.1.jpg"},"ratings":{"percentage":80,"votes":710,"loved":638,"hated":72},"genres":["Comedy","Fantasy"]}},{"timestamp":1353470527,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 28 seconds","short":"2m 28s"},"type":"movie","action":"watching","user":{"username":"plexxer","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/9eb39835d97329748d60bfed979ffa4d.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/plexxer"},"movie":{"title":"A
+        View to a Kill","year":1985,"released":485766000,"url":"http://trakt.tv/movie/a-view-to-a-kill-1985","trailer":"http://youtube.com/watch?v=CMm9rZPIS5s","runtime":131,"tagline":"Has
+        James Bond finally met his match?","overview":"A newly developed microchip
+        designed by Zorin Industries for the British Government that can survive the
+        electromagnetic radiation caused by a nuclear explosion has landed in the
+        hands of the KGB. James Bond must find out how and why. His suspicions soon
+        lead him to big industry leader Max Zorin. The 14th film from the Legendary
+        James Bond series starring Roger Moore as a British super agent.","certification":"PG","imdb_id":"tt0090264","tmdb_id":"707","images":{"poster":"http://trakt.us/images/posters_movies/1613.1.jpg","fanart":"http://trakt.us/images/fanart_movies/1613.1.jpg"},"ratings":{"percentage":80,"votes":84,"loved":74,"hated":10},"genres":["Action","Adventure","Thriller"]}},{"timestamp":1353470527,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 28 seconds","short":"2m 28s"},"type":"movie","action":"watching","user":{"username":"chaosxj349","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/29311bd24035be6c5ba4742e5b7050e7.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/chaosxj349"},"movie":{"title":"Eddie
+        Griffin: You Can Tell ''Em I Said It","year":2011,"released":1298102400,"url":"http://trakt.tv/movie/eddie-griffin-you-can-tell-em-i-said-it-2011","trailer":"","runtime":82,"tagline":"","overview":"Eddie
+        Griffin proves once more that he\u2019s one of the world\u2019s premiere comedic
+        talents in his brand-new stand-up special You Can Tell \u2018Em I Said It.
+        Eddie unapologetically rips into everything from racial stereotypes to Viagra
+        to the First Lady and will leave you gasping for air as he buzzes around the
+        stage and literally climbs the walls. This uncut, uncensored stand-up special
+        live from Oakland, California will keep you laughing long after he exits the
+        stage and coming back to watch it again and again.","certification":"","imdb_id":"tt1772263","tmdb_id":"57518","images":{"poster":"http://trakt.us/images/posters_movies/15055.jpg","fanart":"http://trakt.us/images/fanart_movies/15055.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Comedy"]}},{"timestamp":1353470525,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 30 seconds","short":"2m 30s"},"type":"movie","action":"watching","user":{"username":"brawas","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/d05bc3b2dc09b9a41561cc03155a0fc7.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/brawas"},"movie":{"title":"Savages","year":2012,"released":1341558000,"url":"http://trakt.tv/movie/savages-2012","trailer":"http://youtube.com/watch?v=KC2zbOwbeEs","runtime":127,"tagline":"","overview":"Laguna
+        Beach entrepreneurs Ben and Chon run a lucrative, homegrown industry - raising
+        some of the best marijuana ever developed. They also share a one-of-a-kind
+        love with the extraordinary beauty Ophelia. Life is idyllic in their Southern
+        California town\u2026until the Mexican Baja Cartel decides to move in and
+        demands that the trio partners with them.  When the merciless head of the
+        BC, Elena, and her brutal enforcer, Lado, underestimate the unbreakable bond
+        among these three friends, Ben and Chon - with the reluctant, slippery assistance
+        of a dirty DEA agent - wage a seemingly unwinnable war against the cartel.
+        And so begins a series of increasingly vicious ploys and maneuvers in a high
+        stakes, savage battle of wills.","certification":"","imdb_id":"tt1615065","tmdb_id":"82525","images":{"poster":"http://trakt.us/images/posters_movies/188686.1.jpg","fanart":"http://trakt.us/images/fanart_movies/188686.1.jpg"},"ratings":{"percentage":75,"votes":131,"loved":115,"hated":16},"genres":["Crime","Drama","Thriller"]}},{"timestamp":1353470524,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 31 seconds","short":"2m 31s"},"type":"movie","action":"watching","user":{"username":"jneljeff","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/5e29ae2d12f6dd795226b008dbb93617.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/jneljeff"},"movie":{"title":"The
+        Dilemma","year":2011,"released":1294992000,"url":"http://trakt.tv/movie/the-dilemma-2011","trailer":"http://youtube.com/watch?v=TU8JFk7aXyA","runtime":111,"tagline":"A
+        little knowledge is a dangerous thing.","overview":"Longtime friends Ronny
+        and Nick are partners in an auto-design firm. They are hard at work on a presentation
+        for a dream project that would really launch their company. Ronny spots Nick''s
+        wife out with another man and in the process of investigating the possible
+        affair he learns Nick has a few secrets of his own. As the presentation nears,
+        Ronny agonizes over what might happen if the truth gets out. that''s all.","certification":"PG-13","imdb_id":"tt1578275","tmdb_id":"44564","images":{"poster":"http://trakt.us/images/posters_movies/279.1.jpg","fanart":"http://trakt.us/images/fanart_movies/279.1.jpg"},"ratings":{"percentage":49,"votes":132,"loved":58,"hated":74},"genres":["Comedy","Drama"]}},{"timestamp":1353470523,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 32 seconds","short":"2m 32s"},"type":"movie","action":"watching","user":{"username":"pomp0m","protected":false,"full_name":"Rob
+        Stolte","gender":"male","age":22,"location":"","about":"","avatar":"http://gravatar.com/avatar/fa8387ec5d6f896879e5098da438f2ed.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/pomp0m"},"movie":{"title":"The
+        Hunger Games","year":2012,"released":1332486000,"url":"http://trakt.tv/movie/the-hunger-games-2012","trailer":"http://youtube.com/watch?v=fkxcftwKwfI","runtime":142,"tagline":"May
+        The Odds Be Ever In Your Favor.","overview":"Every year in the ruins of what
+        was once North America, the nation of Panem forces each of its twelve districts
+        to send a teenage boy and girl to compete in the Hunger Games.  Part twisted
+        entertainment, part government intimidation tactic, the Hunger Games are a
+        nationally televised event in which \u201cTributes\u201d must fight with one
+        another until one survivor remains.  Pitted against highly-trained Tributes
+        who have prepared for these Games their entire lives, Katniss is forced to
+        rely upon her sharp instincts as well as the mentorship of drunken former
+        victor Haymitch Abernathy.  If she\u2019s ever to return home to District
+        12, Katniss must make impossible choices in the arena that weigh survival
+        against humanity and life against love. The world will be watching.","certification":"PG-13","imdb_id":"tt1392170","tmdb_id":"70160","images":{"poster":"http://trakt.us/images/posters_movies/178139.3.jpg","fanart":"http://trakt.us/images/fanart_movies/178139.3.jpg"},"ratings":{"percentage":80,"votes":1665,"loved":1461,"hated":204},"genres":["Adventure","Family","Science
+        Fiction","Thriller"]}},{"timestamp":1353470520,"when":{"day":"Tue","time":"8:02
+        pm"},"elapsed":{"full":"2 minutes, 35 seconds","short":"2m 35s"},"type":"movie","action":"watching","user":{"username":"vancityactivist","protected":false,"full_name":"Adam
+        Glover","gender":"male","age":28,"location":"Vancouver, BC","about":"","avatar":"http://gravatar.com/avatar/54e8a7dee37fdaaf69d0083885f0617b.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/vancityactivist"},"movie":{"title":"Looper","year":2012,"released":1348815600,"url":"http://trakt.tv/movie/looper-2012","trailer":"http://youtube.com/watch?v=0uIWGOKW5OM","runtime":118,"tagline":"Hunted
+        By Your Future, Haunted By Your Past","overview":"In the futuristic action
+        thriller Looper, time travel will be invented - but it will be illegal and
+        only available on the black market.  When the mob wants to get rid of someone,
+        they will send their target 30 years into the past, where a \"looper\" - a
+        hired gun, like Joe (Joseph Gordon-Levitt) - is waiting to mop up.  Joe is
+        getting rich and life is good... until the day the mob decides to \"close
+        the loop,\" sending back Joe''s future self (Bruce Willis) for assassination.","certification":"R","imdb_id":"tt1276104","tmdb_id":"59967","images":{"poster":"http://trakt.us/images/posters_movies/180760.1.jpg","fanart":"http://trakt.us/images/fanart_movies/180760.1.jpg"},"ratings":{"percentage":82,"votes":263,"loved":244,"hated":19},"genres":["Action","Science
+        Fiction","Thriller"]}},{"timestamp":1353470519,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"2 minutes, 36 seconds","short":"2m 36s"},"type":"movie","action":"watching","user":{"username":"mrhiggs","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/7916e89c19698a69d491e2d2d1464fed.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/mrhiggs"},"movie":{"title":"Madagascar
+        3: Europe''s Most Wanted","year":2012,"released":1338966000,"url":"http://trakt.tv/movie/madagascar-3-europes-most-wanted-2012","trailer":"http://youtube.com/watch?v=PlkWVkpP59U","runtime":95,"tagline":"","overview":"Alex
+        the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo join a
+        traveling circus in an effort to get back home to New York.","certification":"PG","imdb_id":"tt1277953","tmdb_id":"80321","images":{"poster":"http://trakt.us/images/posters_movies/191003.1.jpg","fanart":"http://trakt.us/images/fanart_movies/191003.1.jpg"},"ratings":{"percentage":80,"votes":335,"loved":302,"hated":33},"genres":["Adventure","Animation","Comedy","Family"]}},{"timestamp":1353470511,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"2 minutes, 44 seconds","short":"2m 44s"},"type":"movie","action":"watching","user":{"username":"michaelstone","protected":false,"full_name":"","gender":"male","age":"","location":"","about":"","avatar":"http://trakt.us/images/avatars/27162.1.jpg","url":"http://trakt.tv/user/michaelstone"},"movie":{"title":"The
+        Avengers","year":2012,"released":1336114800,"url":"http://trakt.tv/movie/the-avengers-2012","trailer":"http://youtube.com/watch?v=eOrNdBpGMv8","runtime":143,"tagline":"Some
+        assembly required.","overview":"When an unexpected enemy emerges that threatens
+        global safety and security, Nick Fury, Director of the international peacekeeping
+        agency known as S.H.I.E.L.D., finds himself in need of a team to pull the
+        world back from the brink of disaster. Spanning the globe, a daring recruitment
+        effort begins!","certification":"PG-13","imdb_id":"tt0848228","tmdb_id":"24428","images":{"poster":"http://trakt.us/images/posters_movies/179435.4.jpg","fanart":"http://trakt.us/images/fanart_movies/179435.4.jpg"},"ratings":{"percentage":91,"votes":2635,"loved":2548,"hated":87},"genres":["Action","Thriller"]}},{"timestamp":1353470507,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"2 minutes, 48 seconds","short":"2m 48s"},"type":"movie","action":"watching","user":{"username":"craig.trevor","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/f7cdd98de0548146a2677029896bed9e.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/craig.trevor"},"movie":{"title":"My
+        Favorite Spy","year":1942,"released":-869590800,"url":"http://trakt.tv/movie/my-favorite-spy-1942","trailer":"","runtime":86,"tagline":"You''ll
+        tingle when they tangle in Tangiers.","overview":"The Army takes a bandleader
+        (Kay Kyser) away from his bride (Ellen Drew) and sends him on a spy mission
+        with a woman (Jane Wyman).","certification":"","imdb_id":"tt0035102","tmdb_id":"100259","images":{"poster":"http://trakt.us/images/posters_movies/201805.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy","Musical"]}},{"timestamp":1353470506,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"2 minutes, 49 seconds","short":"2m 49s"},"type":"movie","action":"watching","user":{"username":"Ardalista","protected":false,"full_name":"","gender":"male","age":38,"location":"Auckland,
+        New Zealand","about":"","avatar":"http://trakt.us/images/avatars/15121.1.jpg","url":"http://trakt.tv/user/Ardalista"},"movie":{"title":"Halo
+        4: Forward Unto Dawn","year":2012,"released":1349420400,"url":"http://trakt.tv/movie/halo-4-forward-unto-dawn-2012","trailer":"http://youtube.com/watch?v=uUOx6AFgfl4","runtime":0,"tagline":"The
+        story of Halo 4 begins at dawn.","overview":"A prequel series to the Halo
+        4 videogame.","certification":"","imdb_id":"tt2262308","tmdb_id":"119431","images":{"poster":"http://trakt.us/images/posters_movies/208844.jpg","fanart":"http://trakt.us/images/fanart_movies/208844.jpg"},"ratings":{"percentage":81,"votes":15,"loved":14,"hated":1},"genres":["Action","Science
+        Fiction"]}},{"timestamp":1353470500,"when":{"day":"Tue","time":"8:01 pm"},"elapsed":{"full":"2
+        minutes, 55 seconds","short":"2m 55s"},"type":"movie","action":"watching","user":{"username":"yoannriou","protected":false,"full_name":"","gender":"male","age":"","location":"Hong
+        Kong","about":"","avatar":"http://gravatar.com/avatar/e2b99011319707b372a13e63ee0e44aa.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/yoannriou"},"movie":{"title":"Brave","year":2012,"released":1340348400,"url":"http://trakt.tv/movie/brave-2012","trailer":"http://youtube.com/watch?v=tYg0VgPy6Uk","runtime":93,"tagline":"Change
+        your fate.","overview":"Brave is set in the mystical Scottish Highlands, where
+        M\u00e9rida is the princess of a kingdom ruled by King Fergus and Queen Elinor.
+        An unruly daughter and an accomplished archer, M\u00e9rida one day defies
+        a sacred custom of the land and inadvertently brings turmoil to the kingdom.
+        In an attempt to set things right, M\u00e9rida seeks out an eccentric old
+        Wise Woman and is granted an ill-fated wish. Also figuring into M\u00e9rida\u2019s
+        quest \u2014 and serving as comic relief \u2014 are the kingdom\u2019s three
+        lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable
+        Lord Dingwall.","certification":"PG","imdb_id":"tt1217209","tmdb_id":"62177","images":{"poster":"http://trakt.us/images/posters_movies/174531.2.jpg","fanart":"http://trakt.us/images/fanart_movies/174531.2.jpg"},"ratings":{"percentage":83,"votes":500,"loved":478,"hated":22},"genres":["Action","Adventure","Animation","Comedy","Family"]}},{"timestamp":1353470499,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"2 minutes, 56 seconds","short":"2m 56s"},"type":"movie","action":"watching","user":{"username":"BibberRu","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/92335065bebdbc27203a6ebafe46e22c.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/BibberRu"},"movie":{"title":"The
+        Lord of the Rings: The Two Towers","year":2002,"released":1040198400,"url":"http://trakt.tv/movie/the-lord-of-the-rings-the-two-towers-2002","trailer":"http://youtube.com/watch?v=yBNSOdEjtZs","runtime":179,"tagline":"A
+        New Power Is Rising.","overview":"Frodo and Sam are trekking to Mordor to
+        destroy the One Ring of Power while Gimli, Legolas and Aragorn search for
+        the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits
+        the Fellowship members at the Orthanc Tower in Isengard.","certification":"PG-13","imdb_id":"tt0167261","tmdb_id":"121","images":{"poster":"http://trakt.us/images/posters_movies/1320.1.jpg","fanart":"http://trakt.us/images/fanart_movies/1320.1.jpg"},"ratings":{"percentage":94,"votes":2340,"loved":2256,"hated":84},"genres":["Action","Adventure","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470497,"when":{"day":"Tue","time":"8:01 pm"},"elapsed":{"full":"2
+        minutes, 58 seconds","short":"2m 58s"},"type":"movie","action":"watching","user":{"username":"slappula","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/098f611507cd4caf51704c37643ecc94.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/slappula"},"movie":{"title":"Solomon
+        Kane","year":2012,"released":1348815600,"url":"http://trakt.tv/movie/solomon-kane-2012","trailer":"http://youtube.com/watch?v=lalm_kkczVM","runtime":104,"tagline":"","overview":"A
+        nomadic 16th century warrior, condemned to hell for his brutal past, seeks
+        redemption by renouncing violence, but finds some things are worth burning
+        for as he fights to free a young Puritan woman from the grip of evil.","certification":"R","imdb_id":"tt0970452","tmdb_id":"32985","images":{"poster":"http://trakt.us/images/posters_movies/1677.jpg","fanart":"http://trakt.us/images/fanart_movies/1677.jpg"},"ratings":{"percentage":64,"votes":97,"loved":64,"hated":33},"genres":["Action","Adventure","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470488,"when":{"day":"Tue","time":"8:01 pm"},"elapsed":{"full":"3
+        minutes, 7 seconds","short":"3m 7s"},"type":"movie","action":"watching","user":{"username":"Hunk_4TH","protected":false,"full_name":"","gender":"male","age":26,"location":"USA","about":"","avatar":"http://trakt.us/images/avatars/8834.4.jpg","url":"http://trakt.tv/user/Hunk_4TH"},"movie":{"title":"ECW
+        November to Remember","year":1997,"released":880876800,"url":"http://trakt.tv/movie/ecw-november-to-remember-1997","trailer":"","runtime":0,"tagline":"","overview":"November
+        to Remember (normally abbreviated to N2R) was an annual Eastern Championship
+        Wrestling and Extreme Championship Wrestling professional wrestling show held
+        during the month of November between 1993 and 2000. From 1997 onward, the
+        event was broadcast on pay-per-view. The event was considered to be ECW''s
+        flagship supercard. The rights to the event now belong to World Wrestling
+        Entertainment (WWE).","certification":"","imdb_id":"tt0371655","tmdb_id":"72836","images":{"poster":"http://trakt.us/images/posters_movies/179442.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Action","Sport"]}},{"timestamp":1353470485,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"3 minutes, 10 seconds","short":"3m 10s"},"type":"movie","action":"watching","user":{"username":"edru","protected":false,"full_name":"edru","gender":"male","age":30,"location":"78723","about":"Account
+        is attached to my Apple TV2 that is watched by myself, girlfriend, and my
+        roommate.","avatar":"http://trakt.us/images/avatars/43163.1.jpg","url":"http://trakt.tv/user/edru"},"movie":{"title":"Star
+        Wars: Episode V - The Empire Strikes Back","year":1980,"released":327740400,"url":"http://trakt.tv/movie/star-wars-episode-v-the-empire-strikes-back-1980","trailer":"http://youtube.com/watch?v=PkEKIw0FU6Y","runtime":124,"tagline":"The
+        Adventure Continues...","overview":"The epic saga continues as Luke Skywalker,
+        in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi
+        from aging master Yoda. But Darth Vader is more determined than ever to capture
+        Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and
+        droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal
+        and despair.","certification":"PG","imdb_id":"tt0080684","tmdb_id":"1891","images":{"poster":"http://trakt.us/images/posters_movies/194.1.jpg","fanart":"http://trakt.us/images/fanart_movies/194.1.jpg"},"ratings":{"percentage":95,"votes":1850,"loved":1800,"hated":50},"genres":["Action","Adventure","Family","Science
+        Fiction"]}},{"timestamp":1353470481,"when":{"day":"Tue","time":"8:01 pm"},"elapsed":{"full":"3
+        minutes, 14 seconds","short":"3m 14s"},"type":"movie","action":"watching","user":{"username":"shadower","protected":false,"full_name":"Scott
+        Howell","gender":"male","age":30,"location":"Sydney, Australia","about":"Love
+        my TV Shows and Movies... ","avatar":"http://trakt.us/images/avatars/896.jpg","url":"http://trakt.tv/user/shadower"},"movie":{"title":"Abraham
+        Lincoln: Vampire Hunter","year":2012,"released":1340348400,"url":"http://trakt.tv/movie/abraham-lincoln-vampire-hunter-2012","trailer":"http://youtube.com/watch?v=MmexgVvm4o8","runtime":94,"tagline":"Are
+        you a patriot or a vampire?","overview":"President Lincoln''s mother is killed
+        by a supernatural creature, which fuels his passion to crush vampires and
+        their slave-owning helpers.","certification":"R","imdb_id":"tt1611224","tmdb_id":"72331","images":{"poster":"http://trakt.us/images/posters_movies/184657.2.jpg","fanart":"http://trakt.us/images/fanart_movies/184657.2.jpg"},"ratings":{"percentage":67,"votes":398,"loved":291,"hated":107},"genres":["Horror","Thriller"]}},{"timestamp":1353470479,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"3 minutes, 16 seconds","short":"3m 16s"},"type":"movie","action":"watching","user":{"username":"Ac1976","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/04ffbd1d8cd541b14766f31cf96c35ef.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Ac1976"},"movie":{"title":"Total
+        Recall","year":2012,"released":1343977200,"url":"http://trakt.tv/movie/total-recall-2012","trailer":"http://youtube.com/watch?v=GljhR5rk5eY","runtime":121,"tagline":"What
+        Is Real?","overview":"A factory worker, Douglas Quaid, begins to suspect that
+        he is a spy after visiting Rekall - a company that provides its clients with
+        implanted fake memories of a life they would like to have led - goes wrong
+        and he finds himself on the run.","certification":"PG-13","imdb_id":"tt1386703","tmdb_id":"64635","images":{"poster":"http://trakt.us/images/posters_movies/171089.2.jpg","fanart":"http://trakt.us/images/fanart_movies/171089.2.jpg"},"ratings":{"percentage":74,"votes":452,"loved":381,"hated":71},"genres":["Action","Adventure","Science
+        Fiction","Thriller"]}},{"timestamp":1353470475,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"3 minutes, 20 seconds","short":"3m 20s"},"type":"movie","action":"watching","user":{"username":"huns1711","protected":false,"full_name":"Huns
+        Srimanee","gender":"male","age":29,"location":"Thailand","about":"","avatar":"http://trakt.us/images/avatars/10667.jpg","url":"http://trakt.tv/user/huns1711"},"movie":{"title":"ParaNorman","year":2012,"released":1345186800,"url":"http://trakt.tv/movie/paranorman-2012","trailer":"http://youtube.com/watch?v=hgwSpajMw3s","runtime":90,"tagline":"It''s
+        all fun and games until someone raises the dead.","overview":"In the town
+        of Blithe Hollow, Norman Babcock is a boy who can speak to the dead, but no
+        one besides his eccentric new friend, Neil, believes his ability is real.
+        One day, Norman''s estranged eccentric uncle tells him of an important annual
+        ritual he must take up to protect the town from an curse cast by a witch it
+        condemned centuries ago. Eventually, Norman decides to cooperate, but things
+        don''t go according to plan. Now, a magic storm of the witch threatens Blithe
+        Hollow as the accursed dead rise. Together with unexpected new companions,
+        Norman struggles to save his town, only to discover the horrific truth of
+        the curse. With that insight, Norman must resolve the crisis for good as only
+        he can.","certification":"PG-13","imdb_id":"tt1623288","tmdb_id":"77174","images":{"poster":"http://trakt.us/images/posters_movies/184388.1.jpg","fanart":"http://trakt.us/images/fanart_movies/184388.1.jpg"},"ratings":{"percentage":83,"votes":48,"loved":46,"hated":2},"genres":["Adventure","Animation","Comedy","Fantasy","Horror"]}},{"timestamp":1353470460,"when":{"day":"Tue","time":"8:01
+        pm"},"elapsed":{"full":"3 minutes, 35 seconds","short":"3m 35s"},"type":"movie","action":"watching","user":{"username":"abnersnell","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/7601579338b9a28a1fac0cb9330368e6.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/abnersnell"},"movie":{"title":"50/50","year":2011,"released":1317366000,"url":"http://trakt.tv/movie/5050-2011","trailer":"http://youtube.com/watch?v=FxhpahMKt4Q","runtime":100,"tagline":"It
+        takes a pair to beat the odds.","overview":"Inspired by a true story, a comedy
+        centered on a 27-year-old guy who learns of his cancer diagnosis, and his
+        subsequent struggle to beat the disease.","certification":"R","imdb_id":"tt1306980","tmdb_id":"40807","images":{"poster":"http://trakt.us/images/posters_movies/180747.1.jpg","fanart":"http://trakt.us/images/fanart_movies/180747.1.jpg"},"ratings":{"percentage":87,"votes":690,"loved":647,"hated":43},"genres":["Comedy","Drama"]}},{"timestamp":1353470452,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"3 minutes, 43 seconds","short":"3m 43s"},"type":"movie","action":"watching","user":{"username":"Jeskri906","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/b592732aa42eeb5716d49d23e438e391.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/Jeskri906"},"movie":{"title":"Darling
+        Companion","year":2012,"released":1334905200,"url":"http://trakt.tv/movie/darling-companion-2012","trailer":"http://youtube.com/watch?v=kdz63lY-Akc","runtime":103,"tagline":"","overview":"The
+        story of a woman who loves her dog more than her husband. And then her husband
+        loses the dog.","certification":"","imdb_id":"tt1730687","tmdb_id":"89325","images":{"poster":"http://trakt.us/images/posters_movies/203338.jpg","fanart":"http://trakt.us/images/fanart_movies/203338.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Drama","Romance"]}},{"timestamp":1353470446,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"3 minutes, 49 seconds","short":"3m 49s"},"type":"movie","action":"watching","user":{"username":"KJ31","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/56d1157f64197e1c53ea472dc829e954.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/KJ31"},"movie":{"title":"American
+        Horror House","year":2012,"released":1350111600,"url":"http://trakt.tv/movie/american-horror-house-2012","trailer":"","runtime":85,"tagline":"Students
+        Wanted...For Eternity","overview":"On Halloween night, a sorority house is
+        overrun with ghosts, while a vengeful housemother goes on a killing spree.","certification":"","imdb_id":"tt2402539","tmdb_id":"138544","images":{"poster":"http://trakt.us/images/posters_movies/209274.jpg","fanart":"http://trakt.us/images/fanart_movies/209274.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":[]}},{"timestamp":1353470444,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"3 minutes, 51 seconds","short":"3m 51s"},"type":"movie","action":"watching","user":{"username":"drupi","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/92bd00f58d360ce22dc341a268982dfd.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/drupi"},"movie":{"title":"Wanted","year":2008,"released":1214550000,"url":"http://trakt.tv/movie/wanted-2008","trailer":"http://youtube.com/watch?v=q9Mr-iYZRZk","runtime":110,"tagline":"Choose
+        your destiny.","overview":"Doormat Wesley Gibson discovers that his recently
+        murdered father -- who Wesley never knew -- belonged to a secret guild of
+        assassins. After a leather-clad sexpot drafts Wesley into the society, he
+        hones his innate killing skills and turns avenger.","certification":"R","imdb_id":"tt0493464","tmdb_id":"8909","images":{"poster":"http://trakt.us/images/posters_movies/1595.jpg","fanart":"http://trakt.us/images/fanart_movies/1595.jpg"},"ratings":{"percentage":73,"votes":653,"loved":514,"hated":139},"genres":["Action","Crime","Thriller"]}},{"timestamp":1353470436,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"3 minutes, 59 seconds","short":"3m 59s"},"type":"movie","action":"watching","user":{"username":"wee_liam","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/cbb152e3ef8656f94dca5f5cdad1d91c.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/wee_liam"},"movie":{"title":"Mission:
+        Impossible - Ghost Protocol","year":2011,"released":1324454400,"url":"http://trakt.tv/movie/mission-impossible-ghost-protocol-2011","trailer":"http://youtube.com/watch?v=V0LQnQSrC-g","runtime":133,"tagline":"No
+        Plan. No Backup. No Choice.","overview":"In the 4th installment of the Mission
+        Impossible series, Ethan Hunt (Cruise) and his team are racing against time
+        to track down a dangerous terrorist named Hendricks (Nyqvist), who has gained
+        access to Russian nuclear launch codes and is planning a strike on the United
+        States. An attempt to stop him ends in an explosion causing severe destruction
+        to the Kremlin and the IMF to be implicated in the bombing, forcing the President
+        to disavow them. No longer being aided by the government, Ethan and his team
+        chase Hendricks around the globe, although they might still be too late to
+        stop a disaster.","certification":"PG-13","imdb_id":"tt1229238","tmdb_id":"56292","images":{"poster":"http://trakt.us/images/posters_movies/173627.2.jpg","fanart":"http://trakt.us/images/fanart_movies/173627.2.jpg"},"ratings":{"percentage":81,"votes":1290,"loved":1160,"hated":130},"genres":["Action","Adventure","Thriller"]}},{"timestamp":1353470435,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"4 minutes","short":"4m"},"type":"movie","action":"watching","user":{"username":"timnix","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/ed0916b036c2083b02a1f88e536769c8.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/timnix"},"movie":{"title":"Arthur
+        Christmas","year":2011,"released":1322035200,"url":"http://trakt.tv/movie/arthur-christmas-2011","trailer":"http://youtube.com/watch?v=7tk-WZSqIGQ","runtime":97,"tagline":"","overview":"This
+        Christmas movie highlights the technological advances of operations at the
+        North Pole, revealing how Santa and his vast army of highly trained elves
+        produce gifts and distribute them around the world in one night. However,
+        every operation has a margin of error\u2026 When one of 600 million children
+        to receive a gift from Santa on Christmas Eve is missed, it is deemed \"acceptable\"
+        to all but one, Arthur. Arthur Claus is Santa\u2019s misfit son who executes
+        an unauthorized rookie mission to get the last present half way around the
+        globe before dawn on Christmas morning.","certification":"PG","imdb_id":"tt1430607","tmdb_id":"51052","images":{"poster":"http://trakt.us/images/posters_movies/13477.1.jpg","fanart":"http://trakt.us/images/fanart_movies/13477.1.jpg"},"ratings":{"percentage":80,"votes":46,"loved":41,"hated":5},"genres":["Animation","Family"]}},{"timestamp":1353470435,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"4 minutes","short":"4m"},"type":"movie","action":"watching","user":{"username":"squatch24","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/6ae1a12857664ab23d8753c04b79216e.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/squatch24"},"movie":{"title":"Spider-Man
+        2","year":2004,"released":1088578800,"url":"http://trakt.tv/movie/spiderman-2-2004","trailer":"http://youtube.com/watch?v=enmFqm_N_ZE&hd=1","runtime":127,"tagline":"Sacrifice.","overview":"Peter
+        Parker is going through a major identity crisis. Burned out from being Spider-Man,
+        he decides to shelve his superhero alter ego, which leaves the city suffering
+        in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still
+        can''t act on his feelings for Mary Jane Watson, a girl he''s loved since
+        childhood.","certification":"PG-13","imdb_id":"tt0316654","tmdb_id":"558","images":{"poster":"http://trakt.us/images/posters_movies/534.jpg","fanart":"http://trakt.us/images/fanart_movies/534.jpg"},"ratings":{"percentage":77,"votes":762,"loved":640,"hated":122},"genres":["Action","Adventure","Crime","Drama","Fantasy","Science
+        Fiction"]}},{"timestamp":1353470424,"when":{"day":"Tue","time":"8:00 pm"},"elapsed":{"full":"4
+        minutes, 11 seconds","short":"4m 11s"},"type":"movie","action":"watching","user":{"username":"apozuelo","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/7301d3a926b991573e71cbdce480b47c.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/apozuelo"},"movie":{"title":"The
+        Dark Knight Rises","year":2012,"released":1342767600,"url":"http://trakt.tv/movie/the-dark-knight-rises-2012","trailer":"http://youtube.com/watch?v=7gFwvozMHR4","runtime":165,"tagline":"The
+        Legend Ends","overview":"Following the death of District Attorney Harvey Dent,
+        Batman assumes responsibility for Dent''s crimes to protect Dent''s reputation
+        and is subsequently hunted by the Gotham City Police Department. Eight years
+        later Batman encounters the mysterious Selina Kyle and the villainous Bane,
+        a new terrorist leader who overwhelms Gotham''s finest. The Dark Knight resurfaces
+        to protect a city that has branded him an enemy.","certification":"PG-13","imdb_id":"tt1345836","tmdb_id":"49026","images":{"poster":"http://trakt.us/images/posters_movies/166841.4.jpg","fanart":"http://trakt.us/images/fanart_movies/166841.4.jpg"},"ratings":{"percentage":90,"votes":1179,"loved":1140,"hated":39},"genres":["Action","Crime","Drama","Thriller"]}},{"timestamp":1353470423,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"4 minutes, 12 seconds","short":"4m 12s"},"type":"movie","action":"watching","user":{"username":"Blu_Haze","protected":false,"full_name":"","gender":"male","age":28,"location":"","about":"","avatar":"http://trakt.us/images/avatars/48604.1.jpg","url":"http://trakt.tv/user/Blu_Haze"},"movie":{"title":"Ice
+        Age: The Meltdown","year":2006,"released":1143792000,"url":"http://trakt.tv/movie/ice-age-the-meltdown-2006","trailer":"http://youtube.com/watch?v=kDP8ERAUnZc","runtime":91,"tagline":"The
+        Ice age is melting away.","overview":"Diego, Manny and Sid return in this
+        sequel to the hit animated movie Ice Age. This time around, the deep freeze
+        is over, and the ice-covered earth is starting to melt, which will destroy
+        the trio''s cherished valley. The impending disaster prompts them to reunite
+        and warn all the other beasts about the desperate situation.","certification":"PG","imdb_id":"tt0438097","tmdb_id":"950","images":{"poster":"http://trakt.us/images/posters_movies/173.jpg","fanart":"http://trakt.us/images/fanart_movies/173.jpg"},"ratings":{"percentage":82,"votes":567,"loved":505,"hated":62},"genres":["Adventure","Animation","Family"]}},{"timestamp":1353470421,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"4 minutes, 14 seconds","short":"4m 14s"},"type":"movie","action":"watching","user":{"username":"bansaw","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/d6d5b0559609a691eacb5679e3ff5879.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/bansaw"},"movie":{"title":"The
+        Dark Knight Rises","year":2012,"released":1342767600,"url":"http://trakt.tv/movie/the-dark-knight-rises-2012","trailer":"http://youtube.com/watch?v=7gFwvozMHR4","runtime":165,"tagline":"The
+        Legend Ends","overview":"Following the death of District Attorney Harvey Dent,
+        Batman assumes responsibility for Dent''s crimes to protect Dent''s reputation
+        and is subsequently hunted by the Gotham City Police Department. Eight years
+        later Batman encounters the mysterious Selina Kyle and the villainous Bane,
+        a new terrorist leader who overwhelms Gotham''s finest. The Dark Knight resurfaces
+        to protect a city that has branded him an enemy.","certification":"PG-13","imdb_id":"tt1345836","tmdb_id":"49026","images":{"poster":"http://trakt.us/images/posters_movies/166841.4.jpg","fanart":"http://trakt.us/images/fanart_movies/166841.4.jpg"},"ratings":{"percentage":90,"votes":1179,"loved":1140,"hated":39},"genres":["Action","Crime","Drama","Thriller"]}},{"timestamp":1353470421,"when":{"day":"Tue","time":"8:00
+        pm"},"elapsed":{"full":"4 minutes, 14 seconds","short":"4m 14s"},"type":"movie","action":"watching","user":{"username":"fthc","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/5821eb24ad18dafe6a040ec8235e8c31.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/fthc"},"movie":{"title":"Bill
+        & Ted''s Excellent Adventure","year":1989,"released":603705600,"url":"http://trakt.tv/movie/bill-and-teds-excellent-adventure-1989","trailer":"http://youtube.com/watch?v=sFy17auuK08","runtime":90,"tagline":"History
+        is about to be rewritten by two guys who can''t spell.","overview":"Bill and
+        Ted have spent so much time forming their rock band, The Wyld Stallyns, that
+        they''re flunking history. When Ted''s dad threatens to send him away to military
+        school, Bill and Ted realize it could mean the most heinous end of The Stallyns!
+        Luckly, a guide from the future, Rufus, has come to them with a most bodacious
+        solution.","certification":"PG","imdb_id":"tt0096928","tmdb_id":"1648","images":{"poster":"http://trakt.us/images/posters_movies/8378.jpg","fanart":"http://trakt.us/images/fanart_movies/8378.jpg"},"ratings":{"percentage":85,"votes":208,"loved":188,"hated":20},"genres":["Adventure","Comedy","Family","Science
+        Fiction"]}},{"timestamp":1353470410,"when":{"day":"Tue","time":"8:00 pm"},"elapsed":{"full":"4
+        minutes, 25 seconds","short":"4m 25s"},"type":"movie","action":"watching","user":{"username":"timetoes","protected":false,"full_name":"Tim
+        Christensen","gender":"male","age":41,"location":"Belgium","about":"","avatar":"http://trakt.us/images/avatars/64186.1.jpg","url":"http://trakt.tv/user/timetoes"},"movie":{"title":"Anger
+        Management","year":2003,"released":1046851200,"url":"http://trakt.tv/movie/anger-management-2003","trailer":"http://youtube.com/watch?v=v3zJDOZZ1d8","runtime":106,"tagline":"Feel
+        the Love.","overview":"After a misunderstanding aboard an airplane that escalates
+        out of control, the mild-mannered Dave Buznik is ordered by Judge Daniels
+        to attend anger management sessions run by Doctor Buddy Rydell, which are
+        filled with highly eccentric and volatile men and women. Buddy''s unorthodox
+        approach to therapy is confrontational and abrasive and Dave is bewildered
+        by it. Then, after yet another mishap, Judge Daniels orders Dave to step up
+        his therapy or wind up in jail. So, Buddy moves in with Dave to help him battle
+        his inner demons. Buddy himself has no inner demons since he acts out at every
+        opportunity and that includes making lewd comments about Dave''s girlfriend
+        Linda and goading Dave into confronting every slight, past or present, head-on.
+        But Buddy finally goes too far and Dave must decide whether to crawl back
+        into his shell or stand up for himself. Could it be that Buddy''s confounding
+        and contradictory treatment is just what the doctor ordered?","certification":"PG-13","imdb_id":"tt0305224","tmdb_id":"9506","images":{"poster":"http://trakt.us/images/posters_movies/2610.jpg","fanart":"http://trakt.us/images/fanart_movies/2610.jpg"},"ratings":{"percentage":72,"votes":260,"loved":205,"hated":55},"genres":["Comedy","Drama","Romance"]}},{"timestamp":1353470394,"when":{"day":"Tue","time":"7:59
+        pm"},"elapsed":{"full":"4 minutes, 41 seconds","short":"4m 41s"},"type":"movie","action":"watching","user":{"username":"rocksarntpeople","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/1ba374a5187593fc8cfb731be694ddfd.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/rocksarntpeople"},"movie":{"title":"The
+        Dark Knight Rises","year":2012,"released":1342767600,"url":"http://trakt.tv/movie/the-dark-knight-rises-2012","trailer":"http://youtube.com/watch?v=7gFwvozMHR4","runtime":165,"tagline":"The
+        Legend Ends","overview":"Following the death of District Attorney Harvey Dent,
+        Batman assumes responsibility for Dent''s crimes to protect Dent''s reputation
+        and is subsequently hunted by the Gotham City Police Department. Eight years
+        later Batman encounters the mysterious Selina Kyle and the villainous Bane,
+        a new terrorist leader who overwhelms Gotham''s finest. The Dark Knight resurfaces
+        to protect a city that has branded him an enemy.","certification":"PG-13","imdb_id":"tt1345836","tmdb_id":"49026","images":{"poster":"http://trakt.us/images/posters_movies/166841.4.jpg","fanart":"http://trakt.us/images/fanart_movies/166841.4.jpg"},"ratings":{"percentage":90,"votes":1179,"loved":1140,"hated":39},"genres":["Action","Crime","Drama","Thriller"]}},{"timestamp":1353470394,"when":{"day":"Tue","time":"7:59
+        pm"},"elapsed":{"full":"4 minutes, 41 seconds","short":"4m 41s"},"type":"movie","action":"watching","user":{"username":"joachimbremer","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/ba1877985cecb5e06943652a9729eab0.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/joachimbremer"},"movie":{"title":"Ocean''s
+        Thirteen","year":2007,"released":1181286000,"url":"http://trakt.tv/movie/oceans-thirteen-2007","trailer":"http://youtube.com/watch?v=YsqZosCj-qw","runtime":122,"tagline":"What
+        are the odds of getting even? 13 to one.","overview":"Danny Ocean''s team
+        of criminals are back and are composing a plan more personal than ever. When
+        ruthless casino owner Willy Bank double-crosses Reuben Tishkoff, causing a
+        heart attack, Danny Ocean vows that him and his team will do anything to bring
+        Willy Bank and everything he''s got down. Even if it includes hiring help
+        from one of their own enemies, Terry Benedict.","certification":"PG-13","imdb_id":"tt0496806","tmdb_id":"298","images":{"poster":"http://trakt.us/images/posters_movies/1181.jpg","fanart":"http://trakt.us/images/fanart_movies/1181.jpg"},"ratings":{"percentage":81,"votes":600,"loved":531,"hated":69},"genres":["Action","Comedy","Crime"]}},{"timestamp":1353470392,"when":{"day":"Tue","time":"7:59
+        pm"},"elapsed":{"full":"4 minutes, 43 seconds","short":"4m 43s"},"type":"movie","action":"watching","user":{"username":"maniac2403","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"avatar":"http://gravatar.com/avatar/f276a151c2ca8c0e8a3c1e33629cdefb.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/maniac2403"},"movie":{"title":"Total
+        Recall","year":2012,"released":1343977200,"url":"http://trakt.tv/movie/total-recall-2012","trailer":"http://youtube.com/watch?v=GljhR5rk5eY","runtime":121,"tagline":"What
+        Is Real?","overview":"A factory worker, Douglas Quaid, begins to suspect that
+        he is a spy after visiting Rekall - a company that provides its clients with
+        implanted fake memories of a life they would like to have led - goes wrong
+        and he finds himself on the run.","certification":"PG-13","imdb_id":"tt1386703","tmdb_id":"64635","images":{"poster":"http://trakt.us/images/posters_movies/171089.2.jpg","fanart":"http://trakt.us/images/fanart_movies/171089.2.jpg"},"ratings":{"percentage":74,"votes":452,"loved":381,"hated":71},"genres":["Action","Adventure","Science
+        Fiction","Thriller"]}}]}'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:04:48 GMT
+recorded_with: VCR 2.3.0

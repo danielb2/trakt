@@ -1,0 +1,130 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/calendar/premieres.json/98b4ad78733f4aad798fdc2dece67085/20110421/1
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDowNTowOCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"date":"2011-04-21","episodes":[{"show":{"title":"24 Hour Restaurant
+        Battle","year":1969,"url":"http://trakt.tv/show/24-hour-restaurant-battle","first_aired":0,"country":"United
+        States","overview":"Hosted by renowned chef Scott Conant (chef and owner of
+        Scarpetta and Faustina at The Cooper Square Hotel), each episode of 24 Hour
+        Restaurant Battle  features dueling two-person teams of aspiring restaurateurs
+        who have 24 hours to conceive, plan and open their own restaurants for one
+        night. On each team, one person handles front-of-house issues like decor,
+        seating and service while the other manages back-of-house matters like menu
+        planning, shopping and, of course, cooking. When the doors open, each restaurant
+        serves a discerning group of diners, along with Scott and a rotating panel
+        of judges representing three areas of expertise: restaurant marketer, restaurant
+        reviewer and restaurant investor. Based on the restaurant''s concept, execution
+        and viability, the judges choose a winning team to receive $10,000 seed money
+        toward realizing their dream.","runtime":60,"network":"Food Network","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"182421","tvrage_id":"25826","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"ratings":{"percentage":70,"votes":1,"loved":1,"hated":0},"genres":["Reality","Special
+        Interest"]},"episode":{"season":2,"number":1,"title":"Battle of the Exes","overview":"Two
+        former couples reunite to compete in a battle of the exes. One team serves
+        traditional New England cuisine, while the other focuses on exotic international
+        food. ","url":"http://trakt.tv/show/24-hour-restaurant-battle/season/2/episode/1","first_aired":1303369200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Dick
+        Figures","year":2010,"url":"http://trakt.tv/show/dick-figures","first_aired":1288594800,"country":"United
+        States","overview":"Two dysfunctional, satrical twin friends, Red & Blue both
+        go on exciting adventures which involves mostly sex appeal.","runtime":5,"network":"YouTube","air_day":"Thursday","air_time":"12:00am","certification":"TV-14","imdb_id":"1901983","tvdb_id":"251034","tvrage_id":"31668","images":{"poster":"http://trakt.us/images/posters/15948.jpg","fanart":"http://trakt.us/images/fanart/15948.jpg","banner":"http://trakt.us/images/banners/15948.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Animation","Comedy"]},"episode":{"season":2,"number":1,"title":"Zombies
+        & Shotguns","overview":"During a visit to the local MaulMart, Red struggles
+        to crack open some finger food, while Zombies go after much larger body parts.","url":"http://trakt.tv/show/dick-figures/season/2/episode/1","first_aired":1303369200,"images":{"screen":"http://trakt.us/images/episodes/15948-2-1.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Rescue
+        1","year":1969,"url":"http://trakt.tv/show/rescue-1","first_aired":0,"country":null,"overview":"Follow
+        the unsung heroes of Auckland''s Westpac Rescue Helicopters as they battle
+        to save lives in a race against time and pull off some of the most dangerous
+        and thrilling rescues ever shot in New Zealand.\n\nRescue 1, is a fast-paced
+        factual observational programme that follows the unsung heroes of Auckland''s
+        Westpac Helicopters as they struggle to save lives in a relentless race against
+        time. The third series will once again put viewers in the chopper''s front
+        seat and take them on some of the most daring and heart-wrenching rescues
+        the country has ever seen. ","runtime":30,"network":"TVNZ","air_day":"Thursday","air_time":"8:00pm","certification":"TV-PG","imdb_id":"","tvdb_id":"179401","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/8438.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Reality"]},"episode":{"season":3,"number":1,"title":"Episode
+        1","overview":"The Rescue1 chopper team struggle to save a Paeroa farmer.","url":"http://trakt.tv/show/rescue-1/season/3/episode/1","first_aired":1303369200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Finder","year":2012,"url":"http://trakt.tv/show/the-finder","first_aired":1326355200,"country":"United
+        States","overview":"From the creator of the hit series \u201cBones\u201d comes
+        \u201cThe Finder\u201d.  An Iraq war vet suffers a brain injury that triggers
+        the ability to see connections between seemingly unrelated events, objects
+        or people.","runtime":60,"network":"FOX","air_day":"Wednesday","air_time":"8:00pm","certification":"TV-14","imdb_id":"tt1943524","tvdb_id":"248651","tvrage_id":"28173","images":{"poster":"http://trakt.us/images/posters/10258.2.jpg","fanart":"http://trakt.us/images/fanart/10258.2.jpg","banner":"http://trakt.us/images/banners/10258.2.jpg"},"ratings":{"percentage":86,"votes":320,"loved":288,"hated":32},"genres":["Drama"]},"episode":{"season":0,"number":1,"title":"The
+        Finder (Bones 6x19)","overview":"Bones Spin-Off Episode (Bones 6x19). The
+        remains of a maritime museum security guard are found in the Florida Everglades
+        after an attempt to steal an obsolete 17th century nautical chart fragment
+        used to find treasures. In order to solve the crime, Booth seeks out Walter
+        Sherman, a former Iraqi soldier with an uncanny gift to unearth anyone and
+        anything. With Sherman''s help, as well as that of his colleague, Ike Latulippe,
+        and his legal advisor, Leo Knox, the team is led to tattoo artist who points
+        them in the direction of a tough young woman. But when the woman is found
+        murdered with remnants of the map lodged in her remains, the team discovers
+        centuries of history linked to the map and the suspect behind the crimes.
+        Meanwhile, Brennan puts Sherman''s remarkable skill to the test, and Booth
+        harbors cold feelings toward his former military comrade.","url":"http://trakt.tv/show/the-finder/specials/episode/1","first_aired":1303369200,"images":{"screen":"http://trakt.us/images/episodes/10258-0-1.2.jpg"},"ratings":{"percentage":97,"votes":6,"loved":6,"hated":0}}},{"show":{"title":"The
+        Voice (US)","year":2011,"url":"http://trakt.tv/show/the-voice-us","first_aired":1303801200,"country":null,"overview":"\"The
+        Voice\" is a vocal competition series modeled after Holland''s top-rated vocal
+        talent discovery show, \"The Voice of Holland.\" Hosted by Carson Daly, the
+        show features four musician coaches: Christina Aguilera, Cee Lo Green, Adam
+        Levine and Blake Shelton, who will coach only the most talented vocalists.
+        The show''s innovative format features three stages of competition: the first
+        begins with the blind audition, then the competition enters into a battle
+        phase, and finally, the live performance. The show''s casting team is working
+        with the music industry and searching the country for the best singers to
+        bring to the blind audition process. During the blind auditions, the decisions
+        from the coaches are based solely on voice and not on looks. The coaches hear
+        the contestants perform, but they don''t get to see them - thanks to rotating
+        chairs.","runtime":120,"network":"NBC","air_day":"Monday","air_time":"8:00pm","certification":"TV-PG","imdb_id":"tt1839337","tvdb_id":"247824","tvrage_id":"27447","images":{"poster":"http://trakt.us/images/posters/8127.jpg","fanart":"http://trakt.us/images/fanart/8127.jpg","banner":"http://trakt.us/images/banners/8127.jpg"},"ratings":{"percentage":75,"votes":245,"loved":190,"hated":55},"genres":["Reality"]},"episode":{"season":0,"number":1,"title":"Preview","overview":"","url":"http://trakt.tv/show/the-voice-us/specials/episode/1","first_aired":1303369200,"images":{"screen":"http://trakt.us/images/fanart/8127-940.jpg"},"ratings":{"percentage":100,"votes":2,"loved":2,"hated":0}}},{"show":{"title":"Long
+        Lost Family","year":2011,"url":"http://trakt.tv/show/long-lost-family","first_aired":1303369200,"country":"United
+        Kingdom","overview":"Presented by Davina McCall and Nicky Campbell, the series
+        offers a last chance for people who are desperate to find long lost relatives.
+        The series helps a handful of people, some of whom have been searching in
+        vain for many years, find the family members they are desperately seeking.
+        It explores the background and context of each family''s estrangement and
+        tracks the detective work and often complex and emotional process of finding
+        each lost relative before they are reunited. With the help and support of
+        Davina and Nicky, each relative is guided and supported through the process
+        of tracing the member of their family they have been desperately seeking,
+        in some cases for most of their lives. ","runtime":50,"network":"ITV1","air_day":"Thursday","air_time":"9:00pm","certification":"","imdb_id":"","tvdb_id":"258255","tvrage_id":"28006","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/16391.jpg","banner":"http://trakt.us/images/banners/16391.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Documentary"]},"episode":{"season":1,"number":1,"title":"Episode
+        1","overview":"Jennifer Wilson looks for her twin sister, from whom she was
+        separated at birth when they were adopted by different couples. Karen Lloyd
+        searches for her father, whom she has never met before.","url":"http://trakt.tv/show/long-lost-family/season/1/episode/1","first_aired":1303369200,"images":{"screen":"http://trakt.us/images/fanart/16391-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Hagane
+        no Onna","year":2010,"url":"http://trakt.tv/show/hagane-no-onna","first_aired":1274425200,"country":null,"overview":"Haga
+        Ineko stopped being a school teacher for she was about to get married. When
+        she is suddenly dumped by her to-be husband, she loses her way, and starts
+        drinking. One day, an old friend approaches with a job offer. She would be
+        a substitute teacher in a class on which several teachers gave up without
+        an apparent reason. She reluctantly takes the job only to discover that there
+        are several brutal bullying cases inside the class. Even she eventually starts
+        being anonymously threatened due to her opposing posture against such cases.
+        She now has to identify and reprimand them while at the same time protecting
+        weaker students. The word \"Hagane\" on the title is a nickname which comes
+        from Haga (her surname) and Ne (from Ineko, her name), but is actually a pun
+        with the actual word hagane (which means steel, denoting how she must be in
+        order to resist as a teacher).","runtime":45,"network":"TV Asahi","air_day":"Friday","air_time":"11:15pm","certification":"","imdb_id":"tt1710300","tvdb_id":"211271","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/8163.jpg","fanart":"http://trakt.us/images/fanart/8163.jpg","banner":"http://trakt.us/images/banners/8163.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Drama"]},"episode":{"season":2,"number":1,"title":"","overview":"","url":"http://trakt.tv/show/hagane-no-onna/season/2/episode/1","first_aired":1303369200,"images":{"screen":"http://trakt.us/images/fanart/8163-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}}]}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:05:20 GMT
+recorded_with: VCR 2.3.0

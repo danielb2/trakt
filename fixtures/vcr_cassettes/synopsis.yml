@@ -1,0 +1,75 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.iana.org/domains/example/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDowNToyMyBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4zIChDZW50T1Mp
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAwOSBGZWIgMjAxMSAxNzoxMzoxNSBHTVQ=
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+    body:
+      encoding: US-ASCII
+      string: ! "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n\t<title>IANA
+        &mdash; Example domains</title>\n\t<!-- start common-head -->\n\t<meta http-equiv=\"Content-type\"
+        content=\"text/html; charset=utf-8\" />\n\t<link rel=\"stylesheet\" type=\"text/css\"
+        href=\"/_css/2008.1/reset-fonts-grids.css\" />\n\t<link rel=\"stylesheet\"
+        type=\"text/css\" media=\"screen\" href=\"/_css/2008.1/screen.css\" />\n\t<link
+        rel=\"stylesheet\" type=\"text/css\" media=\"print\" href=\"/_css/2008.1/print.css\"
+        />\n\t<link rel=\"shortcut icon\" type=\"image/ico\" href=\"/favicon.ico\"
+        />\n\t<script type=\"text/javascript\" src=\"/_js/prototype.js\"></script>\n\t<script
+        type=\"text/javascript\" src=\"/_js/corners.js\"></script>\n\t<script type=\"text/javascript\"
+        src=\"/_js/common.js\"></script>\n\t<!-- end common-head -->\n\n</head>\n<body>\n\t<!--
+        start common-bodyhead -->\n\t<div id=\"header-frame\">\n\t<div id=\"header\">\n\t<div
+        id=\"header-logo\"><a href=\"/\"><img src=\"/_img/iana-logo-pageheader.png\"
+        alt=\"Homepage\"/></a></div>\n\t<div id=\"header-nav\">\n\t<ul>\n\t<li><a
+        href=\"/domains/\">Domains</a></li>\n\t<li><a href=\"/numbers/\">Numbers</a></li>\n\t<li><a
+        href=\"/protocols/\">Protocols</a></li>\n\t<li><a href=\"/about/\">About IANA</a></li>\n\t</ul>\n\t</div>\n\t</div>\n\t</div>\n\n\t<div
+        id=\"body-container\">\n\t<div id=\"body\">\n\t<!-- end common-bodyhead -->\n\n\n\t<h1>Example
+        Domains</h1>\n\n\t<p>As described in <a href=\"/go/rfc2606\">RFC 2606</a>,\n\twe
+        maintain a number of domains such as EXAMPLE.COM and EXAMPLE.ORG\n\tfor documentation
+        purposes. These domains may be used as illustrative\n\texamples in documents
+        without prior coordination with us. They are \n\tnot available for registration.</p>\n\n\t
+        <!-- start common-bodytail -->\n\t</div>\n\t</div>\n\n\t<div id=\"footer-frame\">\n\t<div
+        id=\"footer\">\n\n\n\t<table width=100%>\n\t<tr>\n\t\t<td id=\"iana-footer-first\"><b><a
+        href=\"/about/\">About</a></b><br/>\n                <a href=\"/about/presentations/\">Presentations</a><br/>\n
+        \               <a href=\"/about/performance/\">Performance</a><br/>\n\t\t<a
+        href=\"/reports/\">Reports</a><br/>\n                </td>\n\n\t\t<td><b><a
+        href=\"/domains/\">Domains</a></b><br/>\n\t\t<a href=\"/domains/root/\">Root
+        Zone</a><br/>\n\t\t<a href=\"/domains/int/\">.INT</a><br/>\n\t\t<a href=\"/domains/arpa/\">.ARPA</a><br/>\n\t\t<a
+        href=\"/domains/idn-tables/\">IDN Repository</a></td>\n\n\t\t<td><b><a href=\"/protocols/\">Protocols</a></b><br/>\n\t\t<br/>\n\t\t<b><a
+        href=\"/numbers/\">Number Resources</a></b><br/>\n\t\t<a href=\"/abuse/\">Abuse
+        Information</a></td>\n\n\t\t<td id=\"iana-footer-icann\"><img src=\"/_img/icann-logo-micro.png\"><br/>IANA
+        is operated by the<br/><a href=\"http://www.icann.org/\">Internet Corporation
+        for Assigned Names and Numbers</a></td>\n\t</tr>\n\t</table>\n\n<div id=\"footer-beta-feedback\">\n
+        \       <p>Please direct general feedback regarding IANA to <a href=\"mailto:iana@iana.org?subject=General%20website%20feedback\">iana@iana.org</a>.</p>\n
+        \       </div>\n\n\t</div>\n\t</div>\n\t<!-- end common-bodytail -->\n\n\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:05:23 GMT
+recorded_with: VCR 2.3.0

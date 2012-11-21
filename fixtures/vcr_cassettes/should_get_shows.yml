@@ -1,0 +1,816 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/calendar/shows.json/98b4ad78733f4aad798fdc2dece67085/20110416/1
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDowNTowOSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"date":"2011-04-16","episodes":[{"show":{"title":"Gosick","year":2011,"url":"http://trakt.tv/show/gosick","first_aired":1294387200,"country":"Japan","overview":"In
+        a European country neatly tucked beside the Alps Kazuya Kujo returns from
+        studying abroad at the prestigious Saint Marguerite Academy, where urban legends
+        and horror stories are popular. His brainy friend, Victorique, is much more
+        intrigued by true stories, and she uses her unrivaled logic to solve mysteries
+        even the town''s famous detective can''t.","runtime":25,"network":"TV Tokyo","air_day":"Friday","air_time":"4:00pm","certification":"","imdb_id":"","tvdb_id":"218191","tvrage_id":"27270","images":{"poster":"http://trakt.us/images/posters/2148.jpg","fanart":"http://trakt.us/images/fanart/2148.jpg","banner":"http://trakt.us/images/banners/2148.jpg"},"ratings":{"percentage":91,"votes":22,"loved":21,"hated":1},"genres":["Animation","Drama"]},"episode":{"season":1,"number":13,"title":"He
+        Who is His Own Lawyer Has a Fool for a Client","overview":"Kujo and Avril
+        explore one of the school''s towers and Avril figures that it is related to
+        the legend of Leviathan, an alchemist who lived there decades before. Victorique
+        stumbles on a pop-up book containing a cryptic message aledgely from Leviathan
+        himself and when a death occurs at the top of the tower, she decides to investigate
+        by herself. ","url":"http://trakt.tv/show/gosick/season/1/episode/13","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/2148-1-13.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"A
+        Quiet Word","year":2010,"url":"http://trakt.tv/show/a-quiet-word","first_aired":1285657200,"country":null,"overview":"A
+        Quiet Word With is an occasional series of one-on-one conversations between
+        Tony Martin and a high profile entertainer.\n\nMartin has been spouting his
+        nonsense for close to three decades, on TV (The D-Generation, The Late Show),
+        radio (Martin/Molloy, Get This), in books (Lolly Scramble, A Nest of Occasionals),
+        as a stand-up comic, and on his website The Scrivener\u2019s Fancy. Now he
+        has taken up interviewing.\n\nTwo chairs, no clips, and work-related talk
+        only. A Quiet Word with\u2026 is not a show about people\u2019s marriages,
+        divorces, children and parents. It\u2019s about a rather thin, film and comedy
+        nerd talking shop with someone he admires for 26 minutes. There are some brief
+        opening titles, an irritatingly catchy theme tune and quite nice lighting.
+        Apart from that, it\u2019s just interesting talk, surprising tangents and
+        more than a few cheap laughs.","runtime":30,"network":"ABC","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"201661","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/14996.jpg","banner":"http://trakt.us/images/banners/14996.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy","Talk
+        Show"]},"episode":{"season":1,"number":5,"title":"A Quiet Word with Simon
+        Pegg & Nick Frost","overview":"Comedian Tony Martin gives fellow comedians
+        Simon Pegg and Nick Frost a comprehensive going over on the eve of their latest
+        collaboration, sci-fi comedy Paul.","url":"http://trakt.tv/show/a-quiet-word/season/1/episode/5","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/14996-1-5.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"America''s
+        Test Kitchen","year":2001,"url":"http://trakt.tv/show/americas-test-kitchen","first_aired":978336000,"country":"United
+        States","overview":"In \"America''s Test Kitchen From Cook''s Illustrated,\"
+        a team of expert chefs continue to provide viewers with practical recipes
+        and recommendations that they can use to save money, time and effort in the
+        kitchen. With its uniquely scientific flavor, the show uses blind tasting
+        judges, flash animations and laboratory procedures to answer a variety of
+        kitchen questions. Putting everything from pasta and pasta pots, cheese and
+        cheese graters, as well as host Chris Kimball to the test, this series offers
+        surprises that often defy price points and move beyond fancy packaging and
+        brand expectations.","runtime":30,"network":"PBS","air_day":"","air_time":"12:00am","certification":"","imdb_id":"tt0437700","tvdb_id":"80297","tvrage_id":"10581","images":{"poster":"http://trakt.us/images/posters/8434.jpg","fanart":"http://trakt.us/images/fanart/8434.jpg","banner":"http://trakt.us/images/banners/8434.jpg"},"ratings":{"percentage":92,"votes":11,"loved":10,"hated":1},"genres":["Home
+        and Garden","Special Interest"]},"episode":{"season":11,"number":16,"title":"Easier
+        Italian Favorites","overview":"Recipes for Hearty Minestrone and Almost Hands-Free
+        Risotto are shared. ","url":"http://trakt.tv/show/americas-test-kitchen/season/11/episode/16","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/8434-11-16.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Ancient
+        MegaStructures","year":2011,"url":"http://trakt.tv/show/ancient-megastructures","first_aired":1299916800,"country":null,"overview":"","runtime":50,"network":"National
+        Geographic","air_day":"","air_time":"12:00am","certification":"TV-G","imdb_id":"tt1015518","tvdb_id":"95521","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/2815.jpg","fanart":"http://trakt.us/images/fanart/2815.jpg","banner":"http://trakt.us/images/banners/2815.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Documentary"]},"episode":{"season":1,"number":4,"title":"Petra","overview":"Carved
+        into the side of a narrow gorge in the unforgiving deserts of Petra in modern
+        day Jordan, the ancient Nabataeans turned engineering on its head to create
+        their glorious royal city, Khazneh. ","url":"http://trakt.tv/show/ancient-megastructures/season/1/episode/4","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/2815-1-4.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Britain''s
+        Got Talent","year":2007,"url":"http://trakt.tv/show/britains-got-talent","first_aired":1181372400,"country":"United
+        Kingdom","overview":"The search for the next big variety act in the UK is
+        on with ITV''s Britain''s Got Talent. Popular comedians and hosts Ant and
+        Dec join the judges Simon Cowell, David Williams, Alesha Dixon and Amanda
+        Holden on this highly anticipated show that will culminate in not only a big
+        cash prize of \u00a3100,000 for the winning act, but also a starring slot
+        in a performance attended by Her Majesty the Queen.","runtime":60,"network":"ITV2","air_day":"Saturday","air_time":"12:00am","certification":"","imdb_id":"tt1034201","tvdb_id":"80727","tvrage_id":"16137","images":{"poster":"http://trakt.us/images/posters/2760.jpg","fanart":"http://trakt.us/images/fanart/2760.jpg","banner":"http://trakt.us/images/banners/2760.jpg"},"ratings":{"percentage":64,"votes":30,"loved":20,"hated":10},"genres":["Reality"]},"episode":{"season":5,"number":1,"title":"Auditions
+        1","overview":"Woo. Britain''s Got Talent is back. Oh yes, the show that brought
+        us the operatic stylings of Paul Potts, the urban dancing of Diversity, the
+        mind-blowing news that someone who looks like Susan Boyle can sing (who''da
+        thought it? OK, everyone except a trio of superficial judges, to be fair)
+        and last year''s gymnastic-tastic winners, Spelbound, began again last night
+        with an hour-and-a-half rammed with 30 minutes of half-decent material (the
+        montages really are as good as ever \u2013 look: a girl with a harp. A Michael
+        Jackson impersonator. A boy with a guitar asking when he can go and have something
+        to eat.) and an hour of the sort of guff that makes staying in on a Saturday
+        such a pleasure","url":"http://trakt.tv/show/britains-got-talent/season/5/episode/1","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/2760-5-1.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Cardfight!!
+        Vanguard","year":2011,"url":"http://trakt.tv/show/cardfight-vanguard","first_aired":1294473600,"country":"Japan","overview":"The
+        protagonist of this story, Sendo Aichi, is a timid boy in his third year of
+        middle school. He had been living his life looking backward rather than forward,
+        trying not to stand out. However, he had one thing that kept him going - the
+        Blaster Blade, a card from a card game that was given to him when he was little.
+        That card is the reason why he begins to engage in Card Fights, something
+        that changes his life drastically.\n\nThe name of the card game is Vanguard.
+        The game takes place in a different planet called Klay, and due to a never
+        before seen play system, it becomes popular throughout the world.\n\nAichi,
+        immediately attracted by Vanguard, meets friends such as Togura Misaki and
+        Katsuragi Kamui, along with other rivals. Through friendly rivalry with them,
+        Aichi begins to enjoy a fulfilling life. Aichi, however, has a goal: to once
+        again battle with a Vanguard Fighter by the name of Kai Toshiki. Kai is an
+        aloof and cold-hearted high schooler who has outstanding abilities in the
+        world of Vanguard. He is also the reason why Aichi started playing the game.
+        For him, Toshiki is the person who saved him from his boring life and introduced
+        him to Vanguard. In order to get better at Vanguard, Aichi puts his soul into
+        it every day. He wishes that someday, he will be able to battle Toshiki and
+        have him recognise his worth.","runtime":25,"network":"","air_day":"Saturday","air_time":"12:00am","certification":"TV-14","imdb_id":"","tvdb_id":"245821","tvrage_id":"27275","images":{"poster":"http://trakt.us/images/posters/9448.jpg","fanart":"http://trakt.us/images/fanart/9448.jpg","banner":"http://trakt.us/images/banners/9448.jpg"},"ratings":{"percentage":70,"votes":3,"loved":2,"hated":1},"genres":[""]},"episode":{"season":1,"number":15,"title":"Thrilling?!
+        Emi''s First Fight","overview":"As Emi continues coming to the Card Capital
+        Card Shop, Shin convinces her to try the game out for herself. While approaching
+        the game shop, Katsumi has his fortune told and he finds that he will have
+        luck with his juniors today (however, Yuta corrects him and says that he''ll
+        have terrible luck today). When they arrive at the card shop, Aichi is surprised
+        when Emi is preparing to play Vanguard. Emi is handed Misaki''s deck as Shin
+        wants both Aichi and Emi to battle together. However, Katsumi wishes to take
+        Aichi''s place and a battle between the new player Emi and the \"Expert Naive
+        Player\" Katsumi begins, with Kamui bitter about how Katsumi is playing against
+        her instead of himself. Despite only using \"cute\" cards, Emi defeats Katsumi
+        with some beginner''s luck. ","url":"http://trakt.tv/show/cardfight-vanguard/season/1/episode/15","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/9448-1-15.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Cats
+        101","year":2008,"url":"http://trakt.tv/show/cats-101","first_aired":1228550400,"country":"United
+        States","overview":"Discover everything about your feline friend in Cats 101.
+        This series highlights the frisky, feisty and contagiously cute behaviors
+        that helped these cheeky creatures overtake dogs as the most popular pet in
+        America. Learn about the various breeds, their genetic history, famous felines
+        and quirky cat facts.","runtime":60,"network":"Animal Planet","air_day":"","air_time":"12:00am","certification":"","imdb_id":"tt1538039","tvdb_id":"189111","tvrage_id":"20728","images":{"poster":"http://trakt.us/images/posters/7531.jpg","fanart":"http://trakt.us/images/fanart/7531.jpg","banner":"http://trakt.us/images/banners/7531.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Reality"]},"episode":{"season":4,"number":2,"title":"Bambino,
+        Pixie-Bob, Domestic Longhair, Cheetoh,Australian Mist, Napoleon","overview":"Bambino,
+        Pixie-Bob, Domestic Longhair, Cheetoh,Australian Mist, Napoleon","url":"http://trakt.tv/show/cats-101/season/4/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/7531-4-2.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Deutschland
+        sucht den Superstar","year":2002,"url":"http://trakt.tv/show/deutschland-sucht-den-superstar","first_aired":1036828800,"country":"Germany","overview":"","runtime":100,"network":"RTL
+        Television","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"84955","tvrage_id":"18357","images":{"poster":"http://trakt.us/images/posters/8731.jpg","fanart":"http://trakt.us/images/fanart/8731.jpg","banner":"http://trakt.us/images/banners/8731.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Reality"]},"episode":{"season":8,"number":27,"title":"","overview":"","url":"http://trakt.tv/show/deutschland-sucht-den-superstar/season/8/episode/27","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/8731-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Deutschland
+        sucht den Superstar","year":2002,"url":"http://trakt.tv/show/deutschland-sucht-den-superstar","first_aired":1036828800,"country":"Germany","overview":"","runtime":100,"network":"RTL
+        Television","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"84955","tvrage_id":"18357","images":{"poster":"http://trakt.us/images/posters/8731.jpg","fanart":"http://trakt.us/images/fanart/8731.jpg","banner":"http://trakt.us/images/banners/8731.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Reality"]},"episode":{"season":8,"number":28,"title":"","overview":"","url":"http://trakt.tv/show/deutschland-sucht-den-superstar/season/8/episode/28","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/8731-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Dragon
+        Ball Z Abridged","year":2008,"url":"http://trakt.tv/show/dragon-ball-z-abridged","first_aired":1212303600,"country":null,"overview":"Dragon
+        Ball Z Abridged is the title of TeamFourStar''s abridged series based on the
+        Dragon Ball Z anime. This abridged series is one of the most successful series
+        created in ''08-''09 and was featured on That Guy with The Glasses official
+        website.\n\nDragon Ball Z Abridged is a direct parody with most characters
+        and plot lines remaining relatively unchanged. Origins of concepts and names
+        within the series often alternate between the FUNimation Dub, and the original
+        Japanese version. For example, the character Tien is sometimes referred to
+        as Tenshinhan, which is his name in the Japanese dub. Some original attack-names
+        are preserved as well, such as Tien''s \"Ki-Ko-Ho,\" instead of \"Tri-beam.\"","runtime":10,"network":"","air_day":"","air_time":"12:00am","certification":"TV-PG","imdb_id":"tt1883610","tvdb_id":"248580","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/10453.jpg","fanart":"http://trakt.us/images/fanart/10453.jpg","banner":"http://trakt.us/images/banners/10453.jpg"},"ratings":{"percentage":82,"votes":11,"loved":9,"hated":2},"genres":["Animation","Comedy"]},"episode":{"season":2,"number":12,"title":"The
+        Good, The Bad, And The Purple","overview":"","url":"http://trakt.tv/show/dragon-ball-z-abridged/season/2/episode/12","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/10453-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Gardening
+        Australia","year":1969,"url":"http://trakt.tv/show/gardening-australia","first_aired":0,"country":"Australia","overview":"","runtime":30,"network":"ABC
+        Australia","air_day":"","air_time":"12:00am","certification":"TV-G","imdb_id":"","tvdb_id":"85074","tvrage_id":"17720","images":{"poster":"http://trakt.us/images/posters/19065.jpg","fanart":"http://trakt.us/images/fanart/19065.jpg","banner":"http://trakt.us/images/banners/19065.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Home
+        and Garden","Special Interest"]},"episode":{"season":2011,"number":10,"title":"Episode
+        10","overview":"","url":"http://trakt.tv/show/gardening-australia/season/2011/episode/10","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/19065-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"High
+        Stakes Poker","year":2006,"url":"http://trakt.tv/show/high-stakes-poker","first_aired":1137398400,"country":"United
+        States","overview":"High Stakes Poker is the premier cash game in the history
+        of television. The world''s top amateur poker and professional poker players
+        risk hundreds of thousands from their own pockets.","runtime":60,"network":"GSN","air_day":"","air_time":"12:00am","certification":"","imdb_id":"tt0497294","tvdb_id":"79191","tvrage_id":"7942","images":{"poster":"http://trakt.us/images/posters/2378.jpg","fanart":"http://trakt.us/images/fanart/2378.jpg","banner":"http://trakt.us/images/banners/2378.jpg"},"ratings":{"percentage":71,"votes":14,"loved":10,"hated":4},"genres":["Game
+        Show"]},"episode":{"season":7,"number":8,"title":"Episode 8","overview":"","url":"http://trakt.tv/show/high-stakes-poker/season/7/episode/8","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/2378-940.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Hometime","year":1986,"url":"http://trakt.tv/show/hometime","first_aired":531216000,"country":"United
+        Kingdom","overview":"Hosted by Dean Johnson, Hometime''s aim is to help homeowners
+        achieve professional-looking results from their home improvement projects.
+        The Hometime crew tackles everything from landscaping, painting, and kitchen
+        facelifts to managing new construction and major additions to older houses.","runtime":30,"network":"PBS","air_day":"","air_time":"12:00am","certification":"","imdb_id":"tt0127999","tvdb_id":"82287","tvrage_id":"23846","images":{"poster":"http://trakt.us/images/posters/9943.jpg","fanart":"http://trakt.us/images/fanart/9943.jpg","banner":"http://trakt.us/images/banners/9943.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Home
+        and Garden"]},"episode":{"season":25,"number":11,"title":"Stone Cottage --
+        Carpet","overview":"Preparing and installing area rugs, stair runners and
+        wall-to-wall carpet and testing out the new central vacuum.","url":"http://trakt.tv/show/hometime/season/25/episode/11","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/9943-25-11.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Hot
+        Wheels Battle Force 5","year":2009,"url":"http://trakt.tv/show/hot-wheels-battle-force-5","first_aired":1251097200,"country":"United
+        States","overview":"Hot Wheels Battle Force 5 is an American/Canadian 3D CGI
+        animated television series created by Mattel, Nelvana and Nerd Corps Entertainment.
+        A two-episode preview aired on the Cartoon Network in the United States on
+        August 24th, 2009. The series will make its official debut on August 29.\n\nThe
+        first trailer for the series was released on the official Hot Wheels Battle
+        Force 5 website on June 25, 2009.[2] The first two episodes aired on Monday,
+        August 24th.\n\nThis is the forth production by Nerd Corps Entertainment,
+        following Storm Hawks, League of Super Evil, and Dragon Booster.","runtime":30,"network":"Cartoon
+        Network","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"111961","tvrage_id":"23420","images":{"poster":"http://trakt.us/images/posters/8784.jpg","fanart":"http://trakt.us/images/fanart/8784.jpg","banner":"http://trakt.us/images/banners/8784.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":[""]},"episode":{"season":2,"number":17,"title":"Sol
+        Survivor","overview":"The Battle Force 5 race against time to save Sage''s
+        mentor, Sol. ","url":"http://trakt.tv/show/hot-wheels-battle-force-5/season/2/episode/17","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/8784-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Mesternes
+        Mester","year":2009,"url":"http://trakt.tv/show/mesternes-mester","first_aired":1231488000,"country":"Norway","overview":"","runtime":60,"network":"NRK1","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"252932","tvrage_id":"30951","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Reality","Sport"]},"episode":{"season":3,"number":6,"title":"Episode
+        6","overview":"","url":"http://trakt.tv/show/mesternes-mester/season/3/episode/6","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Minecraft","year":2010,"url":"http://trakt.tv/show/minecraft","first_aired":1291276800,"country":null,"overview":"Simon
+        and Lewis explore Minecraftia and join up with interesting characters to face
+        off against an evil force that threatens the land!","runtime":20,"network":"","air_day":"","air_time":"12:00am","certification":"TV-Y","imdb_id":"","tvdb_id":"255793","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/15595.jpg","banner":"http://trakt.us/images/banners/15595.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Action","Adventure","Comedy","Special
+        Interest"]},"episode":{"season":3,"number":20,"title":"\"Shadow of Israphel\"
+        Part 20: The Dread Pirate Norris","overview":"Arriving at a strange harbour
+        town, the heroes must continue their quest for pieces of Karpath''s legendary
+        map - that will lead the way to defeating an ancient evil under the sands!","url":"http://trakt.tv/show/minecraft/season/3/episode/20","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/15595-3-20.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"My
+        Ordinary Life","year":2011,"url":"http://trakt.tv/show/my-ordinary-life","first_aired":1299916800,"country":"Japan","overview":"While
+        the title suggests a story of simple, everyday school life, the contents are
+        more the opposite. The setting is a strange school where you may see the principal
+        wrestle a deer or a robot''s arm hide a rollcake. However there are still
+        normal stories, like making a card castle or taking a test you didn''t study
+        for.\n\n","runtime":25,"network":"","air_day":"Saturday","air_time":"12:00am","certification":"","imdb_id":"tt2098308","tvdb_id":"240291","tvrage_id":"27991","images":{"poster":"http://trakt.us/images/posters/7173.jpg","fanart":"http://trakt.us/images/fanart/7173.jpg","banner":"http://trakt.us/images/banners/7173.jpg"},"ratings":{"percentage":91,"votes":12,"loved":12,"hated":0},"genres":["Animation","Comedy"]},"episode":{"season":1,"number":3,"title":"Nichijou
+        The Third","overview":"Yuko gets the feeling that Mai is mad at her and tries
+        to apologize in various ways, only to find out she was wearing headphones.
+        Meanwhile, Nano and the Professor finds a black cat and names it Sakamoto.
+        The Professor makes a special scarf which allows Sakamoto to speak, although
+        he ends up speaking in a rather condescending tone towards the two. Yuko has
+        an arm wrestling match with Mai only to lose repeatedly to the latter. ","url":"http://trakt.tv/show/my-ordinary-life/season/1/episode/3","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/7173-1-3.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Our
+        World (2007)","year":2007,"url":"http://trakt.tv/show/our-world-2007","first_aired":1175842800,"country":null,"overview":"Current
+        affairs documentary reporting on issues around the world","runtime":30,"network":"BBC
+        News","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"182031","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/8821.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/8821.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Documentary"]},"episode":{"season":2011,"number":11,"title":"Building
+        Helmand","overview":"If the West''s strategy in Afghanistan is to succeed,
+        the victory will have to be more than military. David Loyn travels to the
+        frontline province of Helmand to find out if British aid and development can
+        deliver a hard-won peace.","url":"http://trakt.tv/show/our-world-2007/season/2011/episode/11","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/8821-2011-11.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Pretty
+        Rhythm","year":2011,"url":"http://trakt.tv/show/pretty-rhythm","first_aired":1302332400,"country":null,"overview":"The
+        Prism Show is an all-new kind of ice skating show that requires its participants
+        to be figure skaters, models, and singers all at the same time. Aira and Rhythm
+        are two girls who both dream of becoming the Prism Queen. They''ll have to
+        train hard and overcome both their quarrels with each other and their blossoming
+        interest in boys if they want to achieve their dream.","runtime":30,"network":"TV
+        Tokyo","air_day":"Saturday","air_time":"12:00am","certification":"","imdb_id":"tt2019541","tvdb_id":"255925","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/17488.jpg","banner":"http://trakt.us/images/banner.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Animation"]},"episode":{"season":1,"number":2,"title":"Rhythm,
+        Jump from the Heart!","overview":"","url":"http://trakt.tv/show/pretty-rhythm/season/1/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/17488-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Project
+        Runway Korea","year":2009,"url":"http://trakt.tv/show/project-runway-korea","first_aired":1233993600,"country":null,"overview":"Project
+        Runway Korea is the Korean version of the American reality show Project Runway.","runtime":55,"network":"","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"110541","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/16915.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/16915.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Reality"]},"episode":{"season":3,"number":12,"title":"Episode
+        12","overview":"","url":"http://trakt.tv/show/project-runway-korea/season/3/episode/12","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Renovation
+        Realities","year":1969,"url":"http://trakt.tv/show/renovation-realities","first_aired":0,"country":"United
+        States","overview":"Get a peak at DIY nightmares, see the \"renovation realities\"
+        that other shows don''t want you to see!","runtime":30,"network":"HGTV","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"104191","tvrage_id":"21582","images":{"poster":"http://trakt.us/images/posters/11080.jpg","fanart":"http://trakt.us/images/fanart/11080.jpg","banner":"http://trakt.us/images/banners/11080.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Home
+        and Garden"]},"episode":{"season":6,"number":10,"title":"The Simmons Job","overview":"Gina
+        and Joey Simmons want to turn their junky attic into a new master bedroom
+        and bathroom. Even though they have renovated most of their house together,
+        this project quickly turns into a battlefield. Can these two full-time students
+        put aside their differences long enough to finish the project?","url":"http://trakt.tv/show/renovation-realities/season/6/episode/10","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/11080-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Sekaiichi
+        Hatsukoi","year":2011,"url":"http://trakt.tv/show/sekaiichi-hatsukoi","first_aired":1300777200,"country":"Japan","overview":"Onodera
+        Ritsu has just transferred from his father''s publishing company to Marukawa
+        Shoten. Assigned to the shoujo manga division, he crosses path with the person
+        he''d least expected to meet. Takano Masamune is the editor-in-chief of the
+        division Ritsu''s been assigned to, and the two seem get off on the wrong
+        foot right from the very start when Takano unexpectedly kisses him. However,
+        there is more to than what meets the eye: Takano is actually Saga, Ritsu''s
+        senpai and high school love, whom Ritsu had thought to have played him for
+        a fool by taking his affections for granted when he confessed and summarily
+        dumped him.","runtime":30,"network":"TV Tokyo","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"247788","tvrage_id":"28061","images":{"poster":"http://trakt.us/images/posters/8338.jpg","fanart":"http://trakt.us/images/fanart/8338.jpg","banner":"http://trakt.us/images/banners/8338.jpg"},"ratings":{"percentage":93,"votes":4,"loved":4,"hated":0},"genres":["Animation","Comedy","Drama"]},"episode":{"season":1,"number":2,"title":"A
+        Man Has Free Choice to Begin Love But Not to End It.","overview":"","url":"http://trakt.tv/show/sekaiichi-hatsukoi/season/1/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/8338-940.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Shadow
+        of Israphel","year":2010,"url":"http://trakt.tv/show/shadow-of-israphel","first_aired":1291276800,"country":null,"overview":"Simon
+        and Lewis explore Minecraftia and join up with interesting characters to face
+        off against an evil force that threatens the land!","runtime":20,"network":"","air_day":"","air_time":"12:00am","certification":"TV-14","imdb_id":"","tvdb_id":"238771","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/15809.jpg","fanart":"http://trakt.us/images/fanart/15809.jpg","banner":"http://trakt.us/images/banners/15809.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Action","Adventure","Comedy","Special
+        Interest","Animation"]},"episode":{"season":2,"number":20,"title":"The Dread
+        Pirate Norris","overview":"","url":"http://trakt.tv/show/shadow-of-israphel/season/2/episode/20","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/15809-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Stuff
+        They Don''t Want You To Know","year":2009,"url":"http://trakt.tv/show/stuff-they-dont-want-you-to-know","first_aired":1256108400,"country":null,"overview":"From
+        UFOs to psychic powers and government conspiracies, history is riddled with
+        unexplained events. Get a closer look at the Stuff They Don''t Want You To
+        Know in this video podcast from HowStuffWorks.com.","runtime":0,"network":"","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"255748","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/14417.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":[""]},"episode":{"season":2011,"number":15,"title":"Who
+        are the men in black?","overview":"Forget Will Smith: The real men in black
+        are much more sinister -- at least, that is, if they exist at all. But what
+        exactly are the men in black? Listen in to learn more about the conspiracy
+        theories concerning these mysterious individuals.","url":"http://trakt.tv/show/stuff-they-dont-want-you-to-know/season/2011/episode/15","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Big Game","year":2007,"url":"http://trakt.tv/show/the-big-game","first_aired":1179990000,"country":null,"overview":"The
+        PartyPoker Big Game. Commentary by Ian Frazer, Jesse May and Padraig Parkinson.
+        ","runtime":60,"network":"Five","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"91411","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Game
+        Show"]},"episode":{"season":5,"number":4,"title":"The Big Game V - 4","overview":"From
+        Dusk Till Dawn Casino in Nottingham, the 48 hour non-stop cash game continues.\n\nJesse
+        May is joined by Robert Williamson III to commentate at the 6 hour mark, with
+        Viffer still leading the chip counts and Devilfish Dinara Khaziyeva, Jennifer
+        Tilly, and Luke Schwartz the big winners so far.\n\nThe losers - Neil Channing,
+        Sam Tricket, Ryan Smith, Andr\u00e9 Pettersson, and Annette still struggling.\n\n","url":"http://trakt.tv/show/the-big-game/season/5/episode/4","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Peppercorns","year":1969,"url":"http://trakt.tv/show/the-peppercorns","first_aired":0,"country":null,"overview":"","runtime":30,"network":"","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"167231","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/15136.jpg","fanart":"http://trakt.us/images/fanart/15136.jpg","banner":"http://trakt.us/images/banners/15136.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Children"]},"episode":{"season":8,"number":12,"title":"","overview":"","url":"http://trakt.tv/show/the-peppercorns/season/8/episode/12","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/15136-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Vault","year":2010,"url":"http://trakt.tv/show/the-vault","first_aired":1289376000,"country":"United
+        Kingdom","overview":"The year is 2016. TV sucks. Ratings - at least at one
+        major network - are at an all-time low. Desperate to save their jobs, the
+        executives make an unprecedented decision: It''s time to pull the plug. On
+        everything. All programming must go. But what will replace it?\n\nEnter \"The
+        Vault,\" the greatest reality television competition in history... Or at least
+        that''s how they''re selling it. A 24/7 game show that offers more questions
+        than answers. The contestants, college students chosen from all over the country,
+        will have 7 days to uncover its secrets and win a multi-million dollar prize.
+        But once they''re locked inside, they''ll discover a game that''s bigger and
+        stranger than they could have ever imagined.","runtime":10,"network":"YouTube","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"261401","tvrage_id":"30733","images":{"poster":"http://trakt.us/images/posters/18432.jpg","fanart":"http://trakt.us/images/fanart/18432.jpg","banner":"http://trakt.us/images/banner.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":[""]},"episode":{"season":1,"number":1,"title":"Episode
+        1","overview":"","url":"http://trakt.tv/show/the-vault/season/1/episode/1","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/18432-1-1.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Tiger
+        & Bunny","year":2011,"url":"http://trakt.tv/show/tiger-and-bunny","first_aired":1301814000,"country":"Japan","overview":"Sternbild
+        City is home to people called \"Next,\" who use their special abilities to
+        protect the people as superheroes. These heroes solve cases and save lives
+        so they can wear sponsor logos or acquire \"hero points.\" Their activities
+        are documented on the popular program \"Hero TV,\" which picks the \"King
+        of Heroes\" in a yearly ranking. The veteran hero Wild Tiger has always preferred
+        to work alone, but now he''s been assigned the rookie Barnaby Brooks Jr.,
+        who has a different perspective on being a superhero","runtime":25,"network":"Tokyo
+        MX","air_day":"Saturday","air_time":"12:00am","certification":"","imdb_id":"tt2061527","tvdb_id":"246381","tvrage_id":"27994","images":{"poster":"http://trakt.us/images/posters/7187.jpg","fanart":"http://trakt.us/images/fanart/7187.jpg","banner":"http://trakt.us/images/banners/7187.jpg"},"ratings":{"percentage":95,"votes":11,"loved":11,"hated":0},"genres":["Action","Adventure","Animation","Science
+        Fiction"]},"episode":{"season":1,"number":3,"title":"Many a True Word is Spoken
+        in Jest","overview":"HERO TV decide to film a documentary about Barnaby, much
+        to Tiger''s dismay when it comes to the director''s commands. While visiting
+        a newly established building, the duo learn a bomb has been planted on one
+        of the elevators. As Barnaby tries to think of a way to disarm the bomb, in
+        the closing seconds, Tiger manages to convince him to combine their powers
+        to get the bomb to a safe height for it to explode. ","url":"http://trakt.tv/show/tiger-and-bunny/season/1/episode/3","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/7187-1-3.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"World
+        Rally Championship","year":1969,"url":"http://trakt.tv/show/world-rally-championship","first_aired":0,"country":null,"overview":"The
+        World Rally Championship (WRC) is a rallying  series organised by the FIA,
+        culminating with a champion driver and manufacturer. The driver''s world championship
+        and manufacturer''s world championship are separate championships, but based
+        on the same point system. The series currently consists of 13 three-day events
+        driven on surfaces ranging from gravel and tarmac to snow and ice. Each rally
+        is split into 15-25 special stages which are run against the clock on closed
+        roads.","runtime":30,"network":"","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"81601","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/5640.jpg","fanart":"http://trakt.us/images/fanart/5640.jpg","banner":"http://trakt.us/images/banners/5640.jpg"},"ratings":{"percentage":100,"votes":3,"loved":3,"hated":0},"genres":["Sport"]},"episode":{"season":2011,"number":15,"title":"Jordan
+        Day 2","overview":"","url":"http://trakt.tv/show/world-rally-championship/season/2011/episode/15","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/5640-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Deadman
+        Wonderland","year":2011,"url":"http://trakt.tv/show/deadman-wonderland","first_aired":1303023600,"country":"Japan","overview":"A
+        massive earthquake ravaged Japan''s mainland and destroyed most of Tokyo,
+        sinking three-quarters of it into the ocean. Ten years later, the story starts
+        with Igarashi Ganta, a seemingly ordinary, unassuming middle school student
+        attending Nagano Prefecture''s middle school. An escapee, a survivor of the
+        great earthquake, Ganta has no memories of the tragedy and has lived a simple,
+        normal life. This all changes one day when a strange man covered in blood
+        and crimson armour appears, floating, out of his classroom windows. Smirking
+        madly, this Red Man massacres Ganta''s entire class and, instead of killing
+        him, embeds a red crystal shard in his chest. Within days of the massacre,
+        Ganta is declared the sole suspect and, following a suspiciously quick trial,
+        is sentenced to life imprisonment in Deadman Wonderland, a massive theme-park-like
+        prison.","runtime":25,"network":"","air_day":"Saturday","air_time":"1:00am","certification":"TV-14","imdb_id":"tt1909447","tvdb_id":"247997","tvrage_id":"28064","images":{"poster":"http://trakt.us/images/posters/7728.jpg","fanart":"http://trakt.us/images/fanart/7728.jpg","banner":"http://trakt.us/images/banners/7728.jpg"},"ratings":{"percentage":90,"votes":44,"loved":43,"hated":1},"genres":["Animation"]},"episode":{"season":1,"number":1,"title":"Dead
+        Man Walking","overview":"As Ganta Igarashi and his classmates plan for a class
+        trip to Deadman Wonderland, a privately owned prison that also serves as an
+        amusement park, a mysterious red man appears, killing his entire class and
+        thrusting a red stone into Ganta''s chest. Being the only survivor out of
+        the entire class, Ganta is charged with mass murder and, due to the overwhelming,
+        and doctored, evidence against him and no way to prove his innocence, he is
+        sentenced to death and sent to Deadman Wonderland''s prison. As some of the
+        higher ups plot to kill Ganta in an ''accident'', Ganta meets a strange white-haired
+        girl named Shiro, who manages to read his heart and understand him. When a
+        bunch of bullies start attacking Ganta and Shiro, an explosion causes a large
+        object to fall towards Ganta. However, Ganta''s desire to keep living so he
+        can kill the red man activates the powers that were implanted in him, allowing
+        him to control his blood to save himself and Shiro. ","url":"http://trakt.tv/show/deadman-wonderland/season/1/episode/1","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/7728-1-1.jpg"},"ratings":{"percentage":86,"votes":14,"loved":13,"hated":1}}},{"show":{"title":"Click
+        (2000)","year":2000,"url":"http://trakt.tv/show/click-2000","first_aired":977817600,"country":null,"overview":"The
+        BBC''s flagship technology news programme. Click (previously Click Online)
+        is a weekly BBC television programme covering news and recent developments
+        in the world of consumer technology, presented by Spencer Kelly.\n\nThere
+        are three editions of the programme, including two 30-minute programmes: the
+        first is produced for a UK audience and shown on BBC News, the second is produced
+        for a global audience, aired on BBC World News, usually identical with a commercial
+        break in the middle. The 15-minute version is shown on BBC One and BBC News
+        during BBC Breakfast (at the weekend).\n\nThe programme was rebranded in 2005
+        with new music and titles and now concentrates more on consumer issues, and
+        not necessarily the internet or what users can do or visit \"online\".\n\n","runtime":30,"network":"BBC
+        News","air_day":"Saturday","air_time":"1:30am","certification":"","imdb_id":"tt2039535","tvdb_id":"84312","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/10482.jpg","fanart":"http://trakt.us/images/fanart/10482.jpg","banner":"http://trakt.us/images/banners/10482.jpg"},"ratings":{"percentage":90,"votes":1,"loved":1,"hated":0},"genres":["Documentary","News","Special
+        Interest"]},"episode":{"season":2011,"number":16,"title":"16/04/2011","overview":"How
+        do social networks make money? The team explore why we don''t pay to update
+        our online status. Also, the French town of Bordeaux gives its community a
+        hi-tech twist. Plus technology news and web reviews.","url":"http://trakt.tv/show/click-2000/season/2011/episode/16","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/10482-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Poker
+        After Dark","year":2007,"url":"http://trakt.tv/show/poker-after-dark","first_aired":1167638400,"country":"United
+        States","overview":"Professional poker players such as Phil Hellmuth, Mike
+        Matusow and Annie Duke compete against others in a game of No Limit Texas
+        hold ''em on a nightly basis in this heated show until only one player is
+        left with all the chips and the winner take all prize of $120,000.","runtime":60,"network":"NBC","air_day":"Daily","air_time":"2:00am","certification":"","imdb_id":"tt0971928","tvdb_id":"79715","tvrage_id":"15023","images":{"poster":"http://trakt.us/images/posters/1612.jpg","fanart":"http://trakt.us/images/fanart/1612.jpg","banner":"http://trakt.us/images/banners/1612.jpg"},"ratings":{"percentage":71,"votes":9,"loved":7,"hated":2},"genres":["Game
+        Show","Sport"]},"episode":{"season":7,"number":30,"title":"PLO 100k, Part
+        1 - Director''s Cut","overview":"Brandon Adams Patrik Antonius Phil Ivey Tom
+        Dwan Brian Hastings Phil Galfond Host : Leeann Tweeden Commentary : Oliver
+        \"Ali\" Nejad & Andy Bloch","url":"http://trakt.tv/show/poker-after-dark/season/7/episode/30","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/1612-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Dog
+        Days","year":2011,"url":"http://trakt.tv/show/dog-days","first_aired":1301122800,"country":"United
+        States","overview":"Shinku Izumi is a normal boy who studies at the International
+        School in Japan, and has a normal life everyday until he suddenly got summoned
+        to an alternate world called Flonyard. The people there look no different
+        from humans, except for one thing; they have ears and tails like dogs'' (and
+        other creatures that are similar, like foxes, etc). The one who summoned him
+        is Millhiore, the Princess of the Biscotti Republic, who requested his assistance
+        in repelling the forces that seek to invade their nation, known as the Galette
+        Lion Army. He receives one of the pair of Sacred Swords, the Palladion, and
+        is appointed as a Hero.\n\nHow would Sink lead his life in Biscotti, and interact
+        with the various characters there, and would he be able to successfully defend
+        his allies who he would later love so much?","runtime":25,"network":"MBS","air_day":"Sunday","air_time":"2:28am","certification":"","imdb_id":"tt2082624","tvdb_id":"247836","tvrage_id":"21161","images":{"poster":"http://trakt.us/images/posters/7623.jpg","fanart":"http://trakt.us/images/fanart/7623.jpg","banner":"http://trakt.us/images/banners/7623.jpg"},"ratings":{"percentage":93,"votes":4,"loved":4,"hated":0},"genres":["Animation","Fantasy"]},"episode":{"season":1,"number":3,"title":"I
+        Want to Go Home! I Can`t Go Home? Hero in Flognarde!","overview":"The battle
+        ends with Biscotti''s victory, but Cinque learns that Millhiore was not aware
+        that once he was summoned to Flonyard, he can''t return home. Meanwhile, Leonmitchelli''s
+        younger brother Gaul learns of his sister''s defeat and is eager to face Cinque
+        in combat.","url":"http://trakt.tv/show/dog-days/season/1/episode/3","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/7623-1-3.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Today","year":2011,"url":"http://trakt.tv/show/today","first_aired":1313218800,"country":"Australia","overview":"A
+        daily live broadcast provides current domestic and international news, weather
+        reports and interviews with newsmakers from the worlds of politics, business,
+        media, entertainment and sports.","runtime":180,"network":"NBC","air_day":"Daily","air_time":"7:00am","certification":"TV-PG","imdb_id":"tt0044298","tvdb_id":"70708","tvrage_id":"6371","images":{"poster":"http://trakt.us/images/posters/10753.jpg","fanart":"http://trakt.us/images/fanart/10753.jpg","banner":"http://trakt.us/images/banners/10753.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["News","Talk
+        Show"]},"episode":{"season":60,"number":106,"title":"April 16, 2011","overview":"Weekend
+        News","url":"http://trakt.tv/show/today/season/60/episode/106","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/10753-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Detective
+        Conan","year":1996,"url":"http://trakt.tv/show/detective-conan","first_aired":821088000,"country":"Japan","overview":"Seventeen-year-old
+        Kudo Shinichi is an ace detective, but when he witnesses a blackmail payoff,
+        two thugs in black give him a poison that turns him into a little boy. To
+        hide his identity he takes the name of Edogawa Conan--from Sir Arthur Conan
+        Doyle and Japanese mystery writer Ranpo Edogawa. His former girlfriend Mouri
+        Ran and her hare-brained detective father take Conan in. Trapped in a puny
+        body, Conan solves crimes, sometimes aided by the kids in the Junior Detective
+        League. Fortunately, his old friend Dr. Agasa supplies him with useful inventions,
+        including a solar-powered skateboard and shoes that give his diminutive legs
+        more strength. Nancy Drew might envy the keen powers of observation and even
+        keener deductive skills Shinichi/Conan employs to determine the perpetrators
+        of baffling murders, robberies, and kidnappings. ","runtime":25,"network":"NTV","air_day":"Monday","air_time":"7:30am","certification":"TV-14","imdb_id":"tt0131179","tvdb_id":"72454","tvrage_id":"3296","images":{"poster":"http://trakt.us/images/posters/1679.jpg","fanart":"http://trakt.us/images/fanart/1679.jpg","banner":"http://trakt.us/images/banners/1679.jpg"},"ratings":{"percentage":91,"votes":30,"loved":28,"hated":2},"genres":["Animation"]},"episode":{"season":0,"number":33,"title":"OVA
+        Magic File 5: The Niigata-Tokyo Souvenir Capriccio","overview":"","url":"http://trakt.tv/show/detective-conan/specials/episode/33","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/1679-0-33.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Detective
+        Conan","year":1996,"url":"http://trakt.tv/show/detective-conan","first_aired":821088000,"country":"Japan","overview":"Seventeen-year-old
+        Kudo Shinichi is an ace detective, but when he witnesses a blackmail payoff,
+        two thugs in black give him a poison that turns him into a little boy. To
+        hide his identity he takes the name of Edogawa Conan--from Sir Arthur Conan
+        Doyle and Japanese mystery writer Ranpo Edogawa. His former girlfriend Mouri
+        Ran and her hare-brained detective father take Conan in. Trapped in a puny
+        body, Conan solves crimes, sometimes aided by the kids in the Junior Detective
+        League. Fortunately, his old friend Dr. Agasa supplies him with useful inventions,
+        including a solar-powered skateboard and shoes that give his diminutive legs
+        more strength. Nancy Drew might envy the keen powers of observation and even
+        keener deductive skills Shinichi/Conan employs to determine the perpetrators
+        of baffling murders, robberies, and kidnappings. ","runtime":25,"network":"NTV","air_day":"Monday","air_time":"7:30am","certification":"TV-14","imdb_id":"tt0131179","tvdb_id":"72454","tvrage_id":"3296","images":{"poster":"http://trakt.us/images/posters/1679.jpg","fanart":"http://trakt.us/images/fanart/1679.jpg","banner":"http://trakt.us/images/banners/1679.jpg"},"ratings":{"percentage":91,"votes":30,"loved":28,"hated":2},"genres":["Animation"]},"episode":{"season":20,"number":6,"title":"Inubushi
+        Castle, The Ablazed Demon Dog (Will-o''-The-Wisp Chapter)","overview":"Kogoro
+        takes Ran, Kazuha, Conan, and Heiji to the Inubushi household where they are
+        introduced to the family. They learn about the legend passed down in the Inubushi
+        family where their ancestor set his dog on fire after mistakenly assuming
+        the dog killed his daughter while in reality, the dog saved his daughter.
+        The ancestor was then killed in a house fire and the myth of the Inubushi
+        curse was passed down. Conan and Heiji decide to investigate the headstone
+        of the supposed dog when they witness Saki Inubushi fall from a cliff. Saki
+        claims an ablaze inugami chased her and dies shortly after.","url":"http://trakt.tv/show/detective-conan/season/20/episode/6","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/1679-20-6.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Hive","year":2010,"url":"http://trakt.tv/show/the-hive","first_aired":1284188400,"country":null,"overview":"","runtime":7,"network":"ITV1","air_day":"Daily","air_time":"8:00am","certification":"TV-Y","imdb_id":"tt1715134","tvdb_id":"250092","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/13732.jpg","fanart":"http://trakt.us/images/fanart/13732.jpg","banner":"http://trakt.us/images/banners/13732.jpg"},"ratings":{"percentage":100,"votes":2,"loved":2,"hated":0},"genres":["Animation","Children"]},"episode":{"season":1,"number":32,"title":"Musical
+        Bees","overview":"When Grandpa gives his old xylophone to Buzzbee and Rubee,
+        they have to learn to play together. After all, it''s much more fun to share!","url":"http://trakt.tv/show/the-hive/season/1/episode/32","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/13732-1-32.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Kid
+        vs Kat","year":2008,"url":"http://trakt.tv/show/kid-vs-kat","first_aired":1224918000,"country":"Canada","overview":"When
+        ten-year old Coop Burtonburger\u2019s spoiled little sister Millie brings
+        home a mysterious stray cat, his idyllic life is turned upside down. Coop
+        soon discovers Kat is more than just a scrawny, purple, hairless pet; he is
+        also a super-smart, conniving mastermind with a fanatical hate for Coop himself.
+        Kat instantly declares war on Coop--to the death; the two fight constantly
+        as Coop tries to stop the Kat and tell the world about his possible plans,
+        only to find Kat destroying the evidence and putting the blame on Coop every
+        time.","runtime":30,"network":"YTV","air_day":"Saturday","air_time":"8:30am","certification":"","imdb_id":"tt1307224","tvdb_id":"148621","tvrage_id":"23085","images":{"poster":"http://trakt.us/images/posters/8898.jpg","fanart":"http://trakt.us/images/fanart/8898.jpg","banner":"http://trakt.us/images/banners/8898.jpg"},"ratings":{"percentage":100,"votes":3,"loved":3,"hated":0},"genres":["Animation","Children"]},"episode":{"season":2,"number":20,"title":"Hair
+        Brains / Hot Dog Day","overview":"Hair Brains: Kat coughs up a trio of living
+        hairballs, and he orders them to attack Coop\n\nHot Dog Day: It\u2019s Hot
+        Dog Day, and Coop has the honor of being named Keeper of the Weiner Water.
+        But Kat wants to ruin the most special day of the year. ","url":"http://trakt.tv/show/kid-vs-kat/season/2/episode/20","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/8898-2-20.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"rocKwiz","year":2005,"url":"http://trakt.tv/show/rockwiz","first_aired":1107158400,"country":"Australia","overview":"Julia
+        Zemiro and Brian Nankervis host Australia\u2019s premier music trivia quiz
+        show recorded live in St Kilda\u2019s hallowed Gershwin Room, deep in the
+        bosom of the legendary Esplanade Hotel.","runtime":40,"network":"SBS","air_day":"Saturday","air_time":"9:20am","certification":"TV-G","imdb_id":"","tvdb_id":"97041","tvrage_id":"7582","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/6883.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Game
+        Show"]},"episode":{"season":8,"number":5,"title":"Mary Gauthier and Jordie
+        Lane","overview":"","url":"http://trakt.tv/show/rockwiz/season/8/episode/5","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Wakfu","year":2008,"url":"http://trakt.tv/show/wakfu","first_aired":1225350000,"country":"France","overview":"A
+        boy with the power to create portals, an ignoramus warrior, an old treasure-hunter,
+        and an archer and her princess undertake a journey to defeat a being that
+        seeks to control time itself.","runtime":20,"network":"France 3","air_day":"Saturday","air_time":"9:30am","certification":"TV-G","imdb_id":"tt1807824","tvdb_id":"94121","tvrage_id":"24462","images":{"poster":"http://trakt.us/images/posters/8742.jpg","fanart":"http://trakt.us/images/fanart/8742.jpg","banner":"http://trakt.us/images/banners/8742.jpg"},"ratings":{"percentage":89,"votes":9,"loved":9,"hated":0},"genres":["Animation","Children","Fantasy"]},"episode":{"season":2,"number":8,"title":"Knight
+        Justice","overview":"","url":"http://trakt.tv/show/wakfu/season/2/episode/8","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/8742-2-8.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Fairy
+        Tail","year":2009,"url":"http://trakt.tv/show/fairy-tail","first_aired":1255330800,"country":"Japan","overview":"In
+        the land of Fiore, magic is everywhere. Sorcerers are like skilled tradesmen
+        who band together in \"guilds\" and take on paying assignments for non-magic
+        wielders, like hunting monsters, retrieving lost items or running odd errands.\n\nLucy
+        is an aspiring wizard who wants to hook up with the coolest guild around,
+        Fairy Tail. One day, she meets a red-headed boy who saves her from a unscrupulous
+        wizard, and before she knows it, she''s introduced to the wild and wacky band
+        of wizards of Fairy Tail and begins the adventure of a lifetime.","runtime":25,"network":"TV
+        Tokyo","air_day":"Saturday","air_time":"10:30am","certification":"TV-Y7","imdb_id":"tt1528406","tvdb_id":"114801","tvrage_id":"24288","images":{"poster":"http://trakt.us/images/posters/1007.1.jpg","fanart":"http://trakt.us/images/fanart/1007.1.jpg","banner":"http://trakt.us/images/banners/1007.1.jpg"},"ratings":{"percentage":87,"votes":139,"loved":121,"hated":18},"genres":["Animation","Fantasy"]},"episode":{"season":2,"number":27,"title":"The
+        24-Hour Endurance Road Race","overview":"The 24 hour race begins as all the
+        Fairy Tail members race to get Wyvern Scales from the top of Mt. Ivor. There
+        is no dropping out and no Flying Magic is allowed so Happy''s in a difficult
+        position but that does stop him from winning. Natsu,Jet Gray and Gajeel lose
+        and have to do embarrasing photo spreads for the Weekly Sorcerer for two weeks
+        as their punishment! And Happy is crushed by the fact that his prize is cheers
+        of joy and the honor of winning. ","url":"http://trakt.tv/show/fairy-tail/season/2/episode/27","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/1007-2-27.1.jpg"},"ratings":{"percentage":48,"votes":6,"loved":3,"hated":3}}},{"show":{"title":"Raveleijn","year":2011,"url":"http://trakt.tv/show/raveleijn","first_aired":1298707200,"country":"Netherlands","overview":"The
+        family Woudenberg, consisting of father, mother and five children, Thomas,
+        Maurice, Joost and the twins Emma and Lisa, moved from the city to an old
+        inn at the edge of a forest. At the inn the children find, by digging, a mysterious
+        old city gate where a cryptic message appears: \"Where Raven will be Riders\".
+        Once they step through this gate, the children turn into adult riders and
+        the ravens change into magnificent horses. They stepped into a different world,
+        where an ancient city lies called Raveleijn. Count Olaf Grafhart rules there
+        with an iron fist and is assisted by monstrous beings called ''graffers''.
+        The children discover that in this other world they have special powers and
+        they decide to battle against the count and his monsters. A battle of life
+        or death...","runtime":25,"network":"RTL 8","air_day":"Saturday","air_time":"5:00pm","certification":"TV-PG","imdb_id":"","tvdb_id":"234531","tvrage_id":"27591","images":{"poster":"http://trakt.us/images/posters/9081.jpg","fanart":"http://trakt.us/images/fanart/9081.jpg","banner":"http://trakt.us/images/banners/9081.jpg"},"ratings":{"percentage":55,"votes":2,"loved":1,"hated":1},"genres":["Action","Adventure","Children"]},"episode":{"season":1,"number":7,"title":"","overview":"","url":"http://trakt.tv/show/raveleijn/season/1/episode/7","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/9081-1-7.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"It''s
+        Me or the Dog","year":2005,"url":"http://trakt.tv/show/its-me-or-the-dog","first_aired":1125471600,"country":"United
+        Kingdom","overview":"In just one minute dog behaviorist Victoria Stilwell
+        can take control of any dog and she''s determined to bring Britain''s baddest
+        dogs back in line. ","runtime":30,"network":"Animal Planet","air_day":"Saturday","air_time":"7:00pm","certification":"","imdb_id":"","tvdb_id":"83288","tvrage_id":"7174","images":{"poster":"http://trakt.us/images/posters/6672.jpg","fanart":"http://trakt.us/images/fanart/6672.jpg","banner":"http://trakt.us/images/banners/6672.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":[""]},"episode":{"season":5,"number":7,"title":"Bone
+        of Contention","overview":"","url":"http://trakt.tv/show/its-me-or-the-dog/season/5/episode/7","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/6672-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Oddities","year":2010,"url":"http://trakt.tv/show/oddities","first_aired":1288854000,"country":"United
+        States","overview":"ODDITIES dives into the weird world of strange and extraordinary
+        science artifacts through the eyes of the proprietors of Manhattan''s Obscura
+        Antiques & Oddities.","runtime":30,"network":"Science Channel","air_day":"Saturday","air_time":"6:00pm","certification":"TV-PG","imdb_id":"","tvdb_id":"204361","tvrage_id":"26890","images":{"poster":"http://trakt.us/images/posters/1254.jpg","fanart":"http://trakt.us/images/fanart/1254.jpg","banner":"http://trakt.us/images/banners/1254.jpg"},"ratings":{"percentage":86,"votes":16,"loved":16,"hated":0},"genres":["Reality"]},"episode":{"season":2,"number":2,"title":"Raising
+        The Dead","overview":"At Obscura Antiques and Oddities, shop regular Laura
+        Flook stumbles upon a disturbing, mysterious tonic -- made with actual testicles.
+        Meanwhile, when a customer can\u2019t part with his beloved \"pets,\" Ryan
+        accepts a challenge to \"rebuild\" them from recently unearthed remains. He
+        hits a serious snag when pieces of the formerly-purring pair are missing,
+        forcing him to take some artistic liberties that the customer finds intriguing.
+        Later, when a seller offers to part with what he calls a mummified human ear,
+        Mike and Evan must call in their expert to find out if it\u2019s the real
+        deal. ","url":"http://trakt.tv/show/oddities/season/2/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/1254-2-2.jpg"},"ratings":{"percentage":100,"votes":2,"loved":2,"hated":0}}},{"show":{"title":"Sing
+        If You Can","year":2011,"url":"http://trakt.tv/show/sing-if-you-can","first_aired":1302937200,"country":"United
+        Kingdom","overview":"Sing If You Can sees some of Britain\u2019s most popular
+        celebrities taken out of their comfort zone to perform in extreme and hilarious
+        circumstances.\n\nHosted by comedian Keith Lemon and Queen of the Jungle Stacey
+        Solomon, every episode will see two celebrity teams trying to belt out modern
+        hits and classic crowd-pleasers while taking on extraordinary challenges designed
+        to distract them.\n\nWill the celebs hold their nerve while performing a song
+        from a specially-designed erupting volcano? Or complete a solo while having
+        their chest waxed?\n\nEach episode features a celebrity judging panel, who
+        will cast an irreverent eye over proceedings.  Ultimately, however, it will
+        be the studio audience to decide which team goes through to the end game.
+        The stakes are high as one celebrity from the losing team will be plunged
+        into a giant water tank.\n\nIn the end game, the winning team can win money
+        for the show\u2019s nominated charity \u2013 Teenage Cancer Trust. The final
+        song is performed on a giant turntable that spins faster and faster. The longer
+        the team can keep their balance, the more they win for charity\u2026","runtime":60,"network":"ITV1","air_day":"Saturday","air_time":"7:00pm","certification":"","imdb_id":"","tvdb_id":"248008","tvrage_id":"27947","images":{"poster":"http://trakt.us/images/posters/8479.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"ratings":{"percentage":100,"votes":2,"loved":2,"hated":0},"genres":["Game
+        Show"]},"episode":{"season":1,"number":1,"title":"Episode 1","overview":"In
+        the first episode Hollywood star Brigitte Nielsen, West End leading lady Jodie
+        Prenger and Strictly''s Brendan Cole compete against singer Jonathan Ansell,
+        Pineapple Studio''s Andrew Stone and theatre star Zoe Birkett.","url":"http://trakt.tv/show/sing-if-you-can/season/1/episode/1","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"So
+        You Think You Can Dance UK","year":2010,"url":"http://trakt.tv/show/so-you-think-you-can-dance-uk","first_aired":1262419200,"country":"United
+        Kingdom","overview":"Cat Deeley presents the search for Britain''s favourite
+        dancer. Nigel Lythgoe and Arlene Phillips are on the judging panel as contestants
+        are challenged each week to master different styles of dance.","runtime":1,"network":"BBC
+        One","air_day":"Saturday","air_time":"7:00pm","certification":"","imdb_id":"","tvdb_id":"132481","tvrage_id":"24566","images":{"poster":"http://trakt.us/images/posters/4348.jpg","fanart":"http://trakt.us/images/fanart/4348.jpg","banner":"http://trakt.us/images/banners/4348.jpg"},"ratings":{"percentage":55,"votes":2,"loved":1,"hated":1},"genres":["Reality"]},"episode":{"season":2,"number":4,"title":"Meet
+        the Top 20","overview":"","url":"http://trakt.tv/show/so-you-think-you-can-dance-uk/season/2/episode/4","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/4348-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Good
+        Game: Spawn Point","year":2010,"url":"http://trakt.tv/show/good-game-spawn-point","first_aired":1266652800,"country":"Australia","overview":"Hosted
+        by passionate gamers Hex (Stephanie Bendixsen) and Bajo (Steven O''Donnell)
+        and not so nice Robot, Darren (Data Analysing Robot for the Ruthless Extermination
+        of Noobs), Good Game: SP will be the show for younger gamers by gamers.\n\nWith
+        nearly all young Australians regularly hitting start to play a video game
+        and the launch of ABC3, a channel dedicated to young Aussies, it was time
+        for Good Game to spawn a new program with the needs of young gamers firmly
+        in its sights. GG:SP features a mix of gamer reviews, stories about gaming
+        culture and plenty of audience interaction.","runtime":30,"network":"ABC","air_day":"Saturday","air_time":"7:30pm","certification":"","imdb_id":"","tvdb_id":"144281","tvrage_id":"31210","images":{"poster":"http://trakt.us/images/posters/8542.jpg","fanart":"http://trakt.us/images/fanart/8542.jpg","banner":"http://trakt.us/images/banners/8542.jpg"},"ratings":{"percentage":70,"votes":3,"loved":2,"hated":1},"genres":["Children","Special
+        Interest"]},"episode":{"season":2,"number":10,"title":"Episode 10 - 16/04/2011","overview":"3DS
+        Round Up Ask Good Game: Danny, Matthew Nash, E.L.I.S.E. and more... PlayStation
+        Move Heroes","url":"http://trakt.tv/show/good-game-spawn-point/season/2/episode/10","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/8542-2-10.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Kinderen
+        geen bezwaar","year":2004,"url":"http://trakt.tv/show/kinderen-geen-bezwaar","first_aired":1096095600,"country":"Netherlands","overview":"Kinderen
+        geen bezwaar is a Dutch comedy series which takes place in '' normal'' Dutch
+        family. The series mainly revolves about what happens in the family.\n\nSeven
+        years ago Gerard and Maud learned to know each other by means of a contact
+        advertisement. Gerard is approximately 12 years older than Maud. They got
+        married not long after they met. He cooks, brushes and does the laundry, in
+        fact everything in house and Maud works as psychotherapist with practice at
+        their home. Maud has a daughter Julia from her first marriage. Julia is adored
+        Gerard''s son Daan, from his ''previous'' life. Daan always tries everything
+        to get Julia, but he succeeds seldom. ","runtime":30,"network":"VARA","air_day":"Saturday","air_time":"7:30pm","certification":"","imdb_id":"","tvdb_id":"83604","tvrage_id":"19375","images":{"poster":"http://trakt.us/images/posters/7533.jpg","fanart":"http://trakt.us/images/fanart/7533.jpg","banner":"http://trakt.us/images/banners/7533.jpg"},"ratings":{"percentage":68,"votes":4,"loved":3,"hated":1},"genres":["Comedy"]},"episode":{"season":7,"number":27,"title":"Liever
+        koud dan bang","overview":"Jules is een echte man, maar wel een bange. En
+        Gerard kan de verwarming niet eens repareren. Misschien dat Inke ze kan helpen.
+        ","url":"http://trakt.tv/show/kinderen-geen-bezwaar/season/7/episode/27","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/7533-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Les
+        Myst\u00e8res de L''amour","year":2011,"url":"http://trakt.tv/show/les-mystres-de-lamour","first_aired":1297497600,"country":null,"overview":"","runtime":45,"network":"TMC","air_day":"Sunday","air_time":"7:45pm","certification":"","imdb_id":"tt1738562","tvdb_id":"233981","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/18763.jpg","fanart":"http://trakt.us/images/fanart/18763.jpg","banner":"http://trakt.us/images/banners/18763.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy","Drama"]},"episode":{"season":1,"number":18,"title":"","overview":"","url":"http://trakt.tv/show/les-mystres-de-lamour/season/1/episode/18","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/18763-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Les
+        Myst\u00e8res de L''amour","year":2011,"url":"http://trakt.tv/show/les-mystres-de-lamour","first_aired":1297497600,"country":null,"overview":"","runtime":45,"network":"TMC","air_day":"Sunday","air_time":"7:45pm","certification":"","imdb_id":"tt1738562","tvdb_id":"233981","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/18763.jpg","fanart":"http://trakt.us/images/fanart/18763.jpg","banner":"http://trakt.us/images/banners/18763.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy","Drama"]},"episode":{"season":1,"number":19,"title":"","overview":"","url":"http://trakt.tv/show/les-mystres-de-lamour/season/1/episode/19","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/18763-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Bellator
+        Fighting Championships","year":2009,"url":"http://trakt.tv/show/bellator-fighting-championships","first_aired":1238742000,"country":"United
+        States","overview":"This show pairs together Mixed Martial Arts (MMA) fighters
+        in a tournament to compete for the title of world champion. $100,000 will
+        be awarded to the winner in each weight division.","runtime":120,"network":"MTV2","air_day":"Friday","air_time":"8:00pm","certification":"TV-Y","imdb_id":"tt1836349","tvdb_id":"257550","tvrage_id":"25352","images":{"poster":"http://trakt.us/images/posters/15562.jpg","fanart":"http://trakt.us/images/fanart/15562.jpg","banner":"http://trakt.us/images/banners/15562.jpg"},"ratings":{"percentage":70,"votes":1,"loved":1,"hated":0},"genres":["Sport"]},"episode":{"season":4,"number":7,"title":"Bellator
+        Fighting Championships 41","overview":"","url":"http://trakt.tv/show/bellator-fighting-championships/season/4/episode/7","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/15562-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Iedereen
+        Is Gek Op Jack","year":2011,"url":"http://trakt.tv/show/iedereen-is-gek-op-jack","first_aired":1298707200,"country":"Netherlands","overview":"Jack
+        and Barbara with their children moved from Amsterdam to Almere. The parents
+        of Jack (Ton and Coby) are from the Jordan to them to live. Jack''s brother
+        Marco after his divorce with his parents revoked. The series recounts the
+        adventures of Jack in the house, and how he and his family are constantly
+        harassed by the rest of the family.","runtime":30,"network":"RTL 4","air_day":"Saturday","air_time":"8:00pm","certification":"TV-PG","imdb_id":"1857129","tvdb_id":"230041","tvrage_id":"27469","images":{"poster":"http://trakt.us/images/posters/9111.jpg","fanart":"http://trakt.us/images/fanart/9111.jpg","banner":"http://trakt.us/images/banners/9111.jpg"},"ratings":{"percentage":80,"votes":1,"loved":1,"hated":0},"genres":["Comedy"]},"episode":{"season":1,"number":8,"title":"De
+        ring","overview":"Jack komt er achter dat hij Barbara een verlovingsring heeft
+        gegeven met een nepdiamant. Hij probeert er alles aan te doen om zijn fout
+        goed te maken.\n\nIk moet papier hebben om hartjes te knippen voor Valentijnsdag
+        of zoiets. Heb je dat?\n\nWat moet ik doen? Als Barbara erachter komt denkt
+        ze dat ik niks om haar geef. Ze heeft verdomme een glazen ring om.\n\nLuister
+        Jack, ik moet je iets vertellen. Ik\u2026 ik heb overal gezocht maar\u2026
+        ik ben mijn verlovingsring kwijt.","url":"http://trakt.tv/show/iedereen-is-gek-op-jack/season/1/episode/8","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/9111-1-8.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Kid
+        in a Candy Store","year":2010,"url":"http://trakt.tv/show/kid-in-a-candy-store","first_aired":1278831600,"country":"United
+        States","overview":"Adam Gertler is your guide to hot confectionary spots
+        across the country in his new series, Kid in a Candy Store. Here are just
+        a few of the highlights featured on his delightfully sweet journey.","runtime":30,"network":"Food
+        Network","air_day":"Monday","air_time":"8:00pm","certification":"","imdb_id":"","tvdb_id":"174611","tvrage_id":"25827","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/17660.jpg","banner":"http://trakt.us/images/banners/17660.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Reality"]},"episode":{"season":2,"number":8,"title":"Easter
+        Basket","overview":"For Easter, Adam Gertler is filling his basket with the
+        season''s most inventive and indulgent confections. At Vosges Haut-Chocolat
+        in Chicago, untraditional Easter eggs are served with bacon, and the colorful
+        Enchanted Mushroom blends soft dark chocolate and hazelnut with organic Reishi
+        mushroom before it is decorated by hand. In Alpine, UT, see how the skilled
+        decorators at Kencraft Candy create Panoramic Eggs from pure sugar that last
+        for years. And at Madame Chocolat in Beverly Hills, discover the ultimate
+        Easter bunny -- standing more than three feet tall!","url":"http://trakt.tv/show/kid-in-a-candy-store/season/2/episode/8","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/17660-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Casualty","year":1986,"url":"http://trakt.tv/show/casualty","first_aired":525942000,"country":"United
+        Kingdom","overview":"Casualty is a weekly television show broadcast on BBC
+        One, and the longest running emergency medical drama television series in
+        the world. Created by Jeremy Brock and Paul Unwin, it was first broadcast
+        on 6 September 1986 and transmitted in the UK on BBC One. The producer was
+        Geraint Morris. The programme is based around the fictional Holby City Hospital
+        and focuses on the staff and patients of the hospital''s Accident and Emergency
+        Department.","runtime":50,"network":"BBC One","air_day":"Saturday","air_time":"8:15pm","certification":"","imdb_id":"tt0096555","tvdb_id":"71756","tvrage_id":"3005","images":{"poster":"http://trakt.us/images/posters/3611.jpg","fanart":"http://trakt.us/images/fanart/3611.jpg","banner":"http://trakt.us/images/banners/3611.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Drama"]},"episode":{"season":25,"number":32,"title":"A
+        Real Shame","overview":"The competition between Jordan and Miriam intensifies
+        after it is revealed the board will take into account the candidates'' appraisals
+        when appointing a sole clinical lead. Meanwhile, Jay is apprehensive about
+        opening his cancer test results and, following a phonecall from Charlie berating
+        him for a lack of commitment to Ruth, he visits her in the psychiatric ward.
+        Starring Ben Turner and Michael French.","url":"http://trakt.tv/show/casualty/season/25/episode/32","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/3611-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Ein
+        starkes Team","year":1994,"url":"http://trakt.tv/show/ein-starkes-team","first_aired":764841600,"country":null,"overview":"","runtime":90,"network":"ZDF","air_day":"Saturday","air_time":"8:15pm","certification":"","imdb_id":"tt0874686","tvdb_id":"140871","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/16241.jpg","fanart":"http://trakt.us/images/fanart/16241.jpg","banner":"http://trakt.us/images/banners/16241.jpg"},"ratings":{"percentage":90,"votes":1,"loved":1,"hated":0},"genres":["Action","Adventure","Drama"]},"episode":{"season":1,"number":48,"title":"","overview":"","url":"http://trakt.tv/show/ein-starkes-team/season/1/episode/48","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/16241-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"De
+        Beste Zangers van Nederland","year":2010,"url":"http://trakt.tv/show/de-beste-zangers-van-nederland","first_aired":1278313200,"country":null,"overview":"Each
+        episode one of the singers headlines. He determines who sings the song and
+        assess his musical colleagues. ","runtime":40,"network":"","air_day":"Saturday","air_time":"8:30pm","certification":"","imdb_id":"","tvdb_id":"114541","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/7627.jpg","banner":"http://trakt.us/images/banners/7627.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":[""]},"episode":{"season":3,"number":5,"title":"","overview":"","url":"http://trakt.tv/show/de-beste-zangers-van-nederland/season/3/episode/5","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/7627-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"I
+        Love Holland","year":2008,"url":"http://trakt.tv/show/i-love-holland","first_aired":1204963200,"country":null,"overview":"","runtime":130,"network":"RTL
+        4","air_day":"Saturday","air_time":"8:30pm","certification":"TV-G","imdb_id":"","tvdb_id":"156921","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/7788.jpg","fanart":"http://trakt.us/images/fanart/7788.jpg","banner":"http://trakt.us/images/banners/7788.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Game
+        Show"]},"episode":{"season":7,"number":4,"title":"","overview":"","url":"http://trakt.tv/show/i-love-holland/season/7/episode/4","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/7788-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"R
+        L Stine''s The Haunting Hour","year":2010,"url":"http://trakt.tv/show/r-l-stines-the-haunting-hour","first_aired":1293264000,"country":"United
+        States","overview":"","runtime":30,"network":"The Hub","air_day":"Saturday","air_time":"8:30pm","certification":"TV-PG","imdb_id":"tt1765510","tvdb_id":"220441","tvrage_id":"27117","images":{"poster":"http://trakt.us/images/posters/14525.jpg","fanart":"http://trakt.us/images/fanart/14525.jpg","banner":"http://trakt.us/images/banners/14525.jpg"},"ratings":{"percentage":100,"votes":2,"loved":2,"hated":0},"genres":["Children","Drama"]},"episode":{"season":1,"number":18,"title":"Pool
+        Shark","overview":" Can a handsome boy overcome his fear of the water and
+        convince people there is a shark in the pool? ","url":"http://trakt.tv/show/r-l-stines-the-haunting-hour/season/1/episode/18","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/14525-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Victorious","year":2010,"url":"http://trakt.tv/show/victorious","first_aired":1269673200,"country":"United
+        States","overview":"Chaos is coming to Tori Vega''s life. The 16 year old
+        is starting at a new high school; but not just any school. This is Hollywood
+        Arts, a performing arts school where crazy talented students learn how to
+        become real artists.. Until now, Tori didn''t think she had much talent of
+        her own, and was content to live in the shadow of her older sister, Trina.
+        Now, that''s all about to change... if Tori can see herself in a new light,
+        even a spotlight! But Hollywood Arts is still a high school, and Tori is still
+        the new kid. She''ll have to find new friends, do homework, and just try to
+        fit in. Will Tori grab a starring role in her new life?","runtime":30,"network":"Nickelodeon","air_day":"Saturday","air_time":"8:30pm","certification":"","imdb_id":"tt1604099","tvdb_id":"152721","tvrage_id":"25190","images":{"poster":"http://trakt.us/images/posters/2206.jpg","fanart":"http://trakt.us/images/fanart/2206.jpg","banner":"http://trakt.us/images/banners/2206.jpg"},"ratings":{"percentage":83,"votes":35,"loved":31,"hated":4},"genres":["Comedy","Children"]},"episode":{"season":2,"number":2,"title":"Beck
+        Falls For Tori","overview":"Sikowitz gets Tori an audition for a movie. She
+        doesn''t get the part but is casted as a stunt double instead. Tori now has
+        to do a very dangerous stunt that involves falling off a chair, through a
+        railing, and 40 feet off a building. But she is too afraid to go through with
+        it and now has to choose between risking injury, or quitting the movie and
+        earning a bad reputation in Hollywood. Meanwhile, Cat keeps dressing up in
+        random costumes she made including an impersonation of Sikowitz.","url":"http://trakt.tv/show/victorious/season/2/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/2206-2-2.jpg"},"ratings":{"percentage":80,"votes":2,"loved":2,"hated":0}}},{"show":{"title":"Shining","year":2011,"url":"http://trakt.tv/show/shining","first_aired":1297497600,"country":"United
+        States","overview":"This drama tells the success story of Han Jung Won, a
+        workaholic career woman who is determined to make her own way in life without
+        the help of her family, which has garnered considerable wealth from their
+        publishing company. Her life is turned upside down due to someone\u2019s mistake,
+        and she faces numerous setbacks on the road to recovery.","runtime":60,"network":"Munhwa
+        Broadcasting Corporation (MBC)","air_day":"Saturday","air_time":"8:40pm","certification":"","imdb_id":"","tvdb_id":"249509","tvrage_id":"7492","images":{"poster":"http://trakt.us/images/posters/13297.jpg","fanart":"http://trakt.us/images/fanart/13297.jpg","banner":"http://trakt.us/images/banners/13297.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Drama"]},"episode":{"season":1,"number":19,"title":"Episode
+        Ninteen","overview":"","url":"http://trakt.tv/show/shining/season/1/episode/19","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/13297-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"A
+        League of Their Own (2010)","year":2010,"url":"http://trakt.tv/show/a-league-of-their-own-2010","first_aired":1268294400,"country":null,"overview":"The
+        show takes its cue from sporting obsession and sets two teams of comedians,
+        celebrities and sports stars against each other in a test of their sporting
+        knowledge.  From record breaking feats to headline grabbing events, the show
+        is stuffed with the kind of sensational take home facts that sports fans just
+        love to quote.","runtime":60,"network":"Sky1","air_day":"Friday","air_time":"9:00pm","certification":"","imdb_id":"","tvdb_id":"149101","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/513.jpg","fanart":"http://trakt.us/images/fanart/513.jpg","banner":"http://trakt.us/images/banners/513.jpg"},"ratings":{"percentage":100,"votes":4,"loved":4,"hated":0},"genres":["Comedy","Sport"]},"episode":{"season":3,"number":6,"title":"Robbie
+        Fowler Christine Bleakley","overview":"In this latest banter-filled fix, Corden
+        welcomes God into the studio... well, the next best thing in footballing terms:
+        Robbie Fowler. Presenter Christine Bleakley pops up too. ","url":"http://trakt.tv/show/a-league-of-their-own-2010/season/3/episode/6","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/513-3-6.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Britain''s
+        Got More Talent","year":2007,"url":"http://trakt.tv/show/britains-got-more-talent","first_aired":1181372400,"country":"United
+        Kingdom","overview":"A sister show to Britain''s Got Talent, this show features
+        more of the acts featured on the main show as well as other acts that didn''t
+        quite make it onto the show. Hosted by Stephen Mulhern, he presents backstage
+        gossip from all the shows.","runtime":60,"network":"ITV2","air_day":"Saturday","air_time":"9:00pm","certification":"TV-G","imdb_id":"","tvdb_id":"83497","tvrage_id":"16431","images":{"poster":"http://trakt.us/images/posters/8215.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/8215.jpg"},"ratings":{"percentage":80,"votes":1,"loved":1,"hated":0},"genres":["Game
+        Show","Reality"]},"episode":{"season":5,"number":1,"title":"Episode 1","overview":"","url":"http://trakt.tv/show/britains-got-more-talent/season/5/episode/1","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Dan
+        Vs.","year":2011,"url":"http://trakt.tv/show/dan-vs","first_aired":1293868800,"country":"United
+        States","overview":"Dan thinks the whole world is against him. Maybe it is,
+        and maybe it isn''t -- not even his laid-back friend Chris is totally sure.
+        Maybe Dan''s just imagining it all. But, like Chris, you can''t help going
+        along for the ride when Dan dreams up his wild plots to get even with whoever
+        or whatever he thinks is out to get him.","runtime":30,"network":"The Hub","air_day":"Saturday","air_time":"9:00pm","certification":"","imdb_id":"tt1675276","tvdb_id":"219851","tvrage_id":"27120","images":{"poster":"http://trakt.us/images/posters/9437.jpg","fanart":"http://trakt.us/images/fanart/9437.jpg","banner":"http://trakt.us/images/banners/9437.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0},"genres":["Animation","Comedy"]},"episode":{"season":1,"number":14,"title":"The
+        Barber","overview":"","url":"http://trakt.tv/show/dan-vs/season/1/episode/14","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/9437-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Russell
+        Howard''s Good News Extra","year":1969,"url":"http://trakt.tv/show/russell-howards-good-news-extra","first_aired":0,"country":null,"overview":"Russell
+        Howard presents the hit show whose previous series pulled in up to 2.9 million
+        viewers a week and was the most requested BBC Three programme on iPlayer.\n\nThe
+        show is completely topical and totally up-to-date - with each episode put
+        together just 48 hours before transmission - so there is no way of predicting
+        what will feature in the each episode, but expect Russell to provide his own
+        unique take on the big stories getting our news media in a flap as well as
+        highlighting some of the more overlooked items that have caught his eye during
+        his forensic trawl through the newspapers, websites and TV stations.\n\nThe
+        previous series saw Russell cover the Icelandic volcano that brought Europe''s
+        air travel to a halt, the highs and lows of the most closely fought general
+        election campaign in recent memory, as well as pop star Craig David becoming
+        an ever-so-unlikely spokesman for a good cause.","runtime":45,"network":"BBC
+        Three","air_day":"Friday","air_time":"9:00pm","certification":"","imdb_id":"","tvdb_id":"202131","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/1376.jpg","banner":"http://trakt.us/images/banners/1376.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy","News"]},"episode":{"season":4,"number":4,"title":"Episode
+        4","overview":"","url":"http://trakt.tv/show/russell-howards-good-news-extra/season/4/episode/4","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/1376-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Supah
+        Ninjas","year":2011,"url":"http://trakt.tv/show/supah-ninjas","first_aired":1295251200,"country":"United
+        States","overview":"Mike Fukanaga thought dealing with his jokester best friend,
+        Owen Reynolds and trying to win the heart of his long time crush Amanda Mckay
+        would be the biggest challenges in high school. Boy was he wrong. When Mike
+        discovers that he comes from a long line of ninjas, he''s ushered into the
+        exciting world of crime-fighting, butt-kicking, and villain-battling. Mike
+        & Owen team up as \"Supah Ninjas\" and begin training with Mike''s grandpa
+        a.k.a \"Hologramps.\" Too bad it''s not as easy as it sounds -- between dealing
+        with drama at school and fighting super villains, these Supah Ninjas are in
+        for one tough battle.","runtime":30,"network":"Nickelodeon","air_day":"Monday","air_time":"9:00pm","certification":"","imdb_id":"tt1615925","tvdb_id":"220991","tvrage_id":"27478","images":{"poster":"http://trakt.us/images/posters/8196.jpg","fanart":"http://trakt.us/images/fanart/8196.jpg","banner":"http://trakt.us/images/banners/8196.jpg"},"ratings":{"percentage":65,"votes":2,"loved":1,"hated":1},"genres":["Action","Adventure"]},"episode":{"season":1,"number":2,"title":"Katara","overview":"The
+        ninjas pursue a cat burglar who will stop at nothing to get what she wants.","url":"http://trakt.tv/show/supah-ninjas/season/1/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/8196-940.jpg"},"ratings":{"percentage":70,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Unwrapped","year":2001,"url":"http://trakt.tv/show/unwrapped","first_aired":991378800,"country":"United
+        States","overview":"Ever wondered where the tiny marshmallows in your breakfast
+        cereal came from? Have we got a show for you! Each week, Unwrapped uncovers
+        behind-the-scenes details on classic American food, from peanut butter and
+        chocolate syrup to French fries and bubblegum. Join host Marc Summers as he
+        explores the test kitchens and the secrets behind lunch box treats, soda pop,
+        movie candy, and more. Unwrapped--the show for everyone who''s ever worn a
+        pair of wax lips.  Specials run times are 60 minutes.","runtime":30,"network":"Food
+        Network","air_day":"Monday","air_time":"9:00pm","certification":"","imdb_id":"","tvdb_id":"71142","tvrage_id":"701","images":{"poster":"http://trakt.us/images/posters/10210.jpg","fanart":"http://trakt.us/images/fanart/10210.jpg","banner":"http://trakt.us/images/banners/10210.jpg"},"ratings":{"percentage":83,"votes":3,"loved":3,"hated":0},"genres":["Documentary","News"]},"episode":{"season":0,"number":44,"title":"Easter
+        Basket","overview":"We''re hoppin'' down the bunny trail celebrating the sweet
+        and savory favorites from the Easter holiday! We start with Palmer''s Chocolate
+        Bunnies-did you know that three-quarters of us start by biting off the ears?
+        We also love our bunnies in the form of pasta by Annie''s Homegrown, and Bunny
+        Tracks Ice Cream by (who else?) Blue Bunny. Of course our \"Easter Basket\"
+        wouldn''t be complete without Peeps-but now the marshmallow favorites have
+        been dipped in another beloved confection! Plus, we''ll see how Easter hams
+        get their special flavor, see one of the country''s top egg decorators, and
+        sample Easter cakes both large and small. Marc Summers hosts a special hour-long
+        celebration of our favorite Spring holiday-\"Easter Basket\" Unwrapped.","url":"http://trakt.tv/show/unwrapped/specials/episode/44","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/10210-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Other
+        Times","year":2000,"url":"http://trakt.tv/show/other-times","first_aired":952848000,"country":null,"overview":"Andere
+        Tijden (English: Other Times) is a history programme on Dutch television of
+        the NTR and VPRO. There is also a version of the programme called Andere Tijden
+        Sport which shows programmes about sports history.","runtime":40,"network":"VPRO","air_day":"Sunday","air_time":"9:20pm","certification":"TV-G","imdb_id":"tt1475261","tvdb_id":"261971","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/19653.jpg","fanart":"http://trakt.us/images/fanart/19653.jpg","banner":"http://trakt.us/images/banners/19653.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Documentary","News","Reality"]},"episode":{"season":12,"number":30,"title":"","overview":"","url":"http://trakt.tv/show/other-times/season/12/episode/30","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/19653-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Have
+        I Got a Bit More News for You","year":2007,"url":"http://trakt.tv/show/have-i-got-a-bit-more-news-for-you","first_aired":1176447600,"country":"United
+        Kingdom","overview":"An extended version of the satirical news quiz, featuring
+        more of the stuff that wouldn''t fit into the regular programme.","runtime":45,"network":"BBC
+        Two","air_day":"Saturday","air_time":"9:30pm","certification":"TV-14","imdb_id":"","tvdb_id":"98231","tvrage_id":"25832","images":{"poster":"http://trakt.us/images/posters/4669.jpg","fanart":"http://trakt.us/images/fanart/4669.jpg","banner":"http://trakt.us/images/banners/4669.jpg"},"ratings":{"percentage":75,"votes":2,"loved":2,"hated":0},"genres":["Comedy","Game
+        Show","News"]},"episode":{"season":41,"number":2,"title":"Stephen Mangan,
+        Bob Ainsworth, Kevin Bridges","overview":"Team captains Paul Merton and Ian
+        Hislop are joined by guest host Stephen Mangan and guest panellists Bob Ainsworth
+        and Kevin Bridges.","url":"http://trakt.tv/show/have-i-got-a-bit-more-news-for-you/season/41/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/4669-940.jpg"},"ratings":{"percentage":90,"votes":2,"loved":2,"hated":0}}},{"show":{"title":"King
+        Geunchogo","year":2010,"url":"http://trakt.tv/show/king-geunchogo","first_aired":1289026800,"country":null,"overview":"The
+        story of King Geunchogo, warrior king of Baekje. Under his reign, the kingdom
+        experienced its glory days, with military conquests that saw him controlling
+        most of the Korean peninsula and a subsequent enhancement of political power
+        that reached its greatest height in Baekje''s history. ","runtime":55,"network":"KBS","air_day":"Sunday","air_time":"9:40pm","certification":"TV-PG","imdb_id":"","tvdb_id":"213491","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/19493.jpg","banner":"http://trakt.us/images/banners/19493.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Drama"]},"episode":{"season":1,"number":47,"title":"Episode
+        47","overview":"","url":"http://trakt.tv/show/king-geunchogo/season/1/episode/47","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/19493-1-47.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Can
+        You Hear My Heart","year":2011,"url":"http://trakt.tv/show/can-you-hear-my-heart","first_aired":1301727600,"country":null,"overview":"The
+        love story of Cha Dong Joo, man who''s been rendered deaf after an accident
+        but pretends he can hear, and Bong Woo Ri, a woman who''s intelligent but
+        pretends she''s dim-witted to protect the dignity of her mentally handicapped
+        father.","runtime":60,"network":"Munhwa Broadcasting Corporation (MBC)","air_day":"Saturday","air_time":"9:45pm","certification":"TV-14","imdb_id":"","tvdb_id":"248475","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/18469.jpg","fanart":"http://trakt.us/images/fanart/18469.jpg","banner":"http://trakt.us/images/banners/18469.jpg"},"ratings":{"percentage":75,"votes":2,"loved":2,"hated":0},"genres":["Drama","Mini
+        Series"]},"episode":{"season":1,"number":5,"title":"Episode Five","overview":"","url":"http://trakt.tv/show/can-you-hear-my-heart/season/1/episode/5","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/18469-1-5.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"48
+        Hours Mystery","year":1988,"url":"http://trakt.tv/show/48-hours-mystery","first_aired":569577600,"country":"United
+        States","overview":"Television''s most popular true-crime series, investigating
+        shocking cases and compelling real-life dramas with journalistic integrity
+        and cutting-edge style. \n\nThis in-depth approach has earned the program
+        and its teams numerous awards including three Peabodys, 17 Emmys and five
+        RTNDA Edward R. Murrow Awards.\n\nThe program was revamped in 2002 when Lesley
+        Stahl took over hosting duties from Dan Rather, and its name was changed to
+        48 Hours Investigates. The name was changed again to 48 Hours Mystery in 2004,
+        and with its single-topic format, it does not use a single host but is narrated
+        by the reporter assigned to the story.\n\nThe current format of the documentary
+        primarily deals with real life mysteries and crime stories, again with just
+        one mystery per episode, owing to its single topic per show heritage. The
+        program is not confined to reporting mysteries; CBS often uses the 48 Hours
+        title or timeslot to present special reports on events, such as a 2006 report
+        on the fifth anniversary of the September 11, 2001 attacks, or coverage of
+        the Virginia Tech massacre in April 2007. However, the relationship between
+        these special programs and the rest of the series is essentially limited to
+        the program''s title.","runtime":40,"network":"CBS","air_day":"Saturday","air_time":"10:00pm","certification":"","imdb_id":"","tvdb_id":"138551","tvrage_id":"7238","images":{"poster":"http://trakt.us/images/posters/597.jpg","fanart":"http://trakt.us/images/fanart/597.jpg","banner":"http://trakt.us/images/banners/597.jpg"},"ratings":{"percentage":100,"votes":6,"loved":6,"hated":0},"genres":["News"]},"episode":{"season":24,"number":20,"title":"Only
+        Casey Knows","overview":" It has been two-and-a-half years since Casey Anthony
+        was first arrested and charged with murdering her 2-year-old daughter, Caylee,
+        in a criminal case that has become a public obsession. \"The evidence is overwhelming,\"
+        Florida Attorney General Pam Bondi says. \"No one else in the world could''ve
+        done this except Casey Anthony.\" \"People hate her!\" Casey''s father, George
+        Anthony, told \"48 Hours\" in 2009. \"She''s been portrayed as an evil person,\"
+        added Cindy Anthony. Casey was a 22-year-old single mother. She and her daughter
+        lived with Casey''s parents, George and Cindy, in their Orlando home.  \"Casey
+        was a good mom,\" Cindy said. \"Casey put her daughter first.\" The little
+        girl was described by most everyone around her as incredibly cute, happy and
+        outgoing.  \"She was just a beautiful child,\" said Cindy. But Caylee disappeared
+        that summer after Casey took her daughter and left her parents'' home. Even
+        more startling, is that Casey waited an entire month before revealing to her
+        family and authorities that her child was missing - a fact that sent the local
+        media into overdrive. Correspondant Troy Roberts reports. ","url":"http://trakt.tv/show/48-hours-mystery/season/24/episode/20","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/597-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"My
+        Ghost Story: Caught on Camera","year":2010,"url":"http://trakt.tv/show/my-ghost-story-caught-on-camera","first_aired":1279350000,"country":"United
+        States","overview":"Everybody has a ghost story. But how many people have
+        filmed theirs? Hear true and unbelievable stories of the paranormal as told
+        by the people who lived through them--and actually captured their hauntings
+        on tape. These harrowing eye-witness accounts of the unexplainable are transformed
+        into more than tales with terrifying visual evidence. You''ll have no choice
+        but to believe your eyes. ","runtime":60,"network":"Biography Channel","air_day":"Saturday","air_time":"10:00pm","certification":"TV-14","imdb_id":"tt1592770","tvdb_id":"178141","tvrage_id":"25862","images":{"poster":"http://trakt.us/images/posters/777.jpg","fanart":"http://trakt.us/images/fanart/777.jpg","banner":"http://trakt.us/images/banners/777.jpg"},"ratings":{"percentage":84,"votes":7,"loved":6,"hated":1},"genres":["Documentary","Reality"]},"episode":{"season":2,"number":3,"title":"The
+        Demon In The Mist","overview":"A phantom breaches security at a South Carolina
+        government building; a pipe-smoking ghost haunts a lighthouse; a son killed
+        in a car accident makes his presence known to his grieving mother; a demon
+        attacks guests at a Texas house, leaving scratch marks across their bodies;
+        visitors to a restaurant restroom encounter a strange force strong enough
+        to make grown men cry; and a woman in Minnesota captures haunting photos and
+        unbelievable video of the spirits in her home. ","url":"http://trakt.tv/show/my-ghost-story-caught-on-camera/season/2/episode/3","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/777-2-3.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Parking
+        Wars","year":2008,"url":"http://trakt.tv/show/parking-wars","first_aired":1199779200,"country":"United
+        States","overview":"Follow the men and women of the Philadelphia Parking Authority
+        as they hand out tickets and take the heat from angry motorists. ","runtime":30,"network":"A&E","air_day":"Tuesday","air_time":"10:00pm","certification":"","imdb_id":"tt1182156","tvdb_id":"81343","tvrage_id":"18064","images":{"poster":"http://trakt.us/images/posters/578.jpg","fanart":"http://trakt.us/images/fanart/578.jpg","banner":"http://trakt.us/images/banners/578.jpg"},"ratings":{"percentage":72,"votes":14,"loved":10,"hated":4},"genres":["Reality"]},"episode":{"season":4,"number":14,"title":"Episode
+        14","overview":"Marylin faces an enraged stalker on her Philly ticket beat.
+        In Detroit, a woman booted on a job interview hurls insults at Rodney and
+        Sonjia. Two ex''s are reunited at the Philly impound lot after a car crash.","url":"http://trakt.tv/show/parking-wars/season/4/episode/14","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/578-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Parking
+        Wars","year":2008,"url":"http://trakt.tv/show/parking-wars","first_aired":1199779200,"country":"United
+        States","overview":"Follow the men and women of the Philadelphia Parking Authority
+        as they hand out tickets and take the heat from angry motorists. ","runtime":30,"network":"A&E","air_day":"Tuesday","air_time":"10:00pm","certification":"","imdb_id":"tt1182156","tvdb_id":"81343","tvrage_id":"18064","images":{"poster":"http://trakt.us/images/posters/578.jpg","fanart":"http://trakt.us/images/fanart/578.jpg","banner":"http://trakt.us/images/banners/578.jpg"},"ratings":{"percentage":72,"votes":14,"loved":10,"hated":4},"genres":["Reality"]},"episode":{"season":4,"number":15,"title":"Episode
+        15","overview":"In Philly, Jeff tickets foulmouthed truck drivers unloading
+        freight and insults in a no stopping zone.  Booter Sherry dares Garfield to
+        dye his hair to match their most booted car color that day. And a man tries
+        to help his girlfriend spring the car he got towed on her birthday.","url":"http://trakt.tv/show/parking-wars/season/4/episode/15","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/578-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Piers
+        Morgan''s Life Stories","year":2009,"url":"http://trakt.tv/show/piers-morgans-life-stories","first_aired":1235289600,"country":"United
+        Kingdom","overview":"Filmed in front of a studio audience, each programme
+        is devoted to one special celebrity guest. The interviews are intimate, in-depth
+        and emotionally-charged as Piers lays bare his subjects\u2019 life stories
+        over a revealing hour.","runtime":60,"network":"ITV1","air_day":"Saturday","air_time":"10:00pm","certification":"","imdb_id":"","tvdb_id":"121221","tvrage_id":"21818","images":{"poster":"http://trakt.us/images/posters/3917.jpg","fanart":"http://trakt.us/images/fanart/3917.jpg","banner":"http://trakt.us/images/banners/3917.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Talk
+        Show"]},"episode":{"season":5,"number":1,"title":"Russell Brand","overview":"","url":"http://trakt.tv/show/piers-morgans-life-stories/season/5/episode/1","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/3917-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Match
+        of the Day","year":1964,"url":"http://trakt.tv/show/match-of-the-day","first_aired":-169146000,"country":"United
+        Kingdom","overview":"Match of the Day (often abbreviated as MOTD) is the BBC''s
+        main football television programme. Typically, it is shown on BBC One on Saturday
+        evenings during the English football season, showing highlights of the day''s
+        matches in the Barclays Premier League. It is one of the BBC''s longest-running
+        shows, having been on air since 1964, though it has not always been aired
+        regularly. The ''Match of the Day'' brand is also often used for live football
+        coverage on the BBC. They run a competition called Goal of the Month, choosing
+        the best goal each month, where the winner from there will then be entered
+        into a goal of the season award.","runtime":80,"network":"BBC One","air_day":"Saturday","air_time":"10:15pm","certification":"TV-Y","imdb_id":"","tvdb_id":"109411","tvrage_id":"7342","images":{"poster":"http://trakt.us/images/posters/634.jpg","fanart":"http://trakt.us/images/fanart/634.jpg","banner":"http://trakt.us/images/banners/634.jpg"},"ratings":{"percentage":99,"votes":10,"loved":10,"hated":0},"genres":["Sport"]},"episode":{"season":2010,"number":33,"title":"MOTD
+        - April 16th, 2011","overview":"Gary Lineker introduces highlights from the
+        Premier League. Reigning champions Chelsea travel to the Hawthorns to face
+        West Bromwich Albion, who have lost their last 11 games against the Blues
+        in both league and cup matches, and were thrashed 6-0 at Stamford Bridge on
+        the opening day of the season. New boss Roy Hodgson, who replaced former Chelsea
+        favourite Roberto Di Matteo in February, will need to tighten up the Baggies''
+        defence if they are to beat the drop. Two more sides battling for survival
+        meet at Bloomfield Road, where Blackpool host Wigan. The Latics will be desperate
+        to avenge the 4-0 mauling they suffered against the Seasiders back in August.
+        Sunderland boss Steve Bruce faces his former club Birmingham at St Andrew''s,
+        while Everton meet Blackburn and West Ham face Aston Villa.","url":"http://trakt.tv/show/match-of-the-day/season/2010/episode/33","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/634-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"ProzhektorPerisHilton","year":2008,"url":"http://trakt.tv/show/prozhektorperishilton","first_aired":1211007600,"country":null,"overview":"","runtime":30,"network":"\u041f\u0435\u0440\u0432\u044b\u0439
+        \u043a\u0430\u043d\u0430\u043b","air_day":"Saturday","air_time":"10:20pm","certification":"TV-14","imdb_id":"","tvdb_id":"114841","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/3389.jpg","fanart":"http://trakt.us/images/fanart/3389.jpg","banner":"http://trakt.us/images/banners/3389.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy","Talk
+        Show"]},"episode":{"season":3,"number":26,"title":"","overview":"","url":"http://trakt.tv/show/prozhektorperishilton/season/3/episode/26","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/3389-3-26.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Am
+        Sgula","year":2011,"url":"http://trakt.tv/show/am-sgula","first_aired":1302332400,"country":null,"overview":"","runtime":25,"network":"","air_day":"Saturday","air_time":"10:35pm","certification":"","imdb_id":"","tvdb_id":"248133","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/13266.jpg","fanart":"http://trakt.us/images/fanart/13266.jpg","banner":"http://trakt.us/images/banners/13266.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Comedy"]},"episode":{"season":1,"number":2,"title":"","overview":"","url":"http://trakt.tv/show/am-sgula/season/1/episode/2","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/13266-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"That
+        Metal Show","year":2008,"url":"http://trakt.tv/show/that-metal-show","first_aired":1226736000,"country":"United
+        States","overview":"That Metal Show is a talk show hosted by Eddie Trunk with
+        co-hosts Jim Florentine and Don Jamieson. It premiered on VH1 Classic on November
+        15, 2008. New episodes air on VH1 Classic on Saturday nights and are rebroadcast
+        throughout the week.\n\nThe show focuses on discussions about \"all things
+        hard rock and heavy metal\", past and present. Among the regular segments
+        are round table discussions and debates between the three regular hosts, interviews
+        with heavy metal musicians, \"Stump the Trunk,\" where audience members ask
+        trivia questions of host Eddie Trunk, and \"The Throwdown,\" where the hosts
+        and guests debate great moments and figures in metal history. ","runtime":60,"network":"VH1
+        Classics","air_day":"Saturday","air_time":"11:00pm","certification":"","imdb_id":"","tvdb_id":"250205","tvrage_id":"21537","images":{"poster":"http://trakt.us/images/posters/11741.jpg","fanart":"http://trakt.us/images/fanart/11741.jpg","banner":"http://trakt.us/images/banners/11741.jpg"},"ratings":{"percentage":100,"votes":4,"loved":4,"hated":0},"genres":["Special
+        Interest"]},"episode":{"season":7,"number":5,"title":"Duff McKagan & Glenn
+        Hughes ","overview":"Duff McKagan fromer Guns N'' Roses bassist is interviewed
+        and talks about if Velvet Revolver has found a new singer and playing again
+        with Axl Rose; Glenn Hughes from Black Country Communion is interviewed; in
+        the Throwdown the guests and hosts debate which was the best era of Deep Purple:
+        Fireball/Machine Head era or Burn/Stormbringer era; in the Top 5 the hosts
+        put together their definitive list of best heavy metal drummers; guest bassist
+        features Billy Sheehan from Mr. Big. \n\n","url":"http://trakt.tv/show/that-metal-show/season/7/episode/5","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/fanart/11741-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Stand
+        Up for the Week","year":2010,"url":"http://trakt.tv/show/stand-up-for-the-week","first_aired":1277449200,"country":"United
+        Kingdom","overview":"Recorded live at the Koko club in Camden, a six-part
+        series of edgy satirical takes on the big stories and themes of the week,
+        as seen through the eyes of some of the country''s best comedians.","runtime":40,"network":"Channel
+        4","air_day":"Friday","air_time":"11:05pm","certification":"TV-MA","imdb_id":"","tvdb_id":"171851","tvrage_id":"25906","images":{"poster":"http://trakt.us/images/posters/6558.jpg","fanart":"http://trakt.us/images/fanart/6558.jpg","banner":"http://trakt.us/images/banners/6558.jpg"},"ratings":{"percentage":100,"votes":2,"loved":2,"hated":0},"genres":["Comedy"]},"episode":{"season":2,"number":6,"title":"Episode
+        6","overview":"Host Kevin Bridges is joined by guest comedian Josh Widdicombe
+        and regular stand-ups Jack Whitehall, Rich Hall, Andi Osho and Jon Richardson
+        on the satirical comedy show filmed at the Koko Club in Camden, London","url":"http://trakt.tv/show/stand-up-for-the-week/season/2/episode/6","first_aired":1302937200,"images":{"screen":"http://trakt.us/images/episodes/6558-2-6.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}}]}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:05:22 GMT
+recorded_with: VCR 2.3.0

@@ -1,0 +1,41 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/show/seasons.json/98b4ad78733f4aad798fdc2dece67085/the-big-bang-theory
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDowNzowNyBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"season":6,"episodes":11,"url":"http://trakt.tv/show/the-big-bang-theory/season/6","poster":"http://trakt.us/images/seasons/34-6.1.jpg","images":{"poster":"http://trakt.us/images/seasons/34-6.1.jpg"}},{"season":5,"episodes":24,"url":"http://trakt.tv/show/the-big-bang-theory/season/5","poster":"http://trakt.us/images/seasons/34-5.1.jpg","images":{"poster":"http://trakt.us/images/seasons/34-5.1.jpg"}},{"season":4,"episodes":24,"url":"http://trakt.tv/show/the-big-bang-theory/season/4","poster":"http://trakt.us/images/seasons/34-4.1.jpg","images":{"poster":"http://trakt.us/images/seasons/34-4.1.jpg"}},{"season":3,"episodes":23,"url":"http://trakt.tv/show/the-big-bang-theory/season/3","poster":"http://trakt.us/images/seasons/34-3.1.jpg","images":{"poster":"http://trakt.us/images/seasons/34-3.1.jpg"}},{"season":2,"episodes":23,"url":"http://trakt.tv/show/the-big-bang-theory/season/2","poster":"http://trakt.us/images/seasons/34-2.1.jpg","images":{"poster":"http://trakt.us/images/seasons/34-2.1.jpg"}},{"season":1,"episodes":17,"url":"http://trakt.tv/show/the-big-bang-theory/season/1","poster":"http://trakt.us/images/seasons/34-1.1.jpg","images":{"poster":"http://trakt.us/images/seasons/34-1.1.jpg"}},{"season":0,"episodes":3,"url":"http://trakt.tv/show/the-big-bang-theory/specials","poster":"http://trakt.us/images/seasons/34-0.1.jpg","images":{"poster":"http://trakt.us/images/seasons/34-0.1.jpg"}}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:07:20 GMT
+recorded_with: VCR 2.3.0
