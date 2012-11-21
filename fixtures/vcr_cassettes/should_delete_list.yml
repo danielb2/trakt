@@ -1,0 +1,41 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: http://api.trakt.tv/lists/add/98b4ad78733f4aad798fdc2dece67085
+    body:
+      encoding: UTF-8
+      string: ! '{"name":"test-list","username":"ruby-gem","password":"trakt gem"}'
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDoxOTo0MCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '{"status":"success","message":"list added","name":"test-list","slug":"testlist","privacy":"private","show_numbers":false,"allow_shouts":false}'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:19:53 GMT
+recorded_with: VCR 2.3.0

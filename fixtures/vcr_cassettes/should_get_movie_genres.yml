@@ -1,0 +1,44 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/genres/movies.json/98b4ad78733f4aad798fdc2dece67085
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDoyMzozMSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"name":"Action","slug":"action"},{"name":"Adventure","slug":"adventure"},{"name":"Animation","slug":"animation"},{"name":"Comedy","slug":"comedy"},{"name":"Crime","slug":"crime"},{"name":"Documentary","slug":"documentary"},{"name":"Drama","slug":"drama"},{"name":"Family","slug":"family"},{"name":"Fantasy","slug":"fantasy"},{"name":"Film
+        Noir","slug":"film-noir"},{"name":"History","slug":"history"},{"name":"Horror","slug":"horror"},{"name":"Indie","slug":"indie"},{"name":"Music","slug":"music"},{"name":"Musical","slug":"musical"},{"name":"Mystery","slug":"mystery"},{"name":"No
+        Genre","slug":"none"},{"name":"Romance","slug":"romance"},{"name":"Science
+        Fiction","slug":"science-fiction"},{"name":"Sport","slug":"sport"},{"name":"Suspense","slug":"suspense"},{"name":"Thriller","slug":"thriller"},{"name":"War","slug":"war"},{"name":"Western","slug":"western"}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:23:43 GMT
+recorded_with: VCR 2.3.0

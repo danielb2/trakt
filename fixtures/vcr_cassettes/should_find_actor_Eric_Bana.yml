@@ -1,0 +1,112 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/search/people.json/98b4ad78733f4aad798fdc2dece67085/eric+bana
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDoxNzowMCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"name":"Eric Bana","url":"http://trakt.tv/person/eric-bana","biography":"Eric
+        Bana is an Australian film and television actor. He began his career as a
+        comedian in the sketch comedy series Full Frontal before gaining critical
+        recognition in the biopic Chopper (2000). After a decade of roles in Australian
+        TV shows and films, Bana gained Hollywood''s attention by playing the role
+        of American Delta Force Sergeant Norm \"Hoot\" Hooten in Black Hawk Down (2001),
+        the lead role as Bruce Banner in the Ang Lee directed film Hulk (2003), Prince
+        Hector in the movie Troy (2004), the lead in Steven Spielberg''s Munich (2005),
+        and the villain Nero in the science-fiction film Star Trek (2009).\n\nAn accomplished
+        dramatic actor and comedian, he received Australia''s highest film and television
+        awards for his performances in Chopper, Full Frontal and Romulus, My Father.
+        Bana performs predominantly in leading roles in a variety of low-budget and
+        major studio films, ranging from romantic comedies and drama to science fiction
+        and action thrillers.\n\nEric Bana was the younger of two children; he has
+        a brother, Anthony. He is of Croatian ancestry on his father''s side. Bana''s
+        paternal grandfather, Mate Banadinovi\u0107, fled to Argentina after the Second
+        World War, and Bana''s paternal grandmother emigrated to Germany and then
+        to Australia in the 1950s with her son, Ivan (Bana''s father). His father
+        was a logistics manager for Caterpillar, Inc., and his German-born mother,
+        Eleanor, was a hairdresser. Bana grew up in Melbourne''s Tullamarine, a suburban
+        area on the western edge of the city, near the main airport. In a cover story
+        for The Mail on Sunday, he told author Antonella Gambotto-Burke that his family
+        had suffered from racist taunts, and that it had distressed him. \"Wog is
+        such a terrible word,\" he said. He has stated: \"I have always been proud
+        of my origin, which had a big influence on my upbringing. I have always been
+        in the company of people of European origin\".\n\nShowing acting skill early
+        in life, Bana began doing impressions of family members at the age of six
+        or seven, first mimicking his grandfather''s walk, voice and mannerisms. In
+        school, he mimicked his teachers as a means to get out of trouble. As a teen,
+        he watched the Mel Gibson film Mad Max (1979), and decided he wanted to become
+        an actor. However, he did not seriously consider a career in the performing
+        arts until 1991 when he was persuaded to try stand-up comedy while working
+        as a barman at Melbourne''s Castle Hotel. His stand-up gigs in inner-city
+        pubs did not provide him with enough income to support himself, so he continued
+        his work as a barman and bussing tables.","birthday":"1968-08-09","birthplace":"Melbourne,
+        Australia","tmdb_id":8783,"images":{"headshot":"http://trakt.us/images/people/7552.jpg"}},{"name":"Charles
+        Eric Johnson","url":"http://trakt.tv/person/charles-eric-johnson","biography":null,"birthday":null,"birthplace":null,"tmdb_id":1062348,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Charles
+        Eric Maine","url":"http://trakt.tv/person/charles-eric-maine","biography":null,"birthday":null,"birthplace":null,"tmdb_id":578794,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Chris
+        Eric Williams","url":"http://trakt.tv/person/chris-eric-williams","biography":null,"birthday":null,"birthplace":null,"tmdb_id":92948,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Daniel
+        Eric Gold","url":"http://trakt.tv/person/daniel-eric-gold","biography":null,"birthday":null,"birthplace":null,"tmdb_id":182280,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"E.H.
+        Eric","url":"http://trakt.tv/person/eh-eric","biography":null,"birthday":null,"birthplace":null,"tmdb_id":134267,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric","url":"http://trakt.tv/person/eric","biography":null,"birthday":null,"birthplace":null,"tmdb_id":1091216,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        ''Mick'' Nathanson","url":"http://trakt.tv/person/eric-mick-nathanson","biography":null,"birthday":null,"birthplace":"","tmdb_id":44600,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        A. Christoffersen","url":"http://trakt.tv/person/eric-a-christoffersen","biography":null,"birthday":null,"birthplace":"","tmdb_id":40144,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        A. Larsen","url":"http://trakt.tv/person/eric-a-larsen","biography":null,"birthday":null,"birthplace":null,"tmdb_id":113061,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        A. Norris","url":"http://trakt.tv/person/eric-a-norris","biography":null,"birthday":null,"birthplace":null,"tmdb_id":95835,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        A. Sears","url":"http://trakt.tv/person/eric-a-sears","biography":null,"birthday":null,"birthplace":"","tmdb_id":21140,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Abraham","url":"http://trakt.tv/person/eric-abraham","biography":null,"birthday":null,"birthplace":null,"tmdb_id":11687,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Abrams","url":"http://trakt.tv/person/eric-abrams","biography":null,"birthday":null,"birthplace":"","tmdb_id":57151,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Acsell","url":"http://trakt.tv/person/eric-acsell","biography":null,"birthday":null,"birthplace":null,"tmdb_id":134010,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Adkins","url":"http://trakt.tv/person/eric-adkins","biography":null,"birthday":null,"birthplace":"","tmdb_id":41387,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Alan Edwards","url":"http://trakt.tv/person/eric-alan-edwards","biography":null,"birthday":null,"birthplace":null,"tmdb_id":6389,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Albertson","url":"http://trakt.tv/person/eric-albertson","biography":null,"birthday":null,"birthplace":"","tmdb_id":50522,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Alegria","url":"http://trakt.tv/person/eric-alegria","biography":null,"birthday":null,"birthplace":"","tmdb_id":124789,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Alexander","url":"http://trakt.tv/person/eric-alexander","biography":null,"birthday":null,"birthplace":null,"tmdb_id":110418,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Alexander","url":"http://trakt.tv/person/eric-alexander","biography":null,"birthday":null,"birthplace":null,"tmdb_id":217406,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Allaman","url":"http://trakt.tv/person/eric-allaman","biography":null,"birthday":null,"birthplace":"","tmdb_id":71145,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Allan","url":"http://trakt.tv/person/eric-allan","biography":null,"birthday":"1940-03-08","birthplace":null,"tmdb_id":90765,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Allan Kramer","url":"http://trakt.tv/person/eric-allan-kramer","biography":"\u200bFrom
+        Wikipedia, the free encyclopedia\n\nEric Allan Kramer (March 26, 1962) is
+        an American actor, perhaps best known as Little John in Robin Hood: Men in
+        Tights, as Thor in The Incredible Hulk Returns, as Whitey van de Bunt in Bob.
+        and as Dave Rogers in The Hughleys. He currently co-stars in the Disney Channel
+        sitcom Good Luck Charlie as Bob Duncan.\n\nDescription above from the Wikipedia
+        article Eric Allan Kramer, licensed under CC-BY-SA, full list of contributors
+        on Wikipedia.","birthday":"1962-03-26","birthplace":"Grand Rapids, Michigan,
+        USA","tmdb_id":41125,"images":{"headshot":"http://trakt.us/images/people/14637.jpg"}},{"name":"Eric
+        Allard","url":"http://trakt.tv/person/eric-allard","biography":null,"birthday":null,"birthplace":null,"tmdb_id":9432,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Allen Bell","url":"http://trakt.tv/person/eric-allen-bell","biography":null,"birthday":null,"birthplace":null,"tmdb_id":1070803,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Allison","url":"http://trakt.tv/person/eric-allison","biography":null,"birthday":null,"birthplace":null,"tmdb_id":550102,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Allman","url":"http://trakt.tv/person/eric-allman","biography":null,"birthday":null,"birthplace":null,"tmdb_id":132031,"images":{"headshot":"http://trakt.us/images/people/60614.jpg"}},{"name":"Eric
+        Allwright","url":"http://trakt.tv/person/eric-allwright","biography":null,"birthday":null,"birthplace":"","tmdb_id":74693,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}},{"name":"Eric
+        Almeras","url":"http://trakt.tv/person/eric-almeras","biography":null,"birthday":null,"birthplace":null,"tmdb_id":113110,"images":{"headshot":"http://trakt.us/images/poster-small.jpg"}}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:17:13 GMT
+recorded_with: VCR 2.3.0

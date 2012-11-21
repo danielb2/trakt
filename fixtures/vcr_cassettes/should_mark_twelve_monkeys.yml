@@ -1,0 +1,53 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: http://api.trakt.tv/movie/seen/98b4ad78733f4aad798fdc2dece67085
+    body:
+      encoding: UTF-8
+      string: ! '{"movies":[{"imdb_id":"tt0114746","title":"Twelve Monkeys","year":1995,"plays":1,"last_played":1255960578}],"username":"ruby-gem","password":"trakt
+        gem"}'
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDoyMjoyNSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        dHJha3Q9STBHJTJCYTM4ekoxQXZoV21WV2dMa0sxd0dXTmNUeVJRYXdwVnRO
+        OTlWeSUyQkZBZ1ZXVU1yZEpQSDMzWWFXRDFLUGwwYVk4REV2aDglMkJpMzZ1
+        cnNiWnZuN3pmJTJGVyUyQmRZRkhSSkZndmRLM29POU1Na1EzeUdjTFM2Vmd3
+        dU9WSTltY0tYSyUyQkpmVU5nTGZaRjN1Tm9tbXF3V1lySGN0bkh6NGhRZGRx
+        bE5kQWlsMEpyODZJc2t5MmRsUVZHM2V0aEdZS214U0ZMVFJGM3dmQTF4c2tE
+        SGFQJTJGVklrcEFQNFRleEpjakpDZzl1RW12VUdiSDJjaTdZa1NOMGV1QjZK
+        c05PMlFYOyBleHBpcmVzPVRodSwgMjItTm92LTIwMTIgMDQ6MjI6MjUgR01U
+        OyBwYXRoPS8=
+    body:
+      encoding: US-ASCII
+      string: ! '{"status":"success","inserted":0,"already_exist":1,"already_exist_movies":[{"imdb_id":"tt0114746","title":"Twelve
+        Monkeys","year":1995,"plays":1,"last_played":1255960578}],"skipped":0,"skipped_movies":[]}'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:22:38 GMT
+recorded_with: VCR 2.3.0

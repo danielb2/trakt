@@ -1,0 +1,65 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/search/shows.json/98b4ad78733f4aad798fdc2dece67085/cowboy+bebop
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDoxNjo1OSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"title":"Cowboy Bebop","year":1998,"url":"http://trakt.tv/show/cowboy-bebop","first_aired":891590400,"country":"Japan/U.S.
+        Dub","overview":"Wherever humanity goes, so goes its criminal element, and
+        thus the need for those who hunt criminals. The solar system police reinstated
+        the bounty system of the Wild West. Cowboy Bebop is the story of the four
+        inhabitants of the spaceship Bebop, and the living they barely make at bounty
+        hunting.","runtime":25,"network":"TV Tokyo","air_day":"Monday","air_time":"5:00pm","certification":"TV-14","imdb_id":"tt0213338","tvdb_id":"76885","tvrage_id":"3157","images":{"poster":"http://trakt.us/images/posters/160.jpg","fanart":"http://trakt.us/images/fanart/160.jpg","banner":"http://trakt.us/images/banners/160.jpg"},"ratings":{"percentage":95,"votes":376,"loved":367,"hated":9},"genres":["Action","Adventure","Animation","Science
+        Fiction"]},{"title":"Cowboy Builders","year":2009,"url":"http://trakt.tv/show/cowboy-builders","first_aired":1231401600,"country":"United
+        Kingdom","overview":"Up and down the country, cowboy builders are causing
+        devastation and dismay. These reckless workmen are bad news, leaving behind
+        them piles of rubble, financial angst and heartache. This factual series sees
+        Melinda Messenger and Dominic Littlewood come to the rescue of homeowners
+        who have been let down by shoddy builders. While Melinda helps oversee a dramatic
+        makeover of the stricken property, Dominic finds and confronts the culprits
+        responsible.","runtime":45,"network":"Five","air_day":"Thursday","air_time":"9:00pm","certification":"","imdb_id":"","tvdb_id":"85047","tvrage_id":"20913","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/5329.jpg","banner":"http://trakt.us/images/banners/5329.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":[""]},{"title":"Last
+        American Cowboy","year":2010,"url":"http://trakt.tv/show/last-american-cowboy","first_aired":1275894000,"country":"United
+        States","overview":"The picturesque Montana landscape is the workplace for
+        three cattle-ranching families, alike in their tough, tenacious and headstrong
+        approach, but who get the job done in distinctly different ways. The smallest
+        of the three ranches is owned by Scott and Stacey Hughes, who alone manage
+        a 12,000-acre plot filled with 500 Black Angus. By contrast, the Galt Ranch
+        is one of Montana''s largest, so big -- more than 100,000 acres -- that owner
+        Bill Galt uses modern technology, including his own helicopter, to look after
+        5,500 cattle and 100 horses. And then there are the Stuckys, traditional ranchers
+        who choose to ride on horseback instead of motorized vehicles and do most
+        of the work by hand.","runtime":60,"network":"Animal Planet","air_day":"Monday","air_time":"7:00pm","certification":"","imdb_id":"","tvdb_id":"166031","tvrage_id":"25650","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/17937.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0},"genres":["Reality"]}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:17:12 GMT
+recorded_with: VCR 2.3.0

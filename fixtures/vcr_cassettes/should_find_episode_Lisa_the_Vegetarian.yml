@@ -1,0 +1,427 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/search/episodes.json/98b4ad78733f4aad798fdc2dece67085/lisa+the+vegetarian
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDoxNzowMCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"show":{"title":"The Simpsons","year":1989,"url":"http://trakt.tv/show/the-simpsons","first_aired":629884800,"country":"United
+        States","overview":"Originally created by cartoonist Matt Groening, \"Our
+        Favorite Family,\" has graced the small screen in one form or another for
+        over 20 years. The Simpson family first appeared on television as the subjects
+        of interstitial \"shorts\" on The Tracey Ullman Show in April of 1987. The
+        Simpsons remained a staple on The Tracey Ullman Show for three seasons until
+        they premiered in their own half-hour series, on December 17, 1989. With the
+        help of Jim Brooks and Sam Simon, Matt Groening''s cartoon family turned into
+        an instant success.\n\nSet in Springfield, the average American town, the
+        show focuses on the antics and everyday adventures of the Simpson family;
+        Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands.
+        Since the beginning, the series has been a pop culture icon, attracting hundreds
+        of celebrities to guest star. The show has also made name for itself in its
+        fearless satirical take on politics, media and American life in general.\n\nCurrently
+        in its 23st season, The Simpsons has piled up close to 500 episodes, 27 Emmy
+        Awards, a handful of music albums, countless endorsements and merchandise,
+        and even made the jump to the silver screen in the summer of 2007 with The
+        Simpsons Movie. And according to Matt Groening, \"There is no end in sight.\"","runtime":30,"network":"FOX","air_day":"Sunday","air_time":"8:00pm","certification":"TV-PG","imdb_id":"tt0096697","tvdb_id":"71663","tvrage_id":"6190","images":{"poster":"http://trakt.us/images/posters/65.jpg","fanart":"http://trakt.us/images/fanart/65.jpg","banner":"http://trakt.us/images/banners/65.jpg"},"genres":["Animation","Comedy"]},"episode":{"season":7,"episode":5,"title":"Lisa
+        the Vegetarian","overview":"After visiting a local petting zoo, Lisa becomes
+        a vegetarian and faces ridicule from family and friends. When she lashes out
+        and ruins Homer''s barbecue, she learns a lesson in tolerance.","first_aired":813740400,"url":"http://trakt.tv/show/the-simpsons/season/7/episode/5","images":{"screen":"http://trakt.us/images/episodes/65-7-5.jpg"},"ratings":{"percentage":95,"votes":16,"loved":16,"hated":0}}},{"show":{"title":"Notorious","year":2004,"url":"http://trakt.tv/show/notorious","first_aired":1096268400,"country":"United
+        States","overview":"Notorious takes a look at people that have become famous
+        as a result of their infamous acts. Using real-life case studies, Notorious
+        sheds light on some of the most twisted murderous minds of the country\u2019s
+        most heinous criminals.","runtime":60,"network":"BIO","air_day":"Daily","air_time":"4:00pm","certification":"","imdb_id":"","tvdb_id":"83019","tvrage_id":"11071","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart/10677.jpg","banner":"http://trakt.us/images/banner.jpg"},"genres":["Documentary","News","Reality"]},"episode":{"season":2,"episode":41,"title":"A
+        Family Secret:  The Death of Lisa Steinberg","overview":"The story of prominent
+        attorney Joel Steinberg and author Hedda Nussbaum whose inconspicuous lives
+        were brought out as a public spectacle when their six-year-old daughter, Lisa,
+        died following severe abuse and neglect.","first_aired":1121756400,"url":"http://trakt.tv/show/notorious/season/2/episode/41","images":{"screen":"http://trakt.us/images/fanart/10677-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Quantum
+        Leap","year":1989,"url":"http://trakt.tv/show/quantum-leap","first_aired":606902400,"country":"United
+        States","overview":"Theorizing that one could time travel within his own lifetime,
+        Dr. Sam Beckett stepped into the Quantum Leap accelerator and vanished...
+        He woke to find himself trapped in the past, facing mirror images that were
+        not his own and driven by an unknown force to change history for the better.
+        His only guide on this journey is Al, an observer from his own time, who appears
+        in the form of a hologram that only Sam can see and hear. And so Dr. Beckett
+        finds himself leaping from life to life, striving to put right what once went
+        wrong and hoping each time that his next leap will be the leap home.","runtime":60,"network":"NBC","air_day":"","air_time":"12:00am","certification":"TV-PG","imdb_id":"tt0096684","tvdb_id":"72248","tvrage_id":"4921","images":{"poster":"http://trakt.us/images/posters/927.jpg","fanart":"http://trakt.us/images/fanart/927.jpg","banner":"http://trakt.us/images/banners/927.jpg"},"genres":["Drama","Science
+        Fiction"]},"episode":{"season":4,"episode":22,"title":"A Leap for Lisa","overview":"June
+        25, 1957: Sam leaps into Al Calavicci to prevent the death of his married
+        lover. But when Sam accidentally alters history, and finds out too late about
+        her untimely demise, it could mean the gas chamber for Al and disturbingly
+        a whole new situation at Project Quantum Leap.","first_aired":706345200,"url":"http://trakt.tv/show/quantum-leap/season/4/episode/22","images":{"screen":"http://trakt.us/images/episodes/927-4-22.jpg"},"ratings":{"percentage":90,"votes":2,"loved":2,"hated":0}}},{"show":{"title":"Bro''Town","year":2004,"url":"http://trakt.tv/show/brotown","first_aired":1094022000,"country":"New
+        Zealand","overview":"Morningside 4 life! Vale, Valea, Jeff da Maori, Sione
+        and Mack live in the suburb of Morningside and attend the local college, St
+        Sylvester''s, where their principal is a Fa''afafine and the PE teacher is
+        legendary ex-All Black Michael Jones. Vale and Valea (loosely translates to
+        dumb and dumber) are two brothers, living in a single-parent household with
+        their father Pepelo, a benefit bludging, occasional fork-hoist driver with
+        a love of beer, porn and gambling. Vale has a strong social conscience while
+        Valea is more interested in pashing the girls, but both brothers believe in
+        having a strong solidarity with their boys. Sione is Vale and Velea''s best
+        mate and fancies himself as a bit of a ladies man, while he constantly looks
+        for ways to impress the girl of his dreams, sixth former Mila Jizovich. Jeff
+        da Maori lives with his mum and eight dads in a car shell outside the house.
+        He was brought up in the country by his auntie but then moved to the city
+        \u02dcfor better t","runtime":1,"network":"TV3","air_day":"Wednesday","air_time":"8:00pm","certification":"","imdb_id":"tt0491515","tvdb_id":"75084","tvrage_id":"2260","images":{"poster":"http://trakt.us/images/posters/2880.jpg","fanart":"http://trakt.us/images/fanart/2880.jpg","banner":"http://trakt.us/images/banners/2880.jpg"},"genres":["Animation","Comedy"]},"episode":{"season":5,"episode":2,"title":"A
+        Vegetarian At My Table","overview":"After eating a mouse pie, the boys take
+        a vow of vegetarianism! They are determined to expose the dodgy innards of
+        the meat industry... but when the powers-that-be catch wind of their plan,
+        Vale becomes the meat in the sandwich! Guest starring Fred Dagg, Carol Hirschfeld
+        and John Campbell.","first_aired":1240729200,"url":"http://trakt.tv/show/brotown/season/5/episode/2","images":{"screen":"http://trakt.us/images/fanart/2880-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Punk''d","year":2003,"url":"http://trakt.tv/show/punkd","first_aired":1046505600,"country":"United
+        States","overview":"What happens when the biggest stars in the world get too
+        high on the Hollywood hog? When their bank accounts start swelling bigger
+        than their heads? Master prankster Ashton Kutcher is there to PUNK ''em down
+        to earth. It''s a reality show with a twist as Asthon makes superstars suffer
+        for your viewing pleasure. To misquote the acclaimed thespian Steven Seagal:
+        \"You guys think you''re above the law\u2026but you ain''t above ours.\"","runtime":30,"network":"MTV","air_day":"Sunday","air_time":"10:00pm","certification":"","imdb_id":"tt0361227","tvdb_id":"72268","tvrage_id":"4914","images":{"poster":"http://trakt.us/images/posters/874.jpg","fanart":"http://trakt.us/images/fanart/874.jpg","banner":"http://trakt.us/images/banners/874.jpg"},"genres":["Reality"]},"episode":{"season":5,"episode":6,"title":"Adrien
+        Brody, Mila Kunis, Lisa Leslie","overview":"Segment #1 - Adrien Brody asks
+        a 15 year old kid to move a car without a license so he could get his car
+        out and the kid ends up smashing into another vehicle.\n\nSegment #2 - Mila
+        Kunis tries to help a little girl get her dog back because it fell into a
+        gutter. After learning its a toy dog, Andrew gets his hand stuck in the gutter.\n\nSegment
+        #3- Lisa Leslie gets blamed for asking a man to turn on a lamp, who falls
+        over knocking the lamp over and hitting another table ","first_aired":1122793200,"url":"http://trakt.tv/show/punkd/season/5/episode/6","images":{"screen":"http://trakt.us/images/fanart/874-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Lisa","year":1969,"url":"http://trakt.tv/show/lisa","first_aired":0,"country":null,"overview":"","runtime":0,"network":"","air_day":"","air_time":"12:00am","certification":"","imdb_id":"tt0328745","tvdb_id":"82549","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/19689.jpg"},"genres":[""]},"episode":{"season":3,"episode":12,"title":"Akta
+        dig, Lisa!","overview":"","first_aired":0,"url":"http://trakt.tv/show/lisa/season/3/episode/12","images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Late
+        World with Zach","year":2002,"url":"http://trakt.tv/show/late-world-with-zach","first_aired":1014969600,"country":"United
+        States","overview":"Stand-up comic and actor Zach Galifianakis offers up comedy,
+        music and round-table discussions, with help from reporters in the field,
+        who discuss Hollywood happenings. ","runtime":30,"network":"VH1","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"70783","tvrage_id":"582","images":{"poster":"http://trakt.us/images/posters/7686.jpg","fanart":"http://trakt.us/images/fanart/7686.jpg","banner":"http://trakt.us/images/banners/7686.jpg"},"genres":["Comedy","Talk
+        Show"]},"episode":{"season":1,"episode":31,"title":"Albert, Kim Delaney &
+        Lisa Loeb","overview":"","first_aired":0,"url":"http://trakt.tv/show/late-world-with-zach/season/1/episode/31","images":{"screen":"http://trakt.us/images/fanart/7686-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Simpsons","year":1989,"url":"http://trakt.tv/show/the-simpsons","first_aired":629884800,"country":"United
+        States","overview":"Originally created by cartoonist Matt Groening, \"Our
+        Favorite Family,\" has graced the small screen in one form or another for
+        over 20 years. The Simpson family first appeared on television as the subjects
+        of interstitial \"shorts\" on The Tracey Ullman Show in April of 1987. The
+        Simpsons remained a staple on The Tracey Ullman Show for three seasons until
+        they premiered in their own half-hour series, on December 17, 1989. With the
+        help of Jim Brooks and Sam Simon, Matt Groening''s cartoon family turned into
+        an instant success.\n\nSet in Springfield, the average American town, the
+        show focuses on the antics and everyday adventures of the Simpson family;
+        Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands.
+        Since the beginning, the series has been a pop culture icon, attracting hundreds
+        of celebrities to guest star. The show has also made name for itself in its
+        fearless satirical take on politics, media and American life in general.\n\nCurrently
+        in its 23st season, The Simpsons has piled up close to 500 episodes, 27 Emmy
+        Awards, a handful of music albums, countless endorsements and merchandise,
+        and even made the jump to the silver screen in the summer of 2007 with The
+        Simpsons Movie. And according to Matt Groening, \"There is no end in sight.\"","runtime":30,"network":"FOX","air_day":"Sunday","air_time":"8:00pm","certification":"TV-PG","imdb_id":"tt0096697","tvdb_id":"71663","tvrage_id":"6190","images":{"poster":"http://trakt.us/images/posters/65.jpg","fanart":"http://trakt.us/images/fanart/65.jpg","banner":"http://trakt.us/images/banners/65.jpg"},"genres":["Animation","Comedy"]},"episode":{"season":19,"episode":20,"title":"All
+        About Lisa","overview":"Lisa outshines Krusty as his new assistant and steals
+        the spotlight from him, earning her own TV show. Meanwhile, Homer and Bart
+        spend some quality time together with their new coin collecting hobby.","first_aired":1211094000,"url":"http://trakt.tv/show/the-simpsons/season/19/episode/20","images":{"screen":"http://trakt.us/images/episodes/65-19-20.jpg"},"ratings":{"percentage":73,"votes":11,"loved":8,"hated":3}}},{"show":{"title":"Molto
+        Mario","year":1997,"url":"http://trakt.tv/show/molto-mario","first_aired":860396400,"country":"United
+        States","overview":"Mario Batali brings his culinary skills to the small screen
+        once again in this Food Network program. This time Mario presents secret techniques
+        born from a kitchen in Italy.","runtime":20,"network":"Food Network","air_day":"","air_time":"12:00am","certification":"TV-G","imdb_id":"tt0783393","tvdb_id":"162921","tvrage_id":"6914","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"genres":["Documentary"]},"episode":{"season":3,"episode":35,"title":"Almost
+        Vegetarian","overview":"","first_aired":0,"url":"http://trakt.tv/show/molto-mario/season/3/episode/35","images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Molto
+        Mario","year":1997,"url":"http://trakt.tv/show/molto-mario","first_aired":860396400,"country":"United
+        States","overview":"Mario Batali brings his culinary skills to the small screen
+        once again in this Food Network program. This time Mario presents secret techniques
+        born from a kitchen in Italy.","runtime":20,"network":"Food Network","air_day":"","air_time":"12:00am","certification":"TV-G","imdb_id":"tt0783393","tvdb_id":"162921","tvrage_id":"6914","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"genres":["Documentary"]},"episode":{"season":6,"episode":35,"title":"Almost
+        Vegetarian","overview":"","first_aired":0,"url":"http://trakt.tv/show/molto-mario/season/6/episode/35","images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Tonight Show with Jay Leno","year":1992,"url":"http://trakt.tv/show/the-tonight-show-with-jay-leno","first_aired":706777200,"country":"United
+        States","overview":"The Tonight Show with Jay Leno is an American late-night
+        talk show currently hosted by Jay Leno, on NBC. It made its debut on May 25,
+        1992, following Johnny Carson''s retirement as host of The Tonight Show. The
+        nightly broadcast at 23:35 (Eastern) originates from NBC''s studios, in Burbank,
+        California.","runtime":60,"network":"NBC","air_day":"Daily","air_time":"11:35pm","certification":"","imdb_id":"tt0103569","tvdb_id":"70336","tvrage_id":"6247","images":{"poster":"http://trakt.us/images/posters/1052.jpg","fanart":"http://trakt.us/images/fanart/1052.jpg","banner":"http://trakt.us/images/banners/1052.jpg"},"genres":["Talk
+        Show","Comedy"]},"episode":{"season":20,"episode":101,"title":"Andy Samberg,
+        Seth MacFarlane, Joe Henry featuring Lisa Hannigan","overview":"","first_aired":1340175600,"url":"http://trakt.tv/show/the-tonight-show-with-jay-leno/season/20/episode/101","images":{"screen":"http://trakt.us/images/fanart/1052-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Diff''rent
+        Strokes","year":1978,"url":"http://trakt.tv/show/diffrent-strokes","first_aired":278928000,"country":"United
+        States","overview":"Diff''rent Strokes took place in New York and centered
+        around the happenings in the Drummond household.  Philip Drummond was a widower
+        and had a daughter, Kimberly.  He was also quite wealthy and lived in the
+        penthouse of a luxurious apartment building.  His wealth was due to the fact
+        that he was the president of Trans Allied, Inc. However, the household was
+        shaken up when Drummond''s black housekeeper died and her deathbed wish was
+        that he would take care of her two sons, Arnold and Willis Jackson.  So, Drummond
+        took both of them in and they became the sons Drummond never had. Others in
+        the cast included Mrs. Garrett the new housekeeper who later left for her
+        own series, The Facts of Life.  She was replaced by Adelaide, who was seen
+        occasionally and she was later replaced by Pearl.  In the seventh season,
+        Drummond wed an aerobics instructor, Maggie McKinney and she moved in with
+        her son, Sam, from a previous marriage. First Telecast: November 3, 1978   Last
+        Telecast: Au","runtime":30,"network":"TF1","air_day":"","air_time":"12:00am","certification":"TV-G","imdb_id":"","tvdb_id":"77356","tvrage_id":"3309","images":{"poster":"http://trakt.us/images/posters/3864.jpg","fanart":"http://trakt.us/images/fanart/3864.jpg","banner":"http://trakt.us/images/banners/3864.jpg"},"genres":["Comedy"]},"episode":{"season":7,"episode":2,"title":"Arnold
+        and Lisa''s Mother","overview":"Arnold thinks the school science fair is the
+        perfect opportunity to sabotage the project of his least favorite female classmate,
+        but with a closer look he wonders if her aggravating behavior is really a
+        cry for help.","first_aired":465894000,"url":"http://trakt.tv/show/diffrent-strokes/season/7/episode/2","images":{"screen":"http://trakt.us/images/fanart/3864-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Howard
+        TV","year":2006,"url":"http://trakt.tv/show/howard-tv","first_aired":1136707200,"country":"United
+        States","overview":"Howard TV is the only place to find outrageous new daily
+        shows, hours of uncut classic Stern footage, and programs created exclusively
+        for the channel. If the King of All Media can imagine it, you''ll see it on
+        Howard TV. Over 40 uncut Stern shows each month. Only one man would harness
+        the latest, cutting-edge technology to bring you programming this sexy and
+        fun, and it''s all at your fingertips on Howard TV On Demand.","runtime":60,"network":"inDEMAND","air_day":"","air_time":"12:00am","certification":"TV-MA","imdb_id":"tt0474499","tvdb_id":"80834","tvrage_id":"19736","images":{"poster":"http://trakt.us/images/posters/7058.jpg","fanart":"http://trakt.us/images/fanart/7058.jpg","banner":"http://trakt.us/images/banners/7058.jpg"},"genres":["Comedy","Reality"]},"episode":{"season":4,"episode":91,"title":"Artie
+        vs. Lisa G","overview":"Highlights from Stern''s radio show. Lisa G''s news
+        update rubs Artie the wrong way and sparks a war of words that divides the
+        staff.","first_aired":1241593200,"url":"http://trakt.tv/show/howard-tv/season/4/episode/91","images":{"screen":"http://trakt.us/images/fanart/7058-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"I
+        Survived Beyond and Back","year":2010,"url":"http://trakt.tv/show/i-survived-beyond-and-back","first_aired":1291536000,"country":"United
+        States","overview":"BIO Channel follows the critically acclaimed \"I Survived...\"
+        franchise with \"I Survived... Beyond and Back\", chronicling the stories
+        of people who flat lined; some for a few seconds, others for up to an hour,
+        and came back to life. The one-hour series features six episodes and premieres
+        Sunday, December 5 at 10PM ET/9PM CT/11PM PT on BIO Channel. \"I Survived...
+        Beyond and Back\" reveals one of life''s greatest mysteries by profiling the
+        extraordinary stories of people who have literally passed on to the other
+        side. The series combines the compelling and emotionally gripping stories
+        of \"I Survived...\" with the unexplainable experiences some people have when
+        they are pronounced legally dead. Through first-person accounts and testimony
+        from the medical personnel and family members who were present, \"I Survived...
+        Beyond and Back\" will not only explore the survivor''s encounter with death,
+        but also the ways in which it has changed their outlook on life forever. (Source:
+        The Biography Channel) ","runtime":60,"network":"Biography Channel","air_day":"Sunday","air_time":"10:00pm","certification":"","imdb_id":"","tvdb_id":"249926","tvrage_id":"27036","images":{"poster":"http://trakt.us/images/posters/15966.jpg","fanart":"http://trakt.us/images/fanart/15966.jpg","banner":"http://trakt.us/images/banners/15966.jpg"},"genres":["Reality"]},"episode":{"season":1,"episode":11,"title":"Ashlee,
+        Ray, Lisa","overview":"A 21-year-old girl dies in a car crash and is comforted
+        by a cowboy angel. A nine-year-old boy falls headfirst onto concrete and dies
+        when a schoolyard judo move goes wrong. And a young mother drowns after a
+        speeding boat hits and sinks the boat she is in.","first_aired":0,"url":"http://trakt.tv/show/i-survived-beyond-and-back/season/1/episode/11","images":{"screen":"http://trakt.us/images/fanart/15966-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Simpsons","year":1989,"url":"http://trakt.tv/show/the-simpsons","first_aired":629884800,"country":"United
+        States","overview":"Originally created by cartoonist Matt Groening, \"Our
+        Favorite Family,\" has graced the small screen in one form or another for
+        over 20 years. The Simpson family first appeared on television as the subjects
+        of interstitial \"shorts\" on The Tracey Ullman Show in April of 1987. The
+        Simpsons remained a staple on The Tracey Ullman Show for three seasons until
+        they premiered in their own half-hour series, on December 17, 1989. With the
+        help of Jim Brooks and Sam Simon, Matt Groening''s cartoon family turned into
+        an instant success.\n\nSet in Springfield, the average American town, the
+        show focuses on the antics and everyday adventures of the Simpson family;
+        Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands.
+        Since the beginning, the series has been a pop culture icon, attracting hundreds
+        of celebrities to guest star. The show has also made name for itself in its
+        fearless satirical take on politics, media and American life in general.\n\nCurrently
+        in its 23st season, The Simpsons has piled up close to 500 episodes, 27 Emmy
+        Awards, a handful of music albums, countless endorsements and merchandise,
+        and even made the jump to the silver screen in the summer of 2007 with The
+        Simpsons Movie. And according to Matt Groening, \"There is no end in sight.\"","runtime":30,"network":"FOX","air_day":"Sunday","air_time":"8:00pm","certification":"TV-PG","imdb_id":"tt0096697","tvdb_id":"71663","tvrage_id":"6190","images":{"poster":"http://trakt.us/images/posters/65.jpg","fanart":"http://trakt.us/images/fanart/65.jpg","banner":"http://trakt.us/images/banners/65.jpg"},"genres":["Animation","Comedy"]},"episode":{"season":14,"episode":3,"title":"Bart
+        vs. Lisa vs. the Third Grade","overview":"Tired of \"suckling on the six network
+        teat,\" with their endless array of \"reality shows,\" the Simpson family
+        gets a satellite dish.  Homer and Bart spend hours surfing all of the available
+        channels.  While Lisa studies for the school''s upcoming achievement test;
+        Bart doesn''t, as he engrossed in Japanese Friends amongst and other lame
+        satellite TV programming.  Bart zones out during the test and daydreams about
+        everything he''s been watching lately.  At a school assembly the next day,
+        Principal Skinner announces that because of Lisa''s high test score, she is
+        being promoted to the 3rd grade.  When Bart makes a comment about Lisa, Principal
+        Skinner responds by also announcing that because of his low test score, Bart
+        is being demoted to the 3rd grade.  They''ll be in class together, much to
+        each other''s horror.  Lisa has a hard time adapting to the 3rd grade, as
+        Bart is coming off as a much better student than he actually is.  They go
+        on a field trip to Capital City and Bart and Lisa are put together via the
+        buddy system.  Their teacher, Mrs. McConnell, decides that the students are
+        going to help the state design a new flag.  When Bart overhears Lisa breaking
+        bad on him, he redesigns their entry.  Lisa''s anger with Bart causes them
+        to fight and miss their bus back home.  Bart and Lisa attempt to get home
+        on their own, meanwhile Principal Skinner reports their disappearance to Homer
+        and Marge, who subsequently journey to Capital City to try to find them.  Bart
+        and Lisa encounter a family of mountain folk, who take them back to the big
+        city to reunite them with their family.  Realizing that the \"status quo\"
+        is best all-around, Principal Skinner returns Bart and Lisa''s academic careers
+        to normal. ","first_aired":1037520000,"url":"http://trakt.tv/show/the-simpsons/season/14/episode/3","images":{"screen":"http://trakt.us/images/episodes/65-14-3.jpg"},"ratings":{"percentage":81,"votes":20,"loved":17,"hated":3}}},{"show":{"title":"Never
+        Mind the Buzzcocks","year":1996,"url":"http://trakt.tv/show/never-mind-the-buzzcocks","first_aired":846835200,"country":null,"overview":"Never
+        Mind the Buzzcocks is a comedy panel game show with a pop and rock music theme.
+        The show is infamous for its dry, sarcastic humour and scathing, provocative
+        attacks on the pop industry","runtime":30,"network":"BBC Two","air_day":"Monday","air_time":"10:00pm","certification":"TV-14","imdb_id":"tt0115286","tvdb_id":"78051","tvrage_id":"0","images":{"poster":"http://trakt.us/images/posters/546.jpg","fanart":"http://trakt.us/images/fanart/546.jpg","banner":"http://trakt.us/images/banners/546.jpg"},"genres":["Comedy","Game
+        Show"]},"episode":{"season":10,"episode":7,"title":"Ben Miller, Lisa Scott
+        Lee, Kate Thornton, Tony Wilson","overview":"","first_aired":1014019200,"url":"http://trakt.tv/show/never-mind-the-buzzcocks/season/10/episode/7","images":{"screen":"http://trakt.us/images/fanart/546-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Late Late Show with Craig Ferguson","year":2005,"url":"http://trakt.tv/show/the-late-late-show-with-craig-ferguson","first_aired":1104566400,"country":"United
+        States","overview":"On January 3, 2005, Craig Ferguson took over The Late
+        Late Show.  Ferguson was selected from a number of guest hosts after previous
+        host Craig Kilborn stepped down in August 2004.  Many people might recognize
+        Craig as \"Nigel Wick,\" Drew Carey''s boss from \"The Drew Carey Show.\"   The
+        Late Late Show with Craig Ferguson airs at 12:35 AM following Late Show with
+        David Letterman on CBS.","runtime":60,"network":"CBS","air_day":"Daily","air_time":"12:35am","certification":"","imdb_id":"tt0437729","tvdb_id":"73387","tvrage_id":"5914","images":{"poster":"http://trakt.us/images/posters/150.jpg","fanart":"http://trakt.us/images/fanart/150.jpg","banner":"http://trakt.us/images/banners/150.jpg"},"genres":["Comedy","Talk
+        Show"]},"episode":{"season":6,"episode":195,"title":"Ben Stein, Dr. Lisa Masterson,
+        The Very Best","overview":"","first_aired":1290412800,"url":"http://trakt.tv/show/the-late-late-show-with-craig-ferguson/season/6/episode/195","images":{"screen":"http://trakt.us/images/episodes/150-6-195.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"8
+        Out of 10 Cats","year":2005,"url":"http://trakt.tv/show/8-out-of-10-cats","first_aired":1117782000,"country":"United
+        Kingdom","overview":"A panel game hosted by, Jimmy Carr with team captains,
+        Sean Lock and Dave Spikey. The teams are asked questions relating to opinion
+        polls and statistics based on the week''s events.","runtime":30,"network":"Channel
+        4","air_day":"Friday","air_time":"9:30pm","certification":"","imdb_id":"tt0465315","tvdb_id":"79556","tvrage_id":"7074","images":{"poster":"http://trakt.us/images/posters/206.jpg","fanart":"http://trakt.us/images/fanart/206.jpg","banner":"http://trakt.us/images/banners/206.jpg"},"genres":["Comedy"]},"episode":{"season":7,"episode":2,"title":"Big
+        Brother 9 Special: Vanessa Feltz, Danny Wallace, Lisa Appleton, Mario Marconi,
+        Luke Marsden","overview":"Along with host Jimmy Carr, team captains Sean Lock
+        and Jason Manford, and special guests Vanessa Feltz and Danny Wallace, a gang
+        of Big Brother names past and present participate in this look back at the
+        British public''s favourite moments from the 2008 BB series.","first_aired":1220598000,"url":"http://trakt.tv/show/8-out-of-10-cats/season/7/episode/2","images":{"screen":"http://trakt.us/images/fanart/206-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Late
+        Night with Conan O''Brien","year":1993,"url":"http://trakt.tv/show/late-night-with-conan-obrien","first_aired":746866800,"country":"United
+        States","overview":"\"Keep Cool My Babies!\"  Smart-alecky, ribald and whimsical,
+        \"Late Night with Conan O''Brien\" rose to become a critical darling and dorm
+        favorite after a rocky start in 1993.  There are many recurring characters
+        (including Triumph the Insult Comic Dog, Vomiting Kermit, Eyeballs O''Shaughnessy,
+        NASCAR-driving gun-toting Jesus, Masturbating Bear) and comedy bits (including
+        New State Quarters, What in the World, Celebrity Survey, Acutal Items, Conan
+        Hates My Homeland) that entertain us night after night.  New episodes air
+        Tuesday through Friday, wwith reruns on Mondays and occasional breaks where
+        reruns air all week long.  It airs weekdays at 12:37 a.m. ET/PT.  (Simulcast
+        in HDTV) Next-day encores air on CNBC at 7pm ET.","runtime":60,"network":"NBC","air_day":"Daily","air_time":"12:35am","certification":"TV-14","imdb_id":"","tvdb_id":"76737","tvrage_id":"4194","images":{"poster":"http://trakt.us/images/posters/4046.jpg","fanart":"http://trakt.us/images/fanart/4046.jpg","banner":"http://trakt.us/images/banners/4046.jpg"},"genres":["Talk
+        Show"]},"episode":{"season":1,"episode":187,"title":"Bill Bellamy, Lisa Kudrow,
+        David Goldsmith","overview":"","first_aired":773391600,"url":"http://trakt.tv/show/late-night-with-conan-obrien/season/1/episode/187","images":{"screen":"http://trakt.us/images/fanart/4046-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Lisa","year":1969,"url":"http://trakt.tv/show/lisa","first_aired":0,"country":null,"overview":"","runtime":0,"network":"","air_day":"","air_time":"12:00am","certification":"","imdb_id":"tt0328745","tvdb_id":"82549","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/19689.jpg"},"genres":[""]},"episode":{"season":1,"episode":8,"title":"Bio
+        Lisa","overview":"","first_aired":0,"url":"http://trakt.tv/show/lisa/season/1/episode/8","images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Simpsons","year":1989,"url":"http://trakt.tv/show/the-simpsons","first_aired":629884800,"country":"United
+        States","overview":"Originally created by cartoonist Matt Groening, \"Our
+        Favorite Family,\" has graced the small screen in one form or another for
+        over 20 years. The Simpson family first appeared on television as the subjects
+        of interstitial \"shorts\" on The Tracey Ullman Show in April of 1987. The
+        Simpsons remained a staple on The Tracey Ullman Show for three seasons until
+        they premiered in their own half-hour series, on December 17, 1989. With the
+        help of Jim Brooks and Sam Simon, Matt Groening''s cartoon family turned into
+        an instant success.\n\nSet in Springfield, the average American town, the
+        show focuses on the antics and everyday adventures of the Simpson family;
+        Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands.
+        Since the beginning, the series has been a pop culture icon, attracting hundreds
+        of celebrities to guest star. The show has also made name for itself in its
+        fearless satirical take on politics, media and American life in general.\n\nCurrently
+        in its 23st season, The Simpsons has piled up close to 500 episodes, 27 Emmy
+        Awards, a handful of music albums, countless endorsements and merchandise,
+        and even made the jump to the silver screen in the summer of 2007 with The
+        Simpsons Movie. And according to Matt Groening, \"There is no end in sight.\"","runtime":30,"network":"FOX","air_day":"Sunday","air_time":"8:00pm","certification":"TV-PG","imdb_id":"tt0096697","tvdb_id":"71663","tvrage_id":"6190","images":{"poster":"http://trakt.us/images/posters/65.jpg","fanart":"http://trakt.us/images/fanart/65.jpg","banner":"http://trakt.us/images/banners/65.jpg"},"genres":["Animation","Comedy"]},"episode":{"season":13,"episode":15,"title":"Blame
+        It on Lisa","overview":"The family receives a $400 phone bill for a phone
+        call to Brazil.  Marge and Homer go down to the phone office to get this error
+        corrected, they didn''t make the call.  Their visit results in their phone
+        service getting cut off.  Homer tries to steal phone service, but gets electrocuted
+        for his trouble.  Lisa confesses to making the call and tells them of the
+        donations she''d made for an orphan boy named Renaldo in Brazil, with whom
+        she''d lost contact with.  The family decides to make a trip to Brazil to
+        find him.  The family flies down to Rio, as Maggie takes care of herself,
+        under the watchful eyes of Patty and Selma.  They split up with Lisa and Marge
+        looking on one side of town and Homer and Bart on the other.  Homer gets kidnapped
+        when he gets into an unlicensed taxi.  The kidnappers take Homer up the Amazon.  Marge
+        reports the kidnapping to an uncaring police department and Homer tries to
+        raise the $50,000 on his own.  Lisa finds Renaldo working for the kids show
+        that Bart has watched with great sexual interest since arriving in Rio.  Renaldo
+        is now wealthy, thanks to the new dancing shoes Lisa''s donation purchased
+        for him, so he gives Lisa the $50,000 that will let them get Homer from the
+        kidnappers.  The transfer is made and Homer is returned, but as we leave our
+        friends in Rio, Bart is celebrating Carnival in the belly of a snake. ","first_aired":1017561600,"url":"http://trakt.tv/show/the-simpsons/season/13/episode/15","images":{"screen":"http://trakt.us/images/episodes/65-13-15.jpg"},"ratings":{"percentage":70,"votes":11,"loved":8,"hated":3}}},{"show":{"title":"Watch
+        What Happens Live!","year":2009,"url":"http://trakt.tv/show/watch-what-happens-live","first_aired":1247727600,"country":"United
+        States","overview":"Hosted by Andy Cohen, this show will feature guests each
+        week from Bravo''s most popular shows as well as other celebrities. It will
+        include debates and discussions about their shows and their opinions on pop
+        culture. ","runtime":30,"network":"Bravo","air_day":"Daily","air_time":"8:00pm","certification":"TV-14","imdb_id":"","tvdb_id":"230991","tvrage_id":"23346","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"genres":["Talk
+        Show"]},"episode":{"season":8,"episode":30,"title":"Brandy & Lisa Hochstein","overview":"Among
+        other topics they discuss, the main topic of this episode is S2e6 of Real
+        Housewives of Miami called \"Sexting Candles\" with Brandy & Lisa Hochstein.","first_aired":1350543600,"url":"http://trakt.tv/show/watch-what-happens-live/season/8/episode/30","images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Late
+        Night with Conan O''Brien","year":1993,"url":"http://trakt.tv/show/late-night-with-conan-obrien","first_aired":746866800,"country":"United
+        States","overview":"\"Keep Cool My Babies!\"  Smart-alecky, ribald and whimsical,
+        \"Late Night with Conan O''Brien\" rose to become a critical darling and dorm
+        favorite after a rocky start in 1993.  There are many recurring characters
+        (including Triumph the Insult Comic Dog, Vomiting Kermit, Eyeballs O''Shaughnessy,
+        NASCAR-driving gun-toting Jesus, Masturbating Bear) and comedy bits (including
+        New State Quarters, What in the World, Celebrity Survey, Acutal Items, Conan
+        Hates My Homeland) that entertain us night after night.  New episodes air
+        Tuesday through Friday, wwith reruns on Mondays and occasional breaks where
+        reruns air all week long.  It airs weekdays at 12:37 a.m. ET/PT.  (Simulcast
+        in HDTV) Next-day encores air on CNBC at 7pm ET.","runtime":60,"network":"NBC","air_day":"Daily","air_time":"12:35am","certification":"TV-14","imdb_id":"","tvdb_id":"76737","tvrage_id":"4194","images":{"poster":"http://trakt.us/images/posters/4046.jpg","fanart":"http://trakt.us/images/fanart/4046.jpg","banner":"http://trakt.us/images/banners/4046.jpg"},"genres":["Talk
+        Show"]},"episode":{"season":1,"episode":83,"title":"Branford Marsalis, Lisa
+        McRee, James","overview":"","first_aired":758448000,"url":"http://trakt.tv/show/late-night-with-conan-obrien/season/1/episode/83","images":{"screen":"http://trakt.us/images/fanart/4046-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Late
+        Night with Conan O''Brien","year":1993,"url":"http://trakt.tv/show/late-night-with-conan-obrien","first_aired":746866800,"country":"United
+        States","overview":"\"Keep Cool My Babies!\"  Smart-alecky, ribald and whimsical,
+        \"Late Night with Conan O''Brien\" rose to become a critical darling and dorm
+        favorite after a rocky start in 1993.  There are many recurring characters
+        (including Triumph the Insult Comic Dog, Vomiting Kermit, Eyeballs O''Shaughnessy,
+        NASCAR-driving gun-toting Jesus, Masturbating Bear) and comedy bits (including
+        New State Quarters, What in the World, Celebrity Survey, Acutal Items, Conan
+        Hates My Homeland) that entertain us night after night.  New episodes air
+        Tuesday through Friday, wwith reruns on Mondays and occasional breaks where
+        reruns air all week long.  It airs weekdays at 12:37 a.m. ET/PT.  (Simulcast
+        in HDTV) Next-day encores air on CNBC at 7pm ET.","runtime":60,"network":"NBC","air_day":"Daily","air_time":"12:35am","certification":"TV-14","imdb_id":"","tvdb_id":"76737","tvrage_id":"4194","images":{"poster":"http://trakt.us/images/posters/4046.jpg","fanart":"http://trakt.us/images/fanart/4046.jpg","banner":"http://trakt.us/images/banners/4046.jpg"},"genres":["Talk
+        Show"]},"episode":{"season":15,"episode":51,"title":"Bret Michaels, New York
+        Giant Antonio Pierce, Lisa Loeb","overview":"Lisa Loeb performs \"Snow Day\"
+        from the album Tails. ","first_aired":1200643200,"url":"http://trakt.tv/show/late-night-with-conan-obrien/season/15/episode/51","images":{"screen":"http://trakt.us/images/fanart/4046-940.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"The
+        Late Late Show with Craig Ferguson","year":2005,"url":"http://trakt.tv/show/the-late-late-show-with-craig-ferguson","first_aired":1104566400,"country":"United
+        States","overview":"On January 3, 2005, Craig Ferguson took over The Late
+        Late Show.  Ferguson was selected from a number of guest hosts after previous
+        host Craig Kilborn stepped down in August 2004.  Many people might recognize
+        Craig as \"Nigel Wick,\" Drew Carey''s boss from \"The Drew Carey Show.\"   The
+        Late Late Show with Craig Ferguson airs at 12:35 AM following Late Show with
+        David Letterman on CBS.","runtime":60,"network":"CBS","air_day":"Daily","air_time":"12:35am","certification":"","imdb_id":"tt0437729","tvdb_id":"73387","tvrage_id":"5914","images":{"poster":"http://trakt.us/images/posters/150.jpg","fanart":"http://trakt.us/images/fanart/150.jpg","banner":"http://trakt.us/images/banners/150.jpg"},"genres":["Comedy","Talk
+        Show"]},"episode":{"season":8,"episode":161,"title":"Bryan Cranston; Dr. Lisa
+        Masterson","overview":"From \"Argo,\" actor Bryan Cranston; from \"The Doctors,\"
+        Dr. Lisa Masterson","first_aired":1350889200,"url":"http://trakt.tv/show/the-late-late-show-with-craig-ferguson/season/8/episode/161","images":{"screen":"http://trakt.us/images/episodes/150-8-161.jpg"},"ratings":{"percentage":100,"votes":1,"loved":1,"hated":0}}},{"show":{"title":"Move
+        to the Music","year":1969,"url":"http://trakt.tv/show/move-to-the-music","first_aired":0,"country":null,"overview":"The
+        ten famous songs from Move to the Music, originally filler music videos run
+        between Noggin shows, and then a half-hour special which launched the kid-oriented
+        careers of Laurie Berkner, Dan Zanes, and others, as well as prompting the
+        creation of Jack''s Big Music Show. Noggin - Move to the Music - Birthday
+        Song.wmv Noggin - Move to the Music - Dan Zanes - Hello Hello.wmv Noggin -
+        Move to the Music - Dan Zanes - Smile.wmv Noggin - Move to the Music - Laurie
+        Berkner - Bumblebee (Buzz Buzz).wmv Noggin - Move to the Music - Laurie Berkner
+        - Pig on Her Head.wmv Noggin - Move to the Music - Laurie Berkner - Song in
+        My Tummy.wmv Noggin - Move to the Music - Laurie Berkner - This Hat.wmv Noggin
+        - Move to the Music - Laurie Berkner - Victor Vito.wmv Noggin - Move to the
+        Music - Laurie Berkner - We are the Dinosaurs.wmv Noggin - Move to the Music
+        - Lisa Loeb and Elizabeth Mitchell - Catch the Moon2.wmv Noggin - Move to
+        the Music - Lisa Loeb and Elizabeth Mitchell - Stop and Go.wmv audio bit rate:
+        732kbps video data rate: 394kbps width: 320 pixels height: 240 pixels Dan
+        Zanes, Lisa Loeb, Elizabeth Mitchell, Laurie Berkner, Moose A. Moose, Jack''s
+        Big Music Show, and a lot of puppets and cartoon characters...","runtime":2,"network":"Noggin","air_day":"","air_time":"12:00am","certification":"","imdb_id":"","tvdb_id":"137221","tvrage_id":"0","images":{"poster":"http://trakt.us/images/poster-small.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banner.jpg"},"genres":["Children"]},"episode":{"season":0,"episode":10,"title":"Catch
+        the Moon (Lisa Loeb and Elizabeth Mitchell)","overview":"","first_aired":0,"url":"http://trakt.tv/show/move-to-the-music/specials/episode/10","images":{"screen":"http://trakt.us/images/episode-screen.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"A
+        Question of Sport","year":1970,"url":"http://trakt.tv/show/a-question-of-sport","first_aired":374400,"country":"United
+        Kingdom","overview":"Long running sports quiz show, rounds include the Mystery
+        Guest, Picture Board and What Happened Next. Hosts have been David Vine, David
+        Coleman and currently Sue Barker. The show has a panel format with two team
+        captains and sporting celebrities as guests.","runtime":30,"network":"BBC
+        One","air_day":"Monday","air_time":"10:35pm","certification":"TV-14","imdb_id":"tt0239185","tvdb_id":"72914","tvrage_id":"7341","images":{"poster":"http://trakt.us/images/posters/1105.jpg","fanart":"http://trakt.us/images/fanart-summary.jpg","banner":"http://trakt.us/images/banners/1105.jpg"},"genres":["Game
+        Show","Sport"]},"episode":{"season":41,"episode":4,"title":"Catriona Matthew,
+        Lisa Dobriskey, Peter Schmeichel, Tommy Bowe","overview":"","first_aired":1256281200,"url":"http://trakt.tv/show/a-question-of-sport/season/41/episode/4","images":{"screen":"http://trakt.us/images/episodes/1105-41-4.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Taken","year":2002,"url":"http://trakt.tv/show/taken","first_aired":1038816000,"country":"United
+        States","overview":"Prepare to be Taken... Taken is a sweeping sci-fi adventure
+        that weaves together the story of three families over three generations and
+        their crucial roles in the history of alien abductions. Set against the backdrop
+        of actual history and UFO lore, Taken creates a powerfully emotional and evocative
+        tale of mankind''s encounters with extraterrestrials.","runtime":120,"network":"USA
+        Network","air_day":"Monday","air_time":"8:00pm","certification":"TV-14","imdb_id":"tt0289830","tvdb_id":"78224","tvrage_id":"5447","images":{"poster":"http://trakt.us/images/posters/878.jpg","fanart":"http://trakt.us/images/fanart/878.jpg","banner":"http://trakt.us/images/banners/878.jpg"},"genres":["Mini
+        Series","Science Fiction"]},"episode":{"season":1,"episode":6,"title":"Charlie
+        and Lisa","overview":"The next generation comes into play, as the children
+        of both Jacob Clarke and Jesse Keys become the focus of both a government
+        investigation and alien interest.","first_aired":1039420800,"url":"http://trakt.tv/show/taken/season/1/episode/6","images":{"screen":"http://trakt.us/images/episodes/878-1-6.jpg"},"ratings":{"percentage":96,"votes":8,"loved":8,"hated":0}}},{"show":{"title":"The
+        Tonight Show with Jay Leno","year":1992,"url":"http://trakt.tv/show/the-tonight-show-with-jay-leno","first_aired":706777200,"country":"United
+        States","overview":"The Tonight Show with Jay Leno is an American late-night
+        talk show currently hosted by Jay Leno, on NBC. It made its debut on May 25,
+        1992, following Johnny Carson''s retirement as host of The Tonight Show. The
+        nightly broadcast at 23:35 (Eastern) originates from NBC''s studios, in Burbank,
+        California.","runtime":60,"network":"NBC","air_day":"Daily","air_time":"11:35pm","certification":"","imdb_id":"tt0103569","tvdb_id":"70336","tvrage_id":"6247","images":{"poster":"http://trakt.us/images/posters/1052.jpg","fanart":"http://trakt.us/images/fanart/1052.jpg","banner":"http://trakt.us/images/banners/1052.jpg"},"genres":["Talk
+        Show","Comedy"]},"episode":{"season":17,"episode":151,"title":"Charlie Sheen,
+        Arianna Huffington, Lisa Hannigan","overview":"Charlie Sheen \"Two And A Half
+        Men\"; Arianna Huffington; Lisa Hannigan; Steve Schirripa, the Judgmental
+        Bastard. ","first_aired":1234944000,"url":"http://trakt.tv/show/the-tonight-show-with-jay-leno/season/17/episode/151","images":{"screen":"http://trakt.us/images/episodes/1052-17-151.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}},{"show":{"title":"Saturday
+        Night Live","year":1975,"url":"http://trakt.tv/show/saturday-night-live","first_aired":181378800,"country":"United
+        States","overview":"A weekly late-night 90-minute American sketch comedy/variety
+        show broadcast live from Studio 8H at the GE Building in New York''s Rockefeller
+        Center. The show is one of the longest-running network programs in American
+        television history and has launched careers for many major American comedy
+        stars of the last thirty years.","runtime":90,"network":"NBC","air_day":"Saturday","air_time":"11:30pm","certification":"TV-14","imdb_id":"tt0072562","tvdb_id":"76177","tvrage_id":"5098","images":{"poster":"http://trakt.us/images/posters/528.jpg","fanart":"http://trakt.us/images/fanart/528.jpg","banner":"http://trakt.us/images/banners/528.jpg"},"genres":["Comedy"]},"episode":{"season":21,"episode":2,"title":"Chevy
+        Chase/Lisa Loeb","overview":"Sketches include: \"\"NFL on NBC,\"\" \"\"The
+        Mark Fuhrman Show,\"\" \"\"Althea,\"\" \"\"Lobotol,\"\" \"\"The Blame Game,\"\"
+        \"\"Jim Breuer and Braveheart,\"\" \"\"Spade in America,\"\" and \"\"Fuzzy
+        Memories\"\".","first_aired":813049200,"url":"http://trakt.tv/show/saturday-night-live/season/21/episode/2","images":{"screen":"http://trakt.us/images/episodes/528-21-2.jpg"},"ratings":{"percentage":0,"votes":0,"loved":0,"hated":0}}}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:17:12 GMT
+recorded_with: VCR 2.3.0

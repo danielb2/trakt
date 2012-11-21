@@ -1,0 +1,41 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.trakt.tv/search/users.json/98b4ad78733f4aad798fdc2dece67085/infodump
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: 
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAyMSBOb3YgMjAxMiAwNDoxNzowMSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xOC0xfmRvdGRlYi4w
+    body:
+      encoding: US-ASCII
+      string: ! '[{"username":"infodump","protected":false,"full_name":null,"gender":null,"age":"","location":null,"about":null,"joined":1320907373,"avatar":"http://gravatar.com/avatar/563e0d071b69a2d3d0974f793efec94e.jpg?s=140&r=pg&d=http%3A%2F%2Ftrakt.us%2Fimages%2Favatar-large.jpg","url":"http://trakt.tv/user/infodump"}]'
+    http_version: 
+  recorded_at: Wed, 21 Nov 2012 04:17:14 GMT
+recorded_with: VCR 2.3.0
