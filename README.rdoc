@@ -38,6 +38,11 @@ This is a typical default setup
     trakt.search.movies "the shawshank redemption"
     trakt.search.shows "death note"
 
+=== And wait, there's more!
+
+Check the spec directory for the rest of the functionality and how to use it. I
+got lazy with documentation it seems.
+
 == Examples
 
 === Adding all your seen movies from a text file.
