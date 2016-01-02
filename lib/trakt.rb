@@ -1,5 +1,4 @@
 require "trakt/version"
-require 'awesome_print'
 require "json"
 require "excon"
 require "digest"

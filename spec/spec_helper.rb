@@ -1,6 +1,5 @@
 require "rspec"
 require "trakt"
-require "awesome_print"
 require "yaml"
 require "vcr"
 
