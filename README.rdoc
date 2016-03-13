@@ -2,6 +2,8 @@
 
 This is a Ruby API for the http://trakt.tv movie, tvshow service.
 
+__NOTE__: This is for the old API. New API uses oauth and such. Feel free to submit a PR to make things work here.
+
 == Installation
 
 Add this line to your application's Gemfile:
